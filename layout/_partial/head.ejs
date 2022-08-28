@@ -1,0 +1,39 @@
+<%
+var title = titlecase(page.title);
+if(page.title_name) title=titlecase(page.title_name)
+if (is_archive()){
+  title = theme.archive_tab_name ;
+} else if (is_category()){
+  title =   page.category;
+} else if (is_tag()){
+  title =   page.tag;
+}
+%>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><% if (title){ %>  <%= title %> | <% } %>   <%= theme.site_name%></title>
+  <meta name="description" content="<% if(page.description ) { %><%=page.description%><% } else {%><%=theme.site_description%><%}%>">
+  <!-- 标签页图标 -->
+  <%if(theme.icon!=undefined){%>
+  <link rel="shortcut icon" href="<%-theme.icon%>" type="image/x-icon">
+  <%}%>
+
+  <!-- 图标库 -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+  <!-- 动画库 -->
+  <% if(theme.style.animation.open ==true) {%>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/css/animate.css"/>
+  <% } %>
+  <!-- css文件 -->
+  <%- css('css/white') %>
+  <!-- 代码高亮 -->
+  <% if (config.highlight.enable != true) { %>
+    <% if (theme.plugins.highlightjs && theme.plugins.highlightjs.css) { %>
+      <%- css(theme.plugins.highlightjs.css) %>
+    <% } %>
+  <% } %>
+</head>
