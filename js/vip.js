@@ -8,7 +8,6 @@
 // @match        *
 // @grant        none
 // @namespace    https://pcrock.gitee.io/
-// @require      https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/js/TopBottom.js
 // ==/UserScript==
 
 //    VIP    //window.open("https://okjx.cc/?url=" + location.href, "_blank")};
