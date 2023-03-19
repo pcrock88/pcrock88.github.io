@@ -12,7 +12,8 @@ http://app.7en7.com/api.php/provide/vod/at/xml/,瞬间影视
 https://www.30dian.cn/api.php/provide/vod/at/xml/,创艺影视
 http://tv2.hykjtv.cn/api.php/provide/vod/at/xml/,海玉影视
 http://aliys.cn:90/api.php/provide/vod/at/xml/,阿里影视
-https://api.yparse.com/api/xml/m3u8,云播资源
+,
+{"api":"https://api.yparse.com/api/xml/m3u8","name":"云播资源","key":"34gsbY","group":"失效"},
 {"api":"https://www.inmi.app/api.php/provide/vod/at/xml/","name":"映迷资源","key":"3M3sbY","group":"失效"},
 {"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml/","name":"人人资源","key":"3TTrBF","group":"失效"},
 {"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml/","name":"爱酷影视","key":"Y54Gtj","group":"失效"},
