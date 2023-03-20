@@ -1,0 +1,21 @@
+{"sites":
+    [
+    {"key":"csp_biubiu_4K电影网",
+    "name":"🥒4K电影网〔XB〕",
+    "type":3,"api":"csp_XBiubiu",
+    "searchable":1,"quickSearch":1,
+    "ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/4K电影网.json",
+    "date":"2023-03-20 09:20:20"
+    }
+    {
+		"key": "量子资源",
+		"name": "量子资源",
+		"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+	}
+	]
+}
