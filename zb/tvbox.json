@@ -160,15 +160,12 @@
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"ext":"http://神器每日推送.tk/tok.txt","date":"2023-03-2009:20:20"},
 {"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","ext":"http://神器每日推送.tk/tok.txt","date":"2023-03-2009:20:20"}
 ],
-	"wallpaper": "http://www.dmtv.ml/mao/img.php",
-	"spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
-	"lives": [{
-		"group": "redirect",
-		"channels": [
+"wallpaper": "http://www.dmtv.ml/mao/img.php",
+"spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
+"lives": [{"group": "redirect","channels": [
 		{"name":"live1","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5kbXR2Lm1sL21hby9saXZlL20zdS50eHQ="]},
 		{"name":"live2","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMjM5MC8lRTUlQjAlOEYlRTYlQjIlQjMlRTUlQkMlQUYlRTUlQkMlQUYlRTclOUIlQjQlRTYlOTIlQUQudHh0P3NpZ249NHB1RnQwZF8xUnMyRVJMSGgwZ1JQa2NEX1RjX19LY05obzR0WElOVG1wbyUzRCUzQTA="]}
-		]
-	}],
+		]}],
 	"parses": [
 {"name":"聚合","type":"3","url":"Demo"},
 {"name":"并发","type":"2","url":"Parallel"},
