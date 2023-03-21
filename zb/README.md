@@ -31,6 +31,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json|f
 作者|仓库名|备注
 ----|----|----
 CatVodTVOfficial|[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)|TV Box源
+pvqogw|[AlphaTV](https://github.com/pvqogw/AlphaTV)|TV Box源
+99565558|[TVBox](https://gitee.com/cherry0532/tvbox)|TV Box源+接口
 Cyril0563|[TVbox_Free](https://github.com/Cyril0563/lanjing_live)|接口资源
 tv-player|[TvBox](https://github.com/tv-player/TvBox)|接口资源
 2hacc|[TVBox](https://github.com/2hacc/TVBox)|接口资源
@@ -38,7 +40,5 @@ xianyuyimu|[TVBOX-](https://github.com/xianyuyimu/TVBOX-)|接口资源
 Dong-learn9|[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)|接口资源
 yutian88881|[tvbox](https://github.com/yutian88881/tvbox)|接口资源
 hl128k|[tvbox](https://github.com/hl128k/tvbox)|接口资源
-99565558|[TVBox](https://gitee.com/cherry0532/tvbox)|TV Box源+接口
 ||[资源猫](https://www.zizhuge.cn/1734.html)|网页接口
 ||[接口展示](https://leevi0321.gitee.io/api/)|网页接口
-pvqogw|[AlphaTV](https://github.com/pvqogw/AlphaTV)|TV Box源
