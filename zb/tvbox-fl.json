@@ -3,7 +3,6 @@
 "spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"},
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄se仓库","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
 {"key":"csp_XBiu中文无码","name":"中文无码","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/zwwmxxx.json"},
 {"key":"csp_xb_国产传媒","name":"国产传媒","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/gccmxxx.json"},
@@ -53,7 +52,6 @@
 {"key":"*JAV名优","name":"*JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list"},{"key":"*Sm","name":"*Sm","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"*天堂福利","name":"*天堂福利","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable":0}
 ]
-
 
 //解析
 "parses": [
