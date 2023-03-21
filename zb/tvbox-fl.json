@@ -51,7 +51,7 @@
 {"key":"*秀se","name":"*秀se","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/at/xml","playUrl":"https://player.leyuzy.net/?url="},
 {"key":"*JAV名优","name":"*JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list"},{"key":"*Sm","name":"*Sm","type":0,"api":"https://api.maozyapi.com/inc/api.php"},
 {"key":"*天堂福利","name":"*天堂福利","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable":0}
-]
+],
 
 //解析
 "parses": [
