@@ -6,11 +6,8 @@
 "sites": [
 {"key":"drpy_js_喜马拉雅","name":"🐎喜马拉雅","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
 
-
 {"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
-
-
-{"key":"pcrock","name":"-----pcrock自用源-----","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
+{"key": "快播","name": "⏩️快播资源","type": 1,"api": "https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},{"key":"pcrock","name":"-----pcrock自用源-----"}
 ],
 //解析
 "parses": [
