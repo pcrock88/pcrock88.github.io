@@ -3,7 +3,7 @@
 "spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 
-"sites": [
+"sites":[
 {"key":"drpy_js_喜马拉雅","name":"🐎喜马拉雅","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
 
 
