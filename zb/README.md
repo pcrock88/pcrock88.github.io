@@ -1,6 +1,13 @@
-# TV Box仓库
+# 以下均源自互联网
 
 https://ghproxy.com/
+
+[接口1](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/biu.txt)
+[接口2](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt)
+
+[fl接口1](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json)
+[fl接口2](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-2.json)
+[fl接口3](https://ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json)
 |  作者  |  仓库  |
 |  ----  |  ----  |
 CatVodTVOfficial|[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
