@@ -2,7 +2,6 @@
 {
 "sites":[
 {"key":"drpy_js_喜马拉雅","name":"🐎喜马拉雅","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js"},
-# xml源
 {"key":"量子资源","name":"🐝量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"量子mp4","name":"🐝量子mp4","type":1,"api":"https://cj.lziapi.com/api.php/providedown/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"🐝金鹰资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
