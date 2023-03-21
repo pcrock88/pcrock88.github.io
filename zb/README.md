@@ -1,6 +1,6 @@
 # 以下均源自互联网
 
-接口（  https://ghproxy.com/  ）|备注
+接口（  https://ghproxy.com/  ）|类型
 ----|----
 https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/biu.txt|影视
 https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt|影视
@@ -63,15 +63,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-
 https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-2.json|fl
 https://ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json|fl
 
-
-
-作者|仓库
-----|----
+作者|仓库名|备注
+----|----|----
 CatVodTVOfficial|[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)|TV Box源
-Cyril0563|[TVbox_Free](https://github.com/Cyril0563/lanjing_live)
-tv-player|[TvBox](https://github.com/tv-player/TvBox)
-2hacc|[TVBox](https://github.com/2hacc/TVBox)
-xianyuyimu|[TVBOX-](https://github.com/xianyuyimu/TVBOX-)
-Dong-learn9|[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)
-yutian88881|[tvbox](https://github.com/yutian88881/tvbox)
-hl128k|[tvbox](https://github.com/hl128k/tvbox)
+Cyril0563|[TVbox_Free](https://github.com/Cyril0563/lanjing_live)|接口资源
+tv-player|[TvBox](https://github.com/tv-player/TvBox)|接口资源
+2hacc|[TVBox](https://github.com/2hacc/TVBox)|接口资源
+xianyuyimu|[TVBOX-](https://github.com/xianyuyimu/TVBOX-)|接口资源
+Dong-learn9|[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)|接口资源
+yutian88881|[tvbox](https://github.com/yutian88881/tvbox)|接口资源
+hl128k|[tvbox](https://github.com/hl128k/tvbox)|接口资源
