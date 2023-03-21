@@ -42,7 +42,7 @@
 {"key":"飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"🐝快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天翼资源","name":"🐝天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"pcrock","name":"-----pcrock自用源-----"}
+{"key":"pcrock","name":"-----pcrock自用源-----","playUrl":"","searchable":1,"quickSearch":1}
 ],
 
 //解析地址开始========================================================================================================
