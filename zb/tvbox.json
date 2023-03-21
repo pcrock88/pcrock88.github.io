@@ -1,9 +1,8 @@
 //以下内容为互联网收集，只为自用……
 {
-//"spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
-"spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
-//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+
 "sites": [
 {"key":"drpy_js_喜马拉雅","name":"🐎喜马拉雅","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js"},
 {"key":"量子资源","name":"🐝量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -41,10 +40,6 @@
 {"key":"天翼资源","name":"🐝天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"pcrock","name":"-----pcrock自用源-----","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
 ],
-
-
-"wallpaper": "http://www.dmtv.ml/mao/img.php",
-"spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 //解析
 "parses": [
 {"name":"聚合","type":"3","url":"Demo"},
