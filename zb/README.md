@@ -41,3 +41,4 @@ hl128k|[tvbox](https://github.com/hl128k/tvbox)|接口资源
 99565558|[TVBox](https://gitee.com/cherry0532/tvbox)|TV Box源+接口
 ||[资源猫](https://www.zizhuge.cn/1734.html)|网页接口
 ||[接口展示](https://leevi0321.gitee.io/api/)|网页接口
+pvqogw|[AlphaTV](https://github.com/pvqogw/AlphaTV)|TV Box源
