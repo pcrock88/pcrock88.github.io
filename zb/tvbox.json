@@ -12,8 +12,6 @@
 
 {"key":"Kuaikan","name":"🚀快看影视(优)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
-
 {"key":"pcrock","name":"-----pcrock自用源-----"}
 ],
 //解析
