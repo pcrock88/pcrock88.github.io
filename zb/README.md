@@ -1,6 +1,6 @@
-# 以下均源自互联网
+# 以下内容均源于互联网
 
-接口（  https://ghproxy.com/  ）|类型
+接口地址（  https://ghproxy.com/  ）|类型
 ----|----
 https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/biu.txt|影视
 https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt|影视
