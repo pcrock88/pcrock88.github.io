@@ -673,6 +673,8 @@
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"ext":"http://神器每日推送.tk/tok.txt","date":"2023-03-2009:20:20"},
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"ext":"http://神器每日推送.tk/tok.txt","date":"2023-03-2009:20:20"},
 {"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","ext":"http://神器每日推送.tk/tok.txt","date":"2023-03-2009:20:20"}
+
+]
   //解析地址开始========================================================================================================
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
