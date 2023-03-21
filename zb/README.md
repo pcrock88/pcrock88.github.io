@@ -38,4 +38,4 @@ xianyuyimu|[TVBOX-](https://github.com/xianyuyimu/TVBOX-)|接口资源
 Dong-learn9|[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)|接口资源
 yutian88881|[tvbox](https://github.com/yutian88881/tvbox)|接口资源
 hl128k|[tvbox](https://github.com/hl128k/tvbox)|接口资源
-资源猫|https://www.zizhuge.cn/1734.html|接口网页
+||[资源猫](https://www.zizhuge.cn/1734.html)|接口网页
