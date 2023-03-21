@@ -53,6 +53,9 @@
 {"key":"*天堂福利","name":"*天堂福利","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
+
+"wallpaper": "http://www.dmtv.ml/mao/img.php",
+"spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 //解析
 "parses": [
 {"name":"聚合","type":"3","url":"Demo"},
@@ -147,6 +150,4 @@
 	"success": 1,
 	"msg": "自动拉取数据成功!",
 	"function": "Python3.7.9"
-}
-]
 }
