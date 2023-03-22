@@ -1,4 +1,4 @@
-//以下内容为互联网收集，只为自用……{
+{
     "spider": "https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
@@ -105,8 +105,8 @@
             "ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js",
             "spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
         }
-    ]
-"parses": [
+    ],
+    "parses": [
         {
             "name": "聚合",
             "type": "3",
