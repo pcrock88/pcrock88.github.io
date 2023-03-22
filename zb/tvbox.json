@@ -1,9 +1,8 @@
 {
 "sites": [
     {"api":"csp_Kunyu77","name":"👒七七(SP)","key":"csp_77","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-    {"api":"csp_SP360","name":"🐝360(SP)","key":"360","type":3,"searchable":1,"quickSearch":1,"filterable":1},
     {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+    {"api":"csp_SP360","name":"🐝360(SP)","key":"360","type":3,"searchable":1,"quickSearch":1,"filterable":1},
     {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","name":"🐯虎牙直播","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
     {"api":"csp_XYQBiu","name":"🐬斗鱼直播","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
     {"api":"csp_Bili","name":"看演唱会","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json"},
