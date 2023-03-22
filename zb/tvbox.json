@@ -7,12 +7,12 @@
 {"key":"360","name":"🐝360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七(SP)","type": 3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"🚀快看(sp)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"苹果","name":"🍎苹果(优)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-//JS源---------------------------------------------------------------------------------------------------------------
+{"key":"苹果","name":"🍎苹果(sp)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"drpy_js_厂长资源","name":"🚔厂长资源","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/厂长资源.js"},
 {"key":"drpy_js_在线之家","name":"🖨在线之家","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/在线之家.js"},
 {"key":"drpy_js_天空影视","name":"✈️天空影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/天空影视.js"},
-//直播---------------------------------------------------------------------------------------------------------------
+
 {"key":"dr_虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
 {"key":"dr_JRKAN直播","name":"球赛直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
@@ -20,7 +20,11 @@
 ]
 //解析
 "parses": [
-{"name":"聚合","type":"3","url":"Demo"},{"name":"并发","type":"2","url":"Parallel"},{"name":"轮询","type":"2","url":"Sequence"},{"name":"呆萌","type":1,"url":"https://h5.freejson.xyz/player/?url=","date":"2023-03-20 09:20:15"},{"name":"Dmtv","type":1,"url":"http://www.dmtv.ml/293jx/xg.php?url=","date":"2023-03-20 09:20:15"},
+{"name":"聚合","type":"3","url":"Demo"},
+{"name":"并发","type":"2","url":"Parallel"},
+{"name":"轮询","type":"2","url":"Sequence"},
+{"name":"呆萌","type":1,"url":"https://h5.freejson.xyz/player/?url=","date":"2023-03-20 09:20:15"},
+{"name":"Dmtv","type":1,"url":"http://www.dmtv.ml/293jx/xg.php?url=","date":"2023-03-20 09:20:15"}
 ],
 "flags": ["youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "PPTV", "mgtv", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "wasu", "bilibili", "renrenmi", "xmm", "xigua", "m1905", "funshion", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "哔哩哔哩", "哔哩"],
 "ijk": [
