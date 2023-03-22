@@ -4,6 +4,7 @@
     {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"drpy_js_看看屋","name":"🏘︎看看屋","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看看屋.js"},
 
+{"key":"drpy_js_慢大浪","name":"🌊慢大浪","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/慢大浪.js"},
     {"api":"csp_SP360","name":"🐝360(SP)","key":"360","type":3,"searchable":1,"quickSearch":1,"filterable":1},
     {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","name":"🐯虎牙直播","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
     {"api":"csp_XYQBiu","name":"🐬斗鱼直播","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
