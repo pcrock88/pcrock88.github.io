@@ -15,6 +15,7 @@
 //解析
 "parses": [
 {"name":"聚合","type":"3","url":"Demo"},{"name":"并发","type":"2","url":"Parallel"},{"name":"轮询","type":"2","url":"Sequence"},{"name":"呆萌","type":1,"url":"https://h5.freejson.xyz/player/?url=","date":"2023-03-20 09:20:15"},{"name":"Dmtv","type":1,"url":"http://www.dmtv.ml/293jx/xg.php?url=","date":"2023-03-20 09:20:15"},
+//手动
 {"name":"OK","type":"3","url":"https://okjx.cc/?url="},
 {"name":"YUN","type":"3","url":"https://jx.yparse.com/index.php?url="}
 ],
