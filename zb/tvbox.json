@@ -4,7 +4,7 @@
 	"api":"csp_Kunyu77",
 	"key":"csp_77",
 	"name":"👒七七(SP)",
-      "type":3,
+	"type":3,
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1
@@ -12,7 +12,7 @@
 {
 	"api":"csp_Kuaikan",
 	"name":"🚀快看(sp)",
-      "key":"Kuaikan",
+	"key":"Kuaikan",
 	"type":3,
 	"searchable":1,
 	"quickSearch":1,
@@ -22,7 +22,7 @@
 	"api":"csp_SP360",
 	"key":"360",
 	"name":"🐝360(SP)",
-      "type":3,
+	"type":3,
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1
@@ -140,34 +140,6 @@
 	"name":"🐎喜马拉雅",
 	"key":"drpy_js_喜马拉雅",
 	"type":3
-},
-{
-	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/Missav.js",
-	"key": "drpy_js_Missav",
-	"name": "🎖‍Missav",
-	"type": 3
-},
-{
-	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/banan.js",
-	"key": "drpy_js_banan",
-	"name": "🎖‍banan",
-	"type": 3
-},
-{
-	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/吸瓜.js",
-      "key": "drpy_js_吸瓜",
-	"name": "🎖‍吸瓜",
-	"type": 3
-},
-{
-	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/朱古力.js",
-	"key": "drpy_js_朱古力",
-	"name": "🎖‍朱古力",
-	"type": 3
 }
           ],
 
