@@ -7,10 +7,10 @@ http://api.tiankongapi.com/api.php/provide/vod/at/xml,天空资源(xj)
 http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml,新浪资源(xj)
 http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml,八戒资源(xj)
 http://www.feifei67.com/api.php/provide/vod/at/xml,飞飞资源(xj)
-http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml,韩剧资源
+http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml,韩剧资源(xj)
 http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml,星辰资源(xj)
 http://www.kuaibozy.com/api.php/provide/vod/at/xml,快播资源(xj)
-http://www.tvyb02.com/api.php/provide/vod/at/xml.TVB云
+http://www.tvyb02.com/api.php/provide/vod/at/xml.TVB云(xj)
 http://www.zzrhgg.com/api.php/provide/vod/at/xml,飘花资源(xj)
 http://xydm.baicai.buzz/api.php/provide/vod/at/xml,小鸟动漫(xj)
 https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml,资源库综合(xj)
