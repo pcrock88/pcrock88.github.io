@@ -1,10 +1,10 @@
 {
 "sites": [
 	{
-		"api":"https://www.30dian.cn/api.php/provide/vod/at",
+		"api":"https://www.30dian.cn/api.php/provide/vod",
 		"key":"xml_创艺",
 		"name":"创艺影视",
-		"type":3,
+		"type":1,
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1
