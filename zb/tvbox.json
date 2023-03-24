@@ -30,145 +30,144 @@
 //JS源-----
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看看屋.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看看屋.js",
 	"key":"drpy_js_看看屋",
 	"name":"🏘︎看看屋",
-	"type":3,
-
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/慢大浪.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/慢大浪.js",
 	"key":"drpy_js_慢大浪",
 	"name":"🌊慢大浪",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看.js",
 	"key":"drpy_js_爱看",
 	"name":"💞爱看",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js",
 	"key":"drpy_js_孜然影视",
 	"name":"🥩孜然影视",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/B站影视.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/B站影视.js",
 	"key":"drpy_js_B站影视",
 	"name":"🚏B站影视",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/饭团影视.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/饭团影视.js",
 	"key":"drpy_js_饭团影视",
 	"name":"🍚饭团影视",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/真不卡.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/真不卡.js",
 	"key":"drpy_js_真不卡",
 	"name":"🗃真不卡",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/荐片.js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/荐片.js",
 	"key":"drpy_js_荐片",
 	"name":"🌊荐片",
-	"type":3,
+	"type":3
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/555影视[V2].js"
+	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/555影视[V2].js",
 	"key":"drpy_js_555影视[V2]",
 	"name":"🎦555影视[V2]",
-	"type":3,
+	"type":3
 },
 
 //直播-----
 {
 	"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"
+	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js",
 	"name":"🐯虎牙直播",
 	"key":"dr_虎牙直播",
 	"type":3,
 	"searchable":0,
 	"quickSearch":0,
-	"filterable":0,
+	"filterable":0
 },
 {
 	"api":"csp_XYQBiu",
-	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"
+	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json",
 	"name":"🐬斗鱼直播",
 	"key":"csp_XYQBiu_斗鱼",
 	"type":3,
 	"searchable":0,
 	"quickSearch":0,
-	"filterable":0,
+	"filterable":0
 },
 {
 	"api":"csp_Bili",
-	"ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json"
+	"ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json",
 	"name":"看演唱会",
 	"key":"csp_Biliych",
 	"type":3,
 	"searchable":0,
 	"quickSearch":0,
-	"filterable":1,
+	"filterable":1
 },
 {
 	"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
-	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"
+	"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js",
 	"name":"球赛直播",
 	"key":"dr_JRKAN直播",
 	"type":3,
 	"searchable":0,
 	"quickSearch":0,
-	"filterable":0,
+	"filterable":0
 },
 {
 	"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
 	"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js",
-	"spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
+	"spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 	"name":"🐎喜马拉雅",
 	"key":"drpy_js_喜马拉雅",
-	"type":3,
+	"type":3
 },
 {
 	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/Missav.js"
-      "key": "drpy_js_Missav",
+	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/Missav.js",
+	"key": "drpy_js_Missav",
 	"name": "🎖‍Missav",
-	"type": 3,
+	"type": 3
 },
 {
 	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/banan.js"
-      "key": "drpy_js_banan",
+	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/banan.js",
+	"key": "drpy_js_banan",
 	"name": "🎖‍banan",
-	"type": 3,
+	"type": 3
 },
 {
 	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/吸瓜.js"
+	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/吸瓜.js",
       "key": "drpy_js_吸瓜",
 	"name": "🎖‍吸瓜",
-	"type": 3,
+	"type": 3
 },
 {
 	"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/朱古力.js"
-      "key": "drpy_js_朱古力",
+	"ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/朱古力.js",
+	"key": "drpy_js_朱古力",
 	"name": "🎖‍朱古力",
-	"type": 3,
+	"type": 3
 }
           ],
 
