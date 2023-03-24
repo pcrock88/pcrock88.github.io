@@ -1,3 +1,5 @@
+//----(http.*),(.*)
+//----{"api":"\1","name":"\2","key":"\2"},
 [
 {"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃"},
 {"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源"},
