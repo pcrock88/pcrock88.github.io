@@ -1,101 +1,98 @@
+https://www.30dian.cn/api.php/provide/vod/at/xml,创艺影视(xj)
+http://app.7en7.com/api.php/provide/vod/at/xml,瞬间影视(xj)
+http://175.178.7.35:2020/api.php/provide/vod/at/xml,龙腾资源(xj)
+http://47.113.126.237:1234/api.php/provide/vod/at/xml,每天看看(xj)
+http://api.nguonphim.tv/api.php/provide/vod/at/xml,南国影源(xj)
+http://api.tiankongapi.com/api.php/provide/vod/at/xml,天空资源(xj)
+http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml,新浪资源(xj)
+http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml,八戒资源(xj)
+http://www.feifei67.com/api.php/provide/vod/at/xml,飞飞资源(xj)
+http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml,韩剧资源
+http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml,星辰资源(xj)
+http://www.kuaibozy.com/api.php/provide/vod/at/xml,快播资源(xj)
+http://www.tvyb02.com/api.php/provide/vod/at/xml.TVB云
+http://www.zzrhgg.com/api.php/provide/vod/at/xml,飘花资源(xj)
+http://xydm.baicai.buzz/api.php/provide/vod/at/xml,小鸟动漫(xj)
+https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml,资源库综合(xj)
+https://api.apibdzy.com/api.php/provide/vod/at/xml,百度综合(xj)
+https://api.foxzyapi.com/api.php/provide/vod/from/foxyun/at/xml,FOX资源(xj)
+https://api.guangsuapi.com/api.php/provide/vod/at/xml,光速资源(xj)
+https://api.kuapi.cc/api.php/provide/vod/at/xml,酷点资源(xj)
+https://api.tomcaiji.com/api.php/provide/vod/at/xml,TOM资源(xj)
+https://api.ukuapi.com/api.php/provide/vod/at/xml,U酷资源(xj)
+http://umao.ml/api.php/provide/vod/at/xml,U猫资源(xj)
+https://api.wujinapi.net/api.php/provide/vod/at/xml,无尽资源(xj)
+https://api.yulecj.com/api.php/provide/vod/at/xml,鱼乐资源(xj)
+https://caiji.68zyapi.com/api.php/provide/vod/at/xml,68资源(xj)
+https://caiji.kczyapi.com/api.php/provide/vod/at/xml,快车资源(xj)
+https://cj.lziapi.com/api.php/provide/vod/at/xml,量子综合(xj)
+https://cj.lziapi.com/api.php/providedown/vod/at/xml,量子mp4(xj)
+https://cj.vodimg.top/api.php/provide/vod/at/xml,影图资源(xj)
+https://ckzy.me/api.php/provide/vod/at/xml,CK资源(xj)
+https://collect.wolongzyw.com/api.php/provide/vod/at/xml,卧龙综合(xj)
+https://jyzyapi.com/provide/vod/at/xml,金鹰综合(xj)
+https://kudianzy.com/api.php/provide/vod/at/xml,酷点资源(xj)
+https://lehootv.com/api.php/provide/vod/at/xml,乐活影视(xj)
+https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml,樱花资源(xj)
+https://p2100.net/api.php/provide/vod/at/xml,飘零影院
+https://sdzyapi.com/api.php/provide/vod/at/xml,闪电资源(xj)
+https://www.77hanju.com/api.php/provide/vod/at/xml,77韩剧(xj)
+https://www.911ysw.top/tianyi.php/provide/vod/at/xml,天翼资源(xj)
+https://www.feisuzyapi.com/api.php/provide/vod/at/xml,飞速综合(xj)
+https://www.ff9.top/api.php/provide/vod/at/xml,FF9资源(xj)
+https://www.hongniuzy2.com/api.php/provide/vod/at/xml,红牛资源(xj)
+https://www.inmi.app/api.php/provide/vod/at/xml,映迷(xj)
+https://www.rrvipw.com/api.php/provide/vod/at/xml,人人影视(xj)
+https://www.zycaiji.net:7788/api.php/provide/vod/at/xml,M3U8资源(xj)
+https://速影128.xyz/inc/api.php,速影
+http://aliys.cn:90/api.php/provide/vod/at/xml,阿里影视(xj)
+https://www.zhanlangbu.com/api.php/provide/vod/at/xml,爱酷影视(xj)
 
-{"key":"量子资源","name":"🐝量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"量子mp4","name":"🐝量子mp4","type":1,"api":"https://cj.lziapi.com/api.php/providedown/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"金鹰资源","name":"🐝金鹰资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"卧龙综合","name":"🐝卧龙综合","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"资源库","name":"🐝资 源 库","type":1,"api":"https://api.1080zyku.com/inc/ldg_api_all.php","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"天空资源","name":"🐝天空资源","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"飞速资源","name":"🐝飞速资源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"八戒资源","name":"🐝八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/bjm3u8.php/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"快播资源","name":"🐝快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"U猫资源","name":"🐝U猫资源","type":1,"api":"http://umao.ml/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"68资源","name":"🐝68资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"39影视","name":"🐝39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"速影资源","name":"🐝速影资源","type":1,"api":"https://速影128.xyz/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"樱花资源","name":"🐝樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"飞飞资源","name":"🐝飞飞资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"U酷资源","name":"🐝U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"酷点资源","name":"🐝酷点资源","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"韩剧资源","name":"🐝韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/api.php","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"77韩剧","name":"🐝77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"🐝乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"TOM资源","name":"🐝TOM资源","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"百度资源","name":"🐝百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"星辰资源","name":"🐝星辰资源","type":1,"api":"http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://api.yulecj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"飘零影院","name":"🐝飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"🐝闪电资源","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"越南影源","name":"🐝越南影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"快车资源","name":"🐝快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"天翼资源","name":"🐝天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+http://124.220.183.81:83/api.php/provide/vod/at/xml,干饭影视-官采(xj)
+http://anltv.cn/api.php/provide/vod/at/xml,忆梦-官采(xj)
+http://vipmv.cc/api.php/provide/vod/at/xml,天堂资源-官采(xj)
+https://www.zhanlangbu.com/api.php/provide/vod/at/xml,爱酷影视-官采(xj)
+http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,小猫咪-官采
 
-
-
-
-http://175.178.7.35:2020/api.php/provide/vod/at/xml/,龙腾资源
-http://app.ishen520.com/api.php/v1.vod/,看剧吧
-https://api.ylzy1.com/api.php/provide/vod/at/xml/,鱼乐资源
-https://taopianapi.com/home/cjapi/as/mc/vod/at/xml/,淘片资源
-https://www.inmi.app/api.php/provide/vod/at/xml/,映迷
-https://www.rrvipw.com/api.php/provide/vod/at/xml/,人人影视
-https://www.zycaiji.net:7788/api.php/provide/vod/,M3U8资源
-https://zy.hikan.xyz/api.php/provide/vod/at/xml/,看看资源
-http://www.hanjuzy.com/inc/api.php,韩剧资源
-http://umao.ml/api.php/provide/vod/at/xml/,U猫资源
-http://app.7en7.com/api.php/provide/vod/at/xml/,瞬间影视
-https://www.30dian.cn/api.php/provide/vod/at/xml/,创艺影视
-http://tv2.hykjtv.cn/api.php/provide/vod/at/xml/,海玉影视
-http://aliys.cn:90/api.php/provide/vod/at/xml/,阿里影视
-,
-{"api":"https://api.yparse.com/api/xml/m3u8","name":"云播资源","key":"34gsbY","group":"失效"},
-{"api":"https://www.inmi.app/api.php/provide/vod/at/xml/","name":"映迷资源","key":"3M3sbY","group":"失效"},
-{"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml/","name":"人人资源","key":"3TTrBF","group":"失效"},
-{"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml/","name":"爱酷影视","key":"Y54Gtj","group":"失效"},
-{"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml/","name":"看看资源","key":"6SnU4z","group":"失效"},
-{"api":"https://www.30dian.cn/api.php/provide/vod/at/xml/","name":"创艺影视","key":"B5tY4R","group":"失效"},
-{"api":"https://taopianapi.com/home/cjapi/at/mc/vod/xml/","name":"淘片综合","key":"s3YHTa","group":"失效"},
-{"api":"https://api.yparse.com/api/xml/m3u8","name":"云播资源","key":"279317","group":"失效"},
-{"api":"https://api.yikanapi.com/api.php/provide/vod/at/xml/","name":"易看资源","key":"hCAX8U","group":"失效"},
-{"api":"http://app.7en7.com/api.php/provide/vod/at/xml/","name":"瞬间影视","key":"F4tY3j","group":"失效"},
-{"api":"http://175.178.7.35:2020/api.php/provide/vod/at/xml/","name":"龙腾资源","key":"sp6fXN","group":"失效"},
-{"api":"http://tv2.hykjtv.cn/api.php/provide/vod/at/xml/","name":"海玉影视","key":"YrR4eT","group":"失效"},
-{"api":"http://aliys.cn:90/api.php/provide/vod/at/xml/","name":"阿里影视","key":"Ii6ugY","group":"失效"}
-
-{"api":"http://f2dcj6.com/sapi/?ac=videolist","name":"富二代+","key":"BSIOGd","group":"18+ 失效"},
-{"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml/","name":"点点娱乐+","key":"ZFZ0G6","group":"18+ 失效"},
-{"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml/","name":"小姐姐资源+","key":"TVkyY5","group":"18+ 失效"},
-{"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml/","name":"大MM+","key":"H81t8a","group":"18+ 失效"},
-{"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml/","name":"夜夜撸+","key":"qScaJe","group":"18+ 失效"},
-{"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml/","name":"AV集中淫+","key":"YNgRck","group":"18+ 失效"},
-{"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml/","name":"黄瓜TV资源+","key":"Krg7fR","group":"18+ 失效"},
-{"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml/","name":"快播盒子+","key":"2LURWf","group":"18+ 失效"},
-{"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml/","name":"大香蕉资源+","key":"NYyM4l","group":"18+ 失效"},
-{"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml/","name":"久久热在线+","key":"rsSt9k","group":"18+ 失效"},
-{"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml/","name":"青青草视频+","key":"EPf6TF","group":"18+ 失效"},
-{"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml/","name":"麻豆视频+","key":"HdFvnl","group":"18+ 失效"},
-{"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/","name":"一本道资源+","key":"OtGW1j","group":"18+ 失效"},
-{"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/","name":"草榴视频+","key":"Bp3JKT","group":"18+ 失效"},
-{"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/","name":"亚洲成人在线+","key":"JT1Lmo","group":"18+ 失效"},
-{"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml/","name":"精工厂资源+","key":"9CdArk","group":"18+ 失效"},
-{"api":"https://cj.apiabzy.com/api.php/provide/vod/at/xml","name":"爱播资源+","key":"E8392D","group":"18+ 失效"},
-{"api":"https://caiji.caomeiapi.com/inc/api.php","name":"草莓资源+","key":"6F32CB","group":"18+ 失效"},
-{"api":"https://caiji.523zyw.com/inc/seacmsapi.php","name":"523资源+","key":"D5195F","group":"18+ 失效"},
-{"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","name":"影库资源+","key":"Ro2A1r","group":"18+ 失效"},
-{"api":"https://api.kudian70.com/api.php/provide/vod/at/json","name":"酷伦理+","key":"wKsWJT","group":"18+ 失效"},
-{"api":"https://api.kdapi.info/api.php/provide/vod/at/json","name":"酷豆2+","key":"54gfvo","group":"18+ 失效"},
-{"api":"https://91md.me/api.php/provide/vod/","name":"91麻豆+","key":"CLikKX","group":"18+ 失效"},
-{"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml/","name":"52AVAV+","key":"HAdIOg","group":"18+ 失效"},
-{"api":"https://156.249.29.8/inc/apijson_vod.php","name":"蛋蛋视频+","key":"rDSjcl","group":"18+ 失效"},
-{"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml/","name":"大屌丝资源+","key":"5TnIND","group":"18+ 失效"},
-{"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml/","name":"我要啪啪+","key":"sHGOCh","group":"18+ 失效"},
-{"api":"http://m.7777688.com/inc/api.php","name":"76色色+","key":"DE7973","group":"18+ 失效"},
-{"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml/","name":"鲍鱼AV+","key":"uB4ROI","group":"18+ 失效"},
-{"api":"https://apihjzy.com/api.php/Seacms/vod/at/xml","name":"花椒资源+","key":"A892FE","group":"18+ 失效"},
-{"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml/","name":"屌丝资源+","key":"WSjhTL","group":"18+ 失效"}
+http://99zywcj.com/inc/sapi.php?ac=videolist,+玖玖
+http://bttcj.com/inc/sapi.php,bt资源
+http://f2dcj6.com/sapi/?ac=videolist,+富二代
+http://fhapi9.com/api.php/provide/vod/at/xml,+番号资源(xj)
+http://lbapiby.com/api.php/provide/vod/at/xml,+AIvin(xj)
+http://mygzycj.com/api.php?ac=list,+JAV名优
+http://secj8.com/inc/sapi.php?ac=videolist,+SS资源
+http://wmcj8.com/inc/sapi.php,+环亚资源
+http://www.ggmmzy.com:9999/inc/xml,+哥妹资源
+http://zmcj88.com/api?ac=list,+泡芙资源
+https://156.249.29.8/inc/api.php/provide/vod/at/xml,+蛋蛋视频
+https://api.apilyzy.com/api.php/provide/vod/at/xml,+老鸭资源(xj)
+https://api.kudian70.com/api.php/provide/vod/at/xml,+酷伦理(xj)
+https://api.maozyapi.com/inc/api.php/provide/vod/at/xml,+Sm资源(xj)
+https://api.maozyapi.com/inc/api.php/provide/vod/at/xml,+色猫资源(xj)
+https://api.xiuseapi.com/api.php/provide/vod/at/xml,+秀se资源(xj)
+https://api.ykapi.net/api.php/provide/vod/at/xml,+影库资源(xj)
+https://apittzy.com/api.php/provide/vod/at/xml,+探探资源(xj)
+https://caiji.huakuiapi.com/inc/api.php/provide/vod/at/xml,+花魁资源(xj)
+https://caiji.naichaapi.com/inc/api.php/provide/vod/at/xml,+奶茶资源(xj)
+https://caiji.putaozy.net/inc/api.php/provide/vod/at/xml,+葡萄资源(xj)
+https://dadiapi.com/api.php/provide/vod/at/xml,+大地资源(xj)
+https://jializyzapi.com/api.php/provide/vod/at/xml,+佳丽(xj)
+https://kkzy.me/api.php/provide/vod/at/xml,+KK资源(xj)
+https://kudouzy.com/api.php/provide/vod/at/xml,+酷豆资源(xj)
+https://api.kdapi.info/api.php/provide/vod/at/xml,+酷豆2
+https://lbapi9.com/api.php/provide/vod/at/xml,+乐播资源(xj)
+https://sewozyapi.com/api.php/provide/vod/at/xml,+色窝资源(xj)
+https://shayuapi.com/api.php/provide/vod/at/xml,+鲨鱼资源(xj)
+https://siwazyw.cc/api.php/provide/vod/at/xml,+丝袜资源(xj)
+https://www.gdlsp.com/api/xml.php,+香奶儿资源
+https://www.kxgav.com/api/xml.php,+白嫖资源
+https://www.msnii.com/api/xml.php,+袜子资源
+https://www.pgxdy.com/api/xml.php,+AV资源
+https://www.xrbsp.com/api/xml.php,+饮水机
+https://api.yikanapi.com/api.php/provide/vod/at/xml,+易看资源(xj)
+https://caiji.caomeiapi.com/inc/api.php/provide/vod/at/xml,+草莓资源(xj)
+https://caiji.523zyw.com/inc/seacmsapi.php,+523资源(xj)
+https://91md.me/api.php/provide/vod/at/xml,+91麻豆(xj)
 
 1,https://0yefiks35y.motorjn.com/20230116/m8RDXtlG/index.m3u8
 2,https://0yefiks35y.motorjn.com/20221230/9qf5SMaV/index.m3u8
