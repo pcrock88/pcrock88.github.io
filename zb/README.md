@@ -1,9 +1,7 @@
 # 以下内容均源于互联网
 https://ghproxy.com/
 
-格式化
-
-\{\r\n.*.*\r\n,*\sname: '(.*)',\r\n.*\r\n.*api: '(http.*)',\r\n.*\r\n.*\r\n\}|\2,\1
+格式化：\{\r\n.*.*\r\n,*\sname: '(.*)',\r\n.*\r\n.*api: '(http.*)',\r\n.*\r\n.*\r\n\}|\2,\1
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
 ----|----
