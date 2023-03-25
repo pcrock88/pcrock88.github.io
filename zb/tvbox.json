@@ -63,7 +63,7 @@
  {"api":"http://124.220.183.81:83/api.php/provide/vod","name":"干饭-官采(xj)","key":"干饭-官采(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
  {"api":"http://anltv.cn/api.php/provide/vod","name":"忆梦-官采(xj)","key":"忆梦-官采(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
  {"api":"http://vipmv.cc/api.php/provide/vod","name":"天堂-官采(xj)","key":"天堂-官采(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
- {"api":"http://zy.xiaomaomi.cc/api.php/provide/vod","name":"小猫咪-官采","key":"小猫咪-官采","type":1,"searchable":1,"quickSearch":1,"filterable":1}
+ {"api":"http://zy.xiaomaomi.cc/api.php/provide/vod","name":"小猫咪-官采","key":"小猫咪-官采","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //JS源-----
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看影院.js","key":"drpy_js_爱看影院","name":"🌵爱看影院","type":3},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/冷曦影视.js","key":"drpy_js_冷曦影视","name":"🥶冷曦影视","type":3},
