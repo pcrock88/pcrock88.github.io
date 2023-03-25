@@ -119,7 +119,6 @@ https://kkzy.me/api.php/provide/vod/at/xml,+KK资源(xj)
 https://kudouzy.com/api.php/provide/vod/at/xml,+酷豆(xj)
 https://lbapi9.com/api.php/provide/vod/at/xml,+乐播(xj)
 https://mgzyz1.com/api.php/provide/vod/,+芒果
-https://sewozyapi.com/api.php/provide/vod,se窝
 https://sewozyapi.com/api.php/provide/vod/at/xml,+色窝(xj)
 https://shayuapi.com/api.php/provide/vod/at/xml,+鲨鱼(xj)
 https://siwazyw.cc/api.php/provide/vod/at/xml,+丝袜(xj)
