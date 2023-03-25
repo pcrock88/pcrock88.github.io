@@ -6,6 +6,25 @@
 
 //XML-----
 {"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod","name":"资源库(xj)","key":"资源库(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+
+{"api":"http://175.178.7.35:2020/api.php/provide/vod/at/xml","name":"龙腾(xj)","key":"龙腾(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"天天看(xj)","key":"天天看(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml","name":"阿里(xj)","key":"阿里(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://api.nguonphim.tv/api.php/provide/vod/at/xml","name":"南国(xj)","key":"南国(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://api.tiankongapi.com/api.php/provide/vod/at/xml","name":"天空(xj)","key":"天空(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml","name":"新浪(xj)","key":"新浪(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://app.7en7.com/api.php/provide/vod/at/xml","name":"瞬间(xj)","key":"瞬间(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"八戒(xj)","key":"八戒(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://umao.ml/api.php/provide/vod/at/xml","name":"U猫(xj)","key":"U猫(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.feifei67.com/api.php/provide/vod/at/xml","name":"飞飞(xj)","key":"飞飞(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml","name":"韩剧(xj)","key":"韩剧(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml","name":"星辰(xj)","key":"星辰(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml","name":"快播(xj)","key":"快播(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.tvyb02.com/api.php/provide/vod/at/xml","name":"TVB云(xj)","key":"TVB云(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://www.zzrhgg.com/api.php/provide/vod/at/xml","name":"飘花(xj)","key":"飘花(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+ {"api":"http://xydm.baicai.buzz/api.php/provide/vod/at/xml","name":"小鸟动漫(xj)","key":"小鸟动漫(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 //JS源-----
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看影院.js","key":"drpy_js_爱看影院","name":"🌵爱看影院","type":3},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/冷曦影视.js","key":"drpy_js_冷曦影视","name":"🥶冷曦影视","type":3},
