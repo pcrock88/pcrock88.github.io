@@ -5,7 +5,7 @@
 {"api":"csp_SP360","key":"360","name":"🐝360(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 //XML-----
-{"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml","name":"资源库(xj)","key":"资源库(xj)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod","name":"资源库(xj)","key":"资源库(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 //JS源-----
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看影院.js","key":"drpy_js_爱看影院","name":"🌵爱看影院","type":3},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/冷曦影视.js","key":"drpy_js_冷曦影视","name":"🥶冷曦影视","type":3},
