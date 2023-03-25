@@ -78,5 +78,5 @@
 {"api":"https://www.pgxdy.com/api/xml.php","name":"+AV资源","key":"+AV资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"https://www.xrbsp.com/api/xml.php","name":"+饮水机","key":"+饮水机","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","name":"+小姐姐","key":"+小姐姐","type":0,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","name":"+点娱","key":"+点娱","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+{"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","name":"+点娱","key":"+点娱","type":0,"searchable":1,"quickSearch":1,"filterable":0}
 ]
