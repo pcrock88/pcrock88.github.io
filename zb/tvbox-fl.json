@@ -3,16 +3,6 @@
 "spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
-{
-		"key": "csp_Alist1",
-		"name": " 微信公众号【电视免VIP】专用接口",
-		"type": 3,
-		"api": "csp_Alist",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "9t$https://drive.9t.ee#"
-	},
 	{
 		"key": "乐",
 		"name": "乐",
