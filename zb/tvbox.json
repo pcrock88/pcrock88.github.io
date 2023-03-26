@@ -2,7 +2,8 @@
 "sites": [
 {"api":"csp_Kunyu77","key":"csp_77","name":"👒七七(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_SP360","key":"360","name":"🐝360(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+
+//{"api":"csp_SP360","key":"360","name":"🐝360(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 //XML-----
 {"api":"https://www.rrvipw.com/api.php/provide/vod","name":"s-人人(xj)","key":"人人(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
