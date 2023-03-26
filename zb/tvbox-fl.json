@@ -10,7 +10,7 @@
 {"api":"http://f2dcj6.com/sapi/?ac=videolist","name":"+富二代","key":"+富二代","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://fhapi9.com/api.php/provide/vod/at/xml","name":"+番号(xj)","key":"+番号(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://lbapiby.com/api.php/provide/vod/at/xml","name":"+AIvin(xj)","key":"+AIvin(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"http://m.7777688.com/inc/apijson.php","name":"+AVZY6888","key":"+AVZY6888","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+//{"api":"http://m.7777688.com/inc/apijson.php","name":"+AVZY6888","key":"+AVZY6888","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://mygzycj.com/api.php?ac=list","name":"+JAV名优","key":"+JAV名优","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","name":"+se屌丝","key":"+se屌丝","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://secj8.com/inc/sapi.php?ac=videolist","name":"+SS资源","key":"+SS资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
