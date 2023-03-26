@@ -5,8 +5,7 @@
 
 
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"}, 
- {"key":"影图","name":"💢影图〔JSON〕","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"date":"2023-03-2009:20:20"}, 
- {"key":"小苹果","name":"🍎小苹果(优)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 //{"api":"csp_SP360","key":"360","name":"🐝360(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 //XML-----
