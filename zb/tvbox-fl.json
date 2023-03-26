@@ -1,8 +1,8 @@
 //以下内容为互联网收集，只为自用……
 {
 "sites": [
-{"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃","type":0,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+//{"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+//{"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"+99采集","key":"+99采集","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://bttcj.com/inc/sapi.php","name":"+bt资源","key":"+bt资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","name":"+鲍鱼AV","key":"+鲍鱼AV","type":0,"searchable":1,"quickSearch":1,"filterable":0},
