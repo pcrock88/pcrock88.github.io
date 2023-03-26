@@ -25,7 +25,10 @@
 
 {"api":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","name":"003","key":"003","type":1,"searchable":1,"quickSearch":1,"filterable":1},   
 
- https://app.shuhai99.com/api.php/v1.vod 
+
+{"api":"https://app.shuhai99.com/api.php/v1.vod","name":"010","key":"010","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+  
+
 {"api":"https://www.jiajia.pub/api.php/v1.vod","name":"002","key":"002","type":1,"searchable":1,"quickSearch":1,"filterable":1}, 
   
 
