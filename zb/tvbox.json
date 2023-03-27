@@ -4,9 +4,6 @@
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
 //测试
-{"api":"https://lehootv.com/api.php/provide/vod","name":"03","key":"03","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://cj.vodimg.top/api.php/provide/vod","name":"04","key":"04","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://caiji.kczyapi.com/api.php/provide/vod","name":"05","key":"05","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.yparse.com/api/json","name":"06","key":"06","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.ylzy1.com/api.php/provide/vod","name":"07","key":"07","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.jisubt.com/videos","name":"08","key":"08","type":1,"searchable":1,"quickSearch":1,"filterable":1},
