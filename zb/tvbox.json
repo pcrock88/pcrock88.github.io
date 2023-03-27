@@ -9,7 +9,6 @@
 {"api":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod","name":"03","key":"03","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://dapi.pntao.com/api.php/v1.vod","name":"04","key":"04","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://v.i7yc.cn/api.php/v1.vod","name":"05","key":"05","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","name":"06","key":"06","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://app.shuhai99.com/api.php/v1.vod","name":"07","key":"07","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.jiajia.pub/api.php/v1.vod","name":"08","key":"08","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://yingkudy.com/lvdou_api.php/v1.vod","name":"09","key":"09","type":1,"searchable":1,"quickSearch":1,"filterable":1},
