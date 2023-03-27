@@ -2,9 +2,8 @@
 "sites":[
 {"api":"csp_Kunyu77","key":"csp_77","name":"👒七七(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Czsapp","name":"厂长〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/cs.jar"},//测试-----
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"pcrock$https://pcrock88.github.io/zb/live.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
-
+{"key":"Alist_DR","name":"🎑Alist DR","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/txt/json/alist.json;50;video"},
 //JS源-----
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看影院.js","key":"drpy_js_爱看影院","name":"🌵爱看影院","type":3},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/冷曦影视.js","key":"drpy_js_冷曦影视","name":"🥶冷曦影视","type":3},
