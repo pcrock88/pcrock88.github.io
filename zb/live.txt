@@ -1,3 +1,15 @@
+CCTV,#genre#
+CCTV1,https://tv.cctv.com/live/cctv1/
+CCTV2,https://tv.cctv.com/live/cctv2/
+KMFM,#genre#
+FM91.8,http://live.xmcdn.com/live/903/64.m3u8
+FM97,http://live.xmcdn.com/live/904/64.m3u8
+FM105.8,http://live.xmcdn.com/live/905/64.m3u8
+FM95.4,http://live.xmcdn.com/live/906/64.m3u8
+FM102.8,http://live.xmcdn.com/live/907/64.m3u8
+FM105,http://live.xmcdn.com/live/908/64.m3u8
+FM88.7,http://live.xmcdn.com/live/909/64.m3u8
+FM100.8,http://live.xmcdn.com/live/910/64.m3u8
 林正英,#genre#
 僵尸叔叔,https://dow.dowlzi.com/20220404/871_a85e594d/僵尸叔叔.mp4
 僵尸先生,https://dow.dowlz12.com/20230218/10424_d061d344/僵尸先生国语.mp4
