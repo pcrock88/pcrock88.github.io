@@ -55,4 +55,23 @@
 粉红豹,https://cdn3.vipzyk-video.com/20220509/18050_af5b8ea6/index.m3u8
 宇宙追缉令,https://dow.dowlz10.com/20230124/13727_fe289ca0/宇宙追缉令.The.One.2001.英.mp4
 
+速度与激情,#genre#
+速度与激情1,https://dow.dowlzi.com/20220323/284_35fef950/速度与激情1.mp4
+速度与激情2,https://dow.dowlzi.com/20220323/286_68862487/速度与激情2.mp4
+速度与激情3,https://dow.dowlzi.com/20220323/285_7bebc56e/速度与激情3.mp4
+速度与激情4,https://dow.dowlz5.com/20220524/6644_bf29b55d/速度与激情4.Fast.And.Furious.2009..mp4
+速度与激情5,https://dow.dowlzi.com/20220323/288_f0bf82cb/速度与激情5.mp4
+速度与激情6,https://dow.dowlzi.com/20220323/287_d6b697b6/速度与激情6.mp4
+速度与激情7,https://dow.dowlzi.com/20220323/289_785d7c5e/速度与激情7.mp4
+速度与激情8,https://dow.dowlzi.com/20220323/290_730f3ba8/速度与激情8.mp4
+速度与激情9,https://dow.dowlz8.com/20221128/33226_f322ed83/速度与激情9.mp4
+速度与激情：特别行动,https://vod1.bdzybf7.com/20220517/5j4zS0A3/index.m3u8
+
+变形金刚,#genre#
+变形金刚1,https://dow.dowlzi.com/20220401/1777_76adab43/变形金刚2007.mp4
+变形金刚2,https://dow.dowlz2.com//20220416/3611_94df2ee6/变形金刚2：卷土重来.Transformers.Revenge.Of.The.Fallen.2009.mp4
+变形金刚3,https://dow.dowlzi.com/20220405/1185_b164854d/变形金刚3.2011.mp4
+变形金刚4,https://dow.dowlz2.com//20220416/3610_704c196e/变形金刚4：绝迹重生.Transformers.Age.of.Extinction.2014.mp4
+变形金刚5,https://dow.dowlz2.com//20220416/3604_f65a2240/变形金刚5：最后的骑士.Transformers.The.Last.Knight.2017.mp4
+变形金刚大电影,https://dow.dowlz2.com//20220416/3622_783f0db0/变形金刚大电影.The.Transformers.The.Movie.1986.mp4
 
