@@ -3,9 +3,8 @@
 {"api":"csp_Kunyu77","key":"csp_77","name":"👒七七(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
-//测试
-{"api":"https://api.ylzy1.com/api.php/provide/vod","name":"07","key":"07","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://sdzyapi.com/api.php/provide/vod","name":"13","key":"3","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+//测试-----
+
 //JS源-----
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看影院.js","key":"drpy_js_爱看影院","name":"🌵爱看影院","type":3},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/冷曦影视.js","key":"drpy_js_冷曦影视","name":"🥶冷曦影视","type":3},
@@ -65,6 +64,8 @@
 {"api":"https://www.inmi.app/api.php/provide/vod","name":"映迷(xj)","key":"映迷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod","name":"资源库(xj)","key":"资源库(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://175.178.7.35:2020/api.php/provide/vod","name":"龙腾(xj)","key":"龙腾(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://api.ylzy1.com/api.php/provide/vod","name":"影乐","key":"影乐","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://sdzyapi.com/api.php/provide/vod","name":"速度","key":"速度","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //-----慢
 {"api":"https://ckzy.me/api.php/provide/vod","name":"CK(xj)","key":"CK(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod","name":"天天看(xj)","key":"天天看(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
