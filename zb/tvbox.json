@@ -4,8 +4,6 @@
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
 //测试
-{"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","name":"淘片","key":"淘片","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://p2100.net/api.php/provide/vod","name":"01","key":"01","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://m3u8.apiyhzy.com/api.php/provide/vod","name":"02","key":"02","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://lehootv.com/api.php/provide/vod","name":"03","key":"03","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.vodimg.top/api.php/provide/vod","name":"04","key":"04","type":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -99,6 +97,7 @@
 {"api":"https://www.zhanlangbu.com/api.php/provide/vod","name":"爱酷(xj)","key":"爱酷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod","name":"M3U8(xj)","key":"M3U8(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 //-----问题
+//{"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","name":"淘片","key":"淘片","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"https://速影128.xyz/inc/api.php","name":"速影","key":"速影","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"http://aliys.cn:90/api.php/provide/vod","name":"阿里(xj)","key":"阿里(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"http://124.220.183.81:83/api.php/provide/vod","name":"干饭-官采(xj)","key":"干饭-官采(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
