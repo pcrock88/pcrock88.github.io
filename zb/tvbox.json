@@ -31,6 +31,7 @@
 //XML-----
 {"api":"https://www.rrvipw.com/api.php/provide/vod","name":"s-人人(xj)","key":"人人(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://api.tiankongapi.com/api.php/provide/vod","name":"天空(xj)","key":"天空(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://vipmv.cc/api.php/provide/vod","name":"天堂(xj)","key":"天堂(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod","name":"新浪(xj)","key":"新浪(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.kuaibozy.com/api.php/provide/vod","name":"快播(xj)","key":"快播(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.tvyb02.com/api.php/provide/vod","name":"TVB云(xj)","key":"TVB云(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
