@@ -15,6 +15,7 @@ var lang=new Array();var userAgent=navigator.userAgent.toLowerCase();var is_oper
 var data = [
 {name:"OK解析",url:"https://okjx.cc/?url="},
 {name:"云解析",url:"https://jx.yparse.com/index.php?url="},
+{name:"万能",url:"https://jiexi.pengdouw.com/jiexi2/?url="},
 {name:"小七",url:"https://2.08bk.com/?url="},
 {name:"8090",url:"https://www.8090g.cn/jiexi/?url="},
 {name:"无名",url:"https://www.administratorw.com/admin.php?url="},
