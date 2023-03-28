@@ -38,6 +38,7 @@
 {"api":"http://api.nguonphim.tv/api.php/provide/vod/at/xml","name":"南国(xj)","key":"南国(xj)"},
 {"api":"https://ckzy.me/api.php/provide/vod/at/xml","name":"CK(xj)","key":"CK(xj)"},
 
+{"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","name":"淘片","key":"淘片"},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"天天看(xj)","key":"天天看(xj)"},
 {"api":"http://app.7en7.com/api.php/provide/vod/at/xml","name":"瞬间(xj)","key":"瞬间(xj)"},
 {"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"八戒(xj)","key":"八戒(xj)"},
