@@ -152,41 +152,15 @@
 {"api":"https://www.zhanlangbu.com/api.php/provide/vod","name":"爱酷(xj)","key":"爱酷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod","name":"M3U8(xj)","key":"M3U8(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
-"parses": [{
-	"name": "解析聚合",
-	"type": 3,
-	"url": "Demo"
-},
-{
-	"name": "Json并发",
-	"type": 2,
-	"url": "Parallel"
-},
-{
-	"name": "Json轮询",
-	"type": 2,
-	"url": "Sequence"
-},
-{
-	"name": "万能",
-	"type": 3,
-	"url": "https://www.wannengjiexi.com/jiexi2/?url="
-},
-{
-	"name": "OK",
-	"type": 3,
-	"url": "https://okjx.cc/?url="
-},
-{
-	"name": "云",
-	"type": 3,
-	"url": "https://jx.yparse.com/index.php?url="
-},
-{
-	"name": "盘古",
-	"type": 3,
-	"url": "https://www.pangujiexi.cc/jiexi.php?url="
-}]
+"parses": [
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"万能","type":3,"url":"https://www.wannengjiexi.com/jiexi2/?url="},
+{"name":"OK","type":3,"url":"https://okjx.cc/?url="},
+{"name":"云","type":3,"url":"https://jx.yparse.com/index.php?url="},
+{"name":"盘古","type":3,"url":"https://www.pangujiexi.cc/jiexi.php?url="}
+],
 "spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
