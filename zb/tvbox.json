@@ -32,6 +32,7 @@
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"球赛直播","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅","key":"drpy_js_喜马拉雅","type":3},
 //XML-----
+{"api":"https://api.ykapi.net/api.php/provide/vod","key":"影库","name":"影库","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"ext":"http://v.i7yc.cn/api.php/v1.vod","api":"csp_AppYs","key":"尘云","name":"☁尘云(优)","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://www.rrvipw.com/api.php/provide/vod","name":"s-人人(xj)","key":"人人(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://api.tiankongapi.com/api.php/provide/vod","name":"天空(xj)","key":"天空(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
