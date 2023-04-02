@@ -1,5 +1,6 @@
 [
 {"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml","name":"s-人人(xj)","key":"人人(xj)"},
+{"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml","name":"光速(xj)","key":"光速(xj)"},
 {"api":"http://api.tiankongapi.com/api.php/provide/vod/at/xml","name":"天空(xj)","key":"天空(xj)"},
 {"api":"http://vipmv.cc/api.php/provide/vod/at/xml","name":"天堂(xj)","key":"天堂(xj)"},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml","name":"新浪(xj)","key":"新浪(xj)"},
@@ -8,7 +9,6 @@
 {"api":"http://www.zzrhgg.com/api.php/provide/vod/at/xml","name":"飘花(xj)","key":"飘花(xj)"},
 {"api":"https://api.apibdzy.com/api.php/provide/vod/at/xml","name":"百度(xj)","key":"百度(xj)"},
 {"api":"https://api.foxzyapi.com/api.php/provide/vod/at/xml","name":"FOX(xj)","key":"FOX(xj)"},
-{"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml","name":"光速(xj)","key":"光速(xj)"},
 {"api":"https://api.kuapi.cc/api.php/provide/vod/at/xml","name":"酷点(xj)","key":"酷点(xj)"},
 {"api":"https://api.ukuapi.com/api.php/provide/vod/at/xml","name":"U酷(xj)","key":"U酷(xj)"},
 {"api":"https://api.wujinapi.net/api.php/provide/vod/at/xml","name":"无尽(xj)","key":"无尽(xj)"},
