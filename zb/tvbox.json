@@ -6,7 +6,6 @@
 {"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 //JSON源-----
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
 {"key":"bdys","name":"🧲磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.125.46.61/box/json/%E7%A3%81%E5%8A%9B.json"},
 {"key":"pcrock","name":"💻pcrock","type":3,"api":"https://pcrock88.github.io/zb/直转点.js","ext":"pcrock$https://pcrock88.github.io/zb/live.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
@@ -16,8 +15,8 @@
 //JS源-----
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js","name":"🐯虎牙直播","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼直播","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
-{"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"看演唱会","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"球赛直播","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
+{"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"🌎演唱会","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
+{"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛直播","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅","key":"drpy_js_喜马拉雅","type":3},
 //XML or JSON-----
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod","name":"❤❤卧龙(xj)","key":"卧龙(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
