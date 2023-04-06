@@ -19,7 +19,6 @@
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛直播","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅","key":"drpy_js_喜马拉雅","type":3},
 //XML or JSON-----
-{key:'csp_appysv2_M2_haiwai影视',name:'淘片',type:0,api:'https://taopianapi.com/home/cjapi/as/mc/vod/xml',searchable:1,quickSearch:0,filterable:0},
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod","name":"❤❤卧龙(xj)","key":"卧龙(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/provide/vod","name":"❤❤量子(xj)","key":"量子(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/providedown/vod","name":"❤❤量子mp4(xj)","key":"量子mp4(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -62,7 +61,7 @@
 {"api":"http://175.178.7.35:2020/api.php/provide/vod","name":"😀龙腾(xj)","key":"龙腾(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.77hanju.com/api.php/provide/vod","name":"😀77韩剧(xj)","key":"77韩剧(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod","name":"😀M3U8(xj)","key":"M3U8(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
-//{"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","name":"❤淘片","key":"淘片","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","name":"❤淘片","key":"淘片","type":1,"searchable":1,"quickSearch":0,"filterable":0},
 //{"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"❤八戒(xj)","key":"八戒(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml","name":"韩剧(xj)","key":"韩剧(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml","name":"资源库(xj)","key":"资源库(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
