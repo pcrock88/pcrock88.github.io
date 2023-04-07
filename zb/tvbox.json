@@ -3,9 +3,12 @@
 "sites":[
 {"api":"csp_Kunyu77","key":"csp_77","name":"👒七七(SP)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Kuaikan","name":"🚀快看(sp)","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_LiteApple","name":"🍎小苹果(SP)","key":"csp_LiteApple","type":3,"searchable":1,"quickSearch":1,"filterable": 1},
+{"api":"csp_Bttoo","name":"🐞两BT","key":"csp_Bttoo","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_Anime1","name":"🌸动漫","key":"csp_Anime1","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_IQIYI","name":"🥝爱奇艺","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_MGTV","name":"🍋芒果","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_Yj1211","name":"📸直播合集","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //JSON源-----
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
