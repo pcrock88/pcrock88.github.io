@@ -68,6 +68,7 @@
 {"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml","name":"❤爱酷(xj)","key":"爱酷(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看看","name":"❤看看","type":0,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"❤789盘","type":0,"api":"https://www.rrvipw.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"api":"http://vipmv.cc/api.php/provide/vod","name":"😀天堂(xj)","key":"天堂(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"😀小鸟动漫(xj)","key":"小鸟动漫(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod","name":"😀M3U8(xj)","key":"M3U8(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
