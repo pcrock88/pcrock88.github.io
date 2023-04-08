@@ -58,7 +58,6 @@
 {"api":"http://api.nguonphim.tv/api.php/provide/vod","name":"❤南国(xj)","key":"❤南国(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.apibdzy.com/api.php/provide/vod","name":"❤百度(xj)","key":"❤百度(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://ckzy.me/api.php/provide/vod","name":"❤CK(xj)","key":"❤CK(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://umao.ml/api.php/provide/vod","name":"❤U猫(xj)","key":"❤U猫(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","name":"❤淘片","key":"❤淘片","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"❤八戒(xj)","key":"❤八戒(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml","name":"❤韩剧(xj)","key":"❤韩剧(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
@@ -69,6 +68,8 @@
 //{"api":"http://vipmv.cc/api.php/provide/vod","name":"😀天堂(xj)","key":"😀天堂(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"http://tv2.hykjtv.cn/api.php/provide/vod","name":"海玉","key":"海玉","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 //type:1
+{"api":"http://umao.ml/api.php/provide/vod","name":"❤U猫1(xj)","key":"❤U猫1(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://umao.ml/api.php/provide/vod","name":"❤U猫(xj)","key":"❤U猫(xj)","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.feifei67.com/api.php/provide/vod","name":"❤飞飞(xj)","key":"❤飞飞(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.tomcaiji.com/api.php/provide/vod","name":"❤TOM(xj)","key":"❤TOM(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.inmi.app/api.php/provide/vod","name":"❤映迷(xj)","key":"❤映迷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
