@@ -79,7 +79,7 @@
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"😀小鸟动漫(xj)","key":"😀小鸟动漫(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"😀M3U8(xj)","key":"😀M3U8(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod","name":"每天","key":"每天","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://124.220.183.81:83/api.php/provide/vod","name":"干饭","key":"干饭","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://124.220.183.81:83/api.php/provide/vod","name":"😀干饭","key":"干饭","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.yikanapi.com/api.php/provide/vod","name":"易看","key":"易看","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://aliys.cn:90/api.php/provide/vod","name":"阿里","key":"阿里","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.yparse.com/api/xml","name":"云播","key":"云播","type":1,"searchable":1,"quickSearch":1,"filterable":1},
