@@ -26,7 +26,7 @@
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛直播","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅","key":"drpy_js_喜马拉雅","type":3},
 //XML or JSON-----
-{"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml","name":"❤❤卧龙(xj)","key":"❤❤卧龙(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml","name":"😀❤❤卧龙(xj)","key":"❤❤卧龙(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/provide/vod","name":"❤❤量子(xj)","key":"❤❤量子(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/providedown/vod","name":"❤❤量子mp4(xj)","key":"❤❤量子mp4(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.vodimg.top/api.php/provide/vod","name":"❤❤影图(xj)","key":"❤❤影图(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
