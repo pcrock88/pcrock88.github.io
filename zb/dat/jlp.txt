@@ -1,3 +1,25 @@
+航拍中国,#genre#
+北京,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/97a77516de8442319ea518f716755d81/main.m3u8
+广西,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/cd46b00273dc40b99f8071799fb81403/main.m3u8
+青海,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/37431d6b9512493ea3fb816c8d04a338/main.m3u8
+湖北,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3103426157734a5f8082a15b78f5cee7/main.m3u8
+香港,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/71e2a5ce0e2b4d48a2e0b3be845eab4f/main.m3u8
+西藏,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/59f8aa7148434102903f2c855bd489dd/main.m3u8
+澳门,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/75d7257f558e47869e4fb669f3e54ed8/main.m3u8
+重庆,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c58641c099814e1e8de76ca4b0f7eb9b/main.m3u8
+河南,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2acc17e0209b489fbf007c8e645ad53f/main.m3u8
+辽宁,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b5a9b53da6944983baba4bc9ccb801e2/main.m3u8
+云南,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/main.m3u8
+安徽,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/main.m3u8
+贵州,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/main.m3u8
+山东,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/main.m3u8
+天津,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/main.m3u8
+山西,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/main.m3u8
+吉林,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/main.m3u8
+湖南,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/main.m3u8
+河北,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/main.m3u8
+宁夏,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/main.m3u8
+
 了不起的工程,#genre#
 上海洋山港,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d7d493dbb6a2432eba9a1747ffd9f05d/main.m3u8
 天津港,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5fa4b71b5c6d4b45b476b3040d49438b/main.m3u8
@@ -9,9 +31,6 @@
 平塘特大桥,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/442c3f067a5c49558187926e2199b2f9/main.m3u8
 丹昆特大桥,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b88912caa545422e863c13c1d90da40c/main.m3u8
 赤水河红军大桥,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b11a04a12afd4461963815298640378c/main.m3u8
-
-
-
 
 绝笔,#genre#
 S3-1,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5f7af3e17a0541a09d53fdda5587ea8a/main.m3u8
