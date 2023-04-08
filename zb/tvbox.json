@@ -69,7 +69,6 @@
 //{"api":"http://tv2.hykjtv.cn/api.php/provide/vod","name":"海玉","key":"海玉","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 //type:1
 {"api":"http://umao.ml/api.php/provide/vod","name":"❤U猫1(xj)","key":"❤U猫1(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://umao.ml/api.php/provide/vod","name":"❤U猫(xj)","key":"❤U猫(xj)","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.feifei67.com/api.php/provide/vod","name":"❤飞飞(xj)","key":"❤飞飞(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.tomcaiji.com/api.php/provide/vod","name":"❤TOM(xj)","key":"❤TOM(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.inmi.app/api.php/provide/vod","name":"❤映迷(xj)","key":"❤映迷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
