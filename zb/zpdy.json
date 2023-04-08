@@ -46,7 +46,7 @@
 {"api":"http://anltv.cn/api.php/provide/vod/","name":"😀忆梦","key":"😀忆梦"},
 {"api":"http://vipmv.cc/api.php/provide/vod","name":"😀天堂(xj)","key":"😀天堂(xj)"},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"😀小鸟动漫(xj)","key":"😀小鸟动漫(xj)"},
-{"api":"https://www.zycaiji.net:7788/api.php/provide/vod","name":"😀M3U8(xj)","key":"😀M3U8(xj)"},
+{"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"😀M3U8(xj)","key":"😀M3U8(xj)"},
 
 {"api":"http://47.113.126.237:1234/api.php/provide/vod","name":"每天","key":"每天"},
 {"api":"http://124.220.183.81:83/api.php/provide/vod","name":"干饭","key":"干饭"},
