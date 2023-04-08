@@ -73,6 +73,8 @@
 {"api":"https://www.77hanju.com/api.php/provide/vod","name":"❤77韩剧(xj)","key":"❤77韩剧(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml","name":"😀爱酷(xj)","key":"❤爱酷(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://anltv.cn/api.php/provide/vod","name":"😀忆梦","key":"❤忆梦","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"api":"http://vipmv.cc/api.php/provide/vod","name":"😀天堂(xj)","key":"😀天堂(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
+//{"api":"http://tv2.hykjtv.cn/api.php/provide/vod","name":"海玉","key":"海玉","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"😀小鸟动漫(xj)","key":"😀小鸟动漫(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"😀M3U8(fq)","key":"😀M3U8(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://124.220.183.81:83/api.php/provide/vod","name":"😀干饭","key":"干饭","type":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -81,8 +83,6 @@
 {"api":"https://api.yparse.com/api/xml","name":"云播","key":"云播","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"每天(fq)","key":"每天(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间(xj)","key":"瞬间(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
-//{"api":"http://vipmv.cc/api.php/provide/vod","name":"😀天堂(xj)","key":"😀天堂(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
-//{"api":"http://tv2.hykjtv.cn/api.php/provide/vod","name":"海玉","key":"海玉","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 ],
 "parses": [
 {"name":"01线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
