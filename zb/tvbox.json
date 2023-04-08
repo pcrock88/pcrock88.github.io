@@ -83,7 +83,7 @@
 {"api":"https://api.yikanapi.com/api.php/provide/vod","name":"易看","key":"易看","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://aliys.cn:90/api.php/provide/vod","name":"阿里","key":"阿里","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.yparse.com/api/xml","name":"云播","key":"云播","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://47.113.126.237:1234/api.php/provide/vod","name":"天天看(xj)","key":"天天看(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"天天看(xj)","key":"天天看(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间(xj)","key":"瞬间(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [
