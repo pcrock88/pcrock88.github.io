@@ -47,6 +47,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+  {
+      "key": "csp_xp_libv",
+      "name": "💢Libvio",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/libv.json"
+    },
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
