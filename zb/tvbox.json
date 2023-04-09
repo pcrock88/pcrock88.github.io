@@ -9,6 +9,10 @@
 {"api":"csp_IQIYI","name":"🥝爱奇艺+☆☆☆","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_MGTV","name":"🍋芒果+☆☆☆","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_剧荒","name":"剧荒(爬虫)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mjxq","name":"美剧星球(爬虫)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"追剧喵","name":"追剧喵(爬虫)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"3EDY","name":"3EDY(爬虫)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
