@@ -11,7 +11,6 @@
 {"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"555影视(爬虫)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"3EDY","name":"3EDY(爬虫)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"Kuaikan","name":"快看影视(爬虫)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"},
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
