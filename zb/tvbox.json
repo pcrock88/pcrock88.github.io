@@ -56,7 +56,7 @@
 {"api":"https://www.ff9.top/api.php/provide/vod","name":"△FF9☆☆☆","key":"FF9(xj)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.ylzy1.com/api.php/provide/vod","name":"△影乐☆☆","key":"影乐","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","name":"△淘片☆☆☆","key":"淘片","type":0,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"△八戒☆","key":"八戒(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml","name":"△八戒☆☆","key":"八戒(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml","name":"△韩剧☆☆☆","key":"韩剧(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml","name":"△资源库☆☆☆","key":"资源库(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.30dian.cn/api.php/provide/vod/at/xml","name":"△创艺☆☆☆","key":"创艺(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":1},
