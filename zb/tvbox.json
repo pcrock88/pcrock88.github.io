@@ -81,7 +81,7 @@
 {"api":"https://api.yparse.com/api/xml","name":"云播+","key":"云播","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"每天(fq)+","key":"每天(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"M3U8(fq)+","key":"M3U8(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1}
+{"api":"http://app.7en7.com/api.php/provide/vod/at/xml","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [
 {"name":"01线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
