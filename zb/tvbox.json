@@ -30,6 +30,16 @@
       "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dm84.json"
     },
 {
+      "key": "csp_xp_dmw",
+      "name": "💢动漫岛",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dmw.json"
+    },
+{
       "key": "csp_Cokemv",
       "name": "🚗可乐",
       "type": 3,
