@@ -20,13 +20,14 @@
       "jar": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"
     },
 {
-      "key": "csp_Dm84",
-      "name": "🚌动漫巴士",
+      "key": "csp_xp_dm84",
+      "name": "💢动漫巴士",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dm84.json"
     },
 {
       "key": "csp_Cokemv",
