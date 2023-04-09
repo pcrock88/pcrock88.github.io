@@ -237,7 +237,7 @@
 {"name":"测试14","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"测试15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
 ],
-"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350"#"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"name":"蓝鲸直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt"}],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
