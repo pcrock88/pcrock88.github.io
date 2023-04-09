@@ -93,6 +93,34 @@
 {"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [
+ {
+      "name": "parwix2",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+
 {"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="},
 {"name":"01线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"02线","type":0,"url":"https://okjx.cc/?url="},
