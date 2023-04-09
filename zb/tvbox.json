@@ -21,7 +21,7 @@
 {"api":"csp_Bili","name":"🐯儿童乐园☆☆☆","key":"儿童","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 //JS源-----
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js","name":"🐯虎牙☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
-{"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼直播","key":"csp_XYQBiu_斗鱼☆☆☆","type":3,"searchable":0,"quickSearch":0,"filterable":0},
+{"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼直播☆☆☆","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"🌎演唱会☆☆","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛直播☆☆","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅☆☆☆","key":"drpy_js_喜马拉雅","type":3},
