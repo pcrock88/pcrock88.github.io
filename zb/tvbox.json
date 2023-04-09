@@ -84,6 +84,7 @@
 {"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [
+{"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="},
 {"name":"01线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"02线","type":0,"url":"https://okjx.cc/?url="},
 {"name":"03线","type":0,"url":"https://jx.xmflv.com/?url="},
@@ -107,8 +108,7 @@
 {"name":"测试11","type":0,"url":"https://parse.123mingren.com/?url="},
 {"name":"测试13","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"测试14","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
-{"name":"测试15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"测试16","type":0,"url":"https://svip.bljiex.cc/?v="}
+{"name":"测试15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
 ],
 "spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
