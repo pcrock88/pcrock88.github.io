@@ -1,7 +1,7 @@
 # [个人主页](http://pcrock.hkfree.work/)
 收集的仓库|
 -|
-[GitHub Proxy](https://ghproxy.com)、[Free XXX](http://adultiptv.net/)、[MyIPTV](https://github.com/SPX372928/MYIPTV)、[IPTV](https://github.com/iptv-restream/IPTV)、[TVBox安卓](https://github.com/pvqogw/TVBoxOSC)|
+[GitHub Proxy](https://ghproxy.com)、[Free XXX](http://adultiptv.net/)、[MyIPTV](https://github.com/SPX372928/MYIPTV)、[IPTV](https://github.com/iptv-restream/IPTV)、[TVBox安卓](https://github.com/pvqogw/TVBoxOSC)、[tvbox手机/电视](https://github.com/FongMi/TV)|
 
 
 生成短连接
