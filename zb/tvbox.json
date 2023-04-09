@@ -10,7 +10,7 @@
 {"api":"csp_MGTV","name":"🍋芒果★★★","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Yj1211","name":"📸直播合集★★★★","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //JSON源-----
-{"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
+{"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣★★☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist★","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
 {"api":"csp_XBiubiu","name":"🔥骚火电影","key":"csp_biubiu_骚火电影","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
 {"api":"csp_XPbd","name":"🧲磁力高清★★★☆","key":"bdys","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.125.46.61/box/json/%E7%A3%81%E5%8A%9B.json"},
