@@ -22,7 +22,7 @@
 //JS源-----
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js","name":"🐯虎牙+☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼+☆☆☆","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
-{"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"🌎演唱会☆☆","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
+{"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"🌎演唱会+☆☆","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛+☆☆","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅+☆☆☆","key":"drpy_js_喜马拉雅","type":3},
 //XML or JSON-----
