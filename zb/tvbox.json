@@ -69,7 +69,7 @@
 {"api":"https://www.inmi.app/api.php/provide/vod","name":"△映迷+☆☆☆","key":"映迷","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://175.178.7.35:2020/api.php/provide/vod","name":"△龙腾+☆☆","key":"龙腾","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.77hanju.com/api.php/provide/vod","name":"△77韩剧+☆☆☆","key":"77韩剧","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml","name":"▽爱酷+☆☆","key":"爱酷","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://www.zhanlangbu.com/api.php/provide/vod/at/xml","name":"▽爱酷+☆","key":"爱酷","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://anltv.cn/api.php/provide/vod","name":"▽忆梦+☆☆☆","key":"忆梦","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://vipmv.cc/api.php/provide/vod/at/xml","name":"▽天堂+☆","key":"天堂","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"▽小鸟动漫+☆☆☆","key":"小鸟动漫","type":1,"searchable":1,"quickSearch":1,"filterable":1},
