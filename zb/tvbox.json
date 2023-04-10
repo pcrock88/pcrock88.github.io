@@ -6,116 +6,28 @@
 {"api":"csp_LiteApple","name":"🍎苹果+☆☆☆","key":"csp_LiteApple","type":3,"searchable":1,"quickSearch":1,"filterable": 1},
 {"api":"csp_Bttoo","name":"🐞两BT♀+☆☆","key":"csp_Bttoo","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Anime1","name":"🌸动漫+☆☆","key":"csp_Anime1","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_Cokemv","name":"🚗可乐+☆☆","key":"csp_Cokemv","type":3,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"csp_SP360","name":"💫360+☆☆☆","key":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"api":"csp_Lgyy","name":"💧蓝光+☆☆","key":"csp_Lgyy","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_IQIYI","name":"🥝爱奇艺+☆☆☆","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_MGTV","name":"🍋芒果+☆☆☆","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
-{
-	"key": "csp_QQ",
-	"name": "🍅腾讯视频(官)",
-	"type": 3,
-	"api": "csp_QQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"jar": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"
-}, {
-	"key": "csp_xp_dm84",
-	"name": "💢动漫巴士",
-	"type": 3,
-	"api": "csp_XPathFilter",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://pcrock88.github.io/zb/dat/dm84.json"
-}, {
-	"key": "csp_xp_dmw",
-	"name": "💢动漫岛",
-	"type": 3,
-	"api": "csp_XPathMacFilter",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dmw.json"
-}, {
-	"key": "csp_Cokemv",
-	"name": "🚗可乐",
-	"type": 3,
-	"api": "csp_Cokemv",
-	"playerType": 1,
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-}, {
-	"key": "csp_SP360",
-	"name": "💫360影视",
-	"api": "csp_SP360",
-	"type": 3,
-	"filterable": 1,
-	"quickSearch": 1,
-	"searchable": 1,
-	"ext": ""
-}, {
-	"key": "csp_Lgyy",
-	"name": "💧蓝光影院",
-	"type": 3,
-	"api": "csp_Lgyy",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-}, {
-	"key": "csp_xp_libv",
-	"name": "💢Libvio",
-	"type": 3,
-	"api": "csp_XPathMacFilter",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/libv.json"
-}, {
-	"key": "csp_xbb_搜狗影院",
-	"name": "🍀搜狗影院",
-	"type": 3,
-	"api": "csp_XBiubiu",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/搜狗影院.json"
-}, {
-	"key": "csp_xbb_茶杯狐",
-	"name": "🍀茶杯狐",
-	"type": 3,
-	"api": "csp_XBiubiu",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/茶杯狐.json"
-}, {
-	"key": "csp_xbb_sobods",
-	"name": "🍀真不卡sobods",
-	"type": 3,
-	"api": "csp_XBiubiu",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/真不卡sobods.json"
-}, {
-	"key": "csp_xbb_Nike影视",
-	"name": "🍀Nike影视",
-	"type": 3,
-	"api": "csp_XBiubiu",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/Nike影视网.json"
-},
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
-{"api":"csp_XBiubiu","name":"🔥骚火电影+☆☆☆","key":"csp_biubiu_骚火电影","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
-{"api":"csp_XPbd","name":"🧲磁力高清+☆☆☆","key":"bdys","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.125.46.61/box/json/%E7%A3%81%E5%8A%9B.json"},
-{"api":"csp_Bili","name":"🐞哔哩全集+☆☆☆","key":"csp_哔哩全集","type":3,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/哔哩全集.json"},
-{"api":"csp_Bili","name":"📝学习园地+☆☆☆","key":"学习","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+{"api":"csp_QQ","name":"🍅腾讯+☆☆☆","key":"csp_QQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
+{"api":"csp_XPathFilter","name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/dm84.json"},
+{"api":"csp_XPathMacFilter","name":"💢动漫岛+☆☆☆","key":"csp_xp_dmw","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/动漫岛.json"},
+{"api":"csp_XPathMacFilter","name":"💢Libvio+☆☆☆","key":"csp_xp_libv","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/libv.json"},
+{"api":"csp_XBiubiu","name":"🍀搜狗影院+☆☆☆","key":"csp_xbb_搜狗","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/搜狗影院.json"},
+{"api":"csp_XBiubiu","name":"🍀茶杯狐+☆☆☆","key":"csp_xbb_茶杯狐","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/茶杯狐.json"},
+{"api":"csp_XBiubiu","name":"🍀真不卡sobods+☆☆☆","key":"csp_xbb_sobods","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/真不卡.json"},
+{"api":"csp_XBiubiu","name":"🍀Nike影视+☆☆☆","key":"csp_xbb_Nike影视","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/Nike影视网.json"},
+{"api":"csp_XBiubiu","name":"🔥骚火电影+☆☆☆","key":"csp_biubiu_骚火电影","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/骚火电影.json"},
+{"api":"csp_XPbd","name":"🧲磁力高清+☆☆☆","key":"bdys","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/磁力.json"},
+{"api":"csp_Bili","name":"🐞哔哩全集+☆☆☆","key":"csp_哔哩全集","type":3,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/哔哩全集.json"},
+{"api":"csp_Bili","name":"📝学习园地+☆☆☆","key":"学习","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/学习园地.json"},
 {"api":"csp_Bili","name":"📚软件教程+☆☆☆","key":"软件","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"api":"csp_Bili","name":"🐯儿童乐园+☆☆☆","key":"儿童","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 //JS源-----
