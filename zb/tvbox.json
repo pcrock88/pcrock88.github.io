@@ -16,7 +16,7 @@
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
-{"api":"csp_QQ","name":"🍅腾讯+☆☆☆","key":"csp_QQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
+{"api":"csp_XPath","name":"💢VIP电影","key":"csp_xp_vip1280","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/vip电影.json"},
 {"api":"csp_XPathFilter","name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/dm84.json"},
 {"api":"csp_XPathMacFilter","name":"💢动漫岛+☆☆☆","key":"csp_xp_dmw","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/动漫岛.json"},
 {"api":"csp_XPathMacFilter","name":"💢Libvio+☆☆☆","key":"csp_xp_libv","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/libv.json"},
