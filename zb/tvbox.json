@@ -109,6 +109,7 @@
 ],
 "parses": [
 {"url":"https://jx.bozrc.com:4433/player/?url=","name":"parwix","type":0},
+{"url":"https://jx.777jiexi.com/player/?url=","name":"777","type":0},
 {"url":"https://svip.bljiex.cc/?v=","name":"BL1","type":0},
 {"url":"https://vip.bljiex.com/?v=","name":"BL2","type":0},
 {"url":"https://jx.xmflv.com/?url=","name":"虾米","type":0},
