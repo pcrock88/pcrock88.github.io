@@ -30,6 +30,13 @@
 {"api":"csp_Bili","name":"📝学习园地+☆☆☆","key":"学习","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pcrock88.github.io/zb/dat/学习园地.json"},
 {"api":"csp_Bili","name":"📚软件教程+☆☆☆","key":"软件","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"api":"csp_Bili","name":"🐯儿童乐园+☆☆☆","key":"儿童","type":3,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
+
+{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/348z.json"},
+{"key":"csp_xp_tjyy","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/huigutongying.json"},
+{"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/yingba.json"},
+{"key":"csp_xp_99ys","name":"💢久久影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/99ys.json"},
+{"key":"csp_xp_789kp","name":"💢789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/789kp.json"},
+{"key":"csp_xbb_双十电影","name":"🍀双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/双十电影.json"},
 //JS源-----
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js","name":"🐯虎牙+☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼+☆☆☆","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
@@ -86,6 +93,12 @@
 {"api":"http://vipmv.cc/api.php/provide/vod/at/xml","name":"▽天堂+☆","key":"天堂","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"▽小鸟动漫+☆☆☆","key":"小鸟动漫","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://124.220.183.81:83/api.php/provide/vod","name":"▽干饭+☆☆☆","key":"干饭","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+
+{"key":"csp_app_贵宾影院","name":"🐌贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
+{"key":"csp_app_2号币","name":"🐌2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+{"key":"csp_app_天天视频","name":"🐌天天视频","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key":"csp_app_段友影视","name":"🐌段友影视2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 {"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml","name":"△看看+","key":"看看","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://tv2.hykjtv.cn/api.php/provide/vod/at/xml","name":"海玉+","key":"海玉","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml","name":"阿里+","key":"阿里","type":1,"searchable":1,"quickSearch":1,"filterable":1},
