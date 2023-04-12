@@ -137,7 +137,7 @@
 {"api":"https://www.xrbsp.com/api/xml.php","name":"+饮水机","key":"+饮水机"},
 {"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","name":"+小姐姐","key":"+小姐姐"},
 {"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","name":"+点娱","key":"+点娱"}
-]
+],
 
   "iptv": { // 直播源
     "default": 1, // 默认值：需为data中需要设置的id
@@ -150,4 +150,4 @@
         "isActive": true // 是否启用 true启用 false 禁用
       }
     ]
-  },
+  }
