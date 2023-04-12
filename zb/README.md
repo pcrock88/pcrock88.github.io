@@ -2,6 +2,7 @@
 
 https://ghproxy.com/
 
+[猫抓](https://github.com/xifangczy/cat-catch)
 
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
