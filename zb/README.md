@@ -1,7 +1,7 @@
 # 以下内容均源于互联网
 https://ghproxy.com/
 
-https://gitcode.net/qq_32394351/dr_py#模板规则说明
+
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
 ----|----
@@ -13,4 +13,4 @@ https://gitcode.net/qq_32394351/dr_py#模板规则说明
 [FFmpeg](https://github.com/BtbN/FFmpeg-Builds)|FFmpeg
 [ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)|ZyPlayer
 [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)、[AlphaTV](https://github.com/pvqogw/AlphaTV)、[TVBox](https://gitee.com/cherry0532/tvbox)、[TVbox_Free](https://github.com/Cyril0563/lanjing_live)、[TvBox](https://github.com/tv-player/TvBox)、[TVBox](https://github.com/2hacc/TVBox)、[TVBOX-](https://github.com/xianyuyimu/TVBOX-)、[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)、[tvbox](https://github.com/yutian88881/tvbox)、[tvbox](https://github.com/hl128k/tvbox)、[Tvbox](https://agit.ai/Yoursmile7/TVBox)、[jyoketsu-TV](https://github.com/jyoketsu/tv)|TV Box源+接口
-[资源猫](https://www.zizhuge.cn/1734.html)、[接口展示](https://leevi0321.gitee.io/api/)|网页接口
+[资源猫](https://www.zizhuge.cn/1734.html)、[接口展示](https://leevi0321.gitee.io/api/)、[dr_py](https://gitcode.net/qq_32394351/dr_py)|网页接口
