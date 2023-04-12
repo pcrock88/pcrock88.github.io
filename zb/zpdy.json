@@ -138,3 +138,16 @@
 {"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","name":"+小姐姐","key":"+小姐姐"},
 {"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","name":"+点娱","key":"+点娱"}
 ]
+
+  "iptv": { // 直播源
+    "default": 1, // 默认值：需为data中需要设置的id
+    "data": [
+      {
+        "id": 1, // id 唯一值不可重复
+        "name": "APTV", // 名称
+        "url": "https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt", // 直播源地址
+        "epg": "", // 电子节目单地址
+        "isActive": true // 是否启用 true启用 false 禁用
+      }
+    ]
+  },
