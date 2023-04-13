@@ -12,7 +12,10 @@
 {"api":"csp_IQIYI","name":"🥝爱奇艺+☆☆☆","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_MGTV","name":"🍋芒果+☆☆☆","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-
+{"api":"csp_Gitcafe","name":"小纸条","key":"Gitcafe","type":3,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"token;desc"},
+{"api":"csp_Zhaozy","name":"找资源","key":"找资源","type":3,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+{"api":"csp_Upyunso","name":"Up云搜","key":"upyunsou","type":3,"searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"token;asc"},
+{"api":"csp_Yisou","name":"宜搜","key":"yisou","type":3,"searchable":1,"quickSearch":1,"playerType":1,"filterable":0},
 //JSON源-----
 {"api":"https://raw.iqiq.io/lmlmi/ooo/master/js/lib/drpy2.min.js","name":"🔍豆瓣+☆☆","key":"dr_豆瓣","type":3,"searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/js/豆瓣.js"},
 {"api":"csp_Alist","name":"🗂Alist+☆","key":"csp_Alist","type":3,"searchable":1,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/sub/Alist.json"},
