@@ -2,7 +2,7 @@
 
 工具|
 ----|
-[github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)|
+[github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)|
 
 
 
