@@ -1,7 +1,7 @@
 # 以下内容均源于互联网
 
-工具|类型
-----|----
+工具|
+----|
 [github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)|
 
 
