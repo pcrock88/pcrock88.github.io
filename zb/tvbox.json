@@ -36,7 +36,7 @@
 {"key":"csp_xp_789kp","name":"💢789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/789kp.json"},
 {"key":"csp_xbb_双十电影","name":"🍀双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/双十电影.json"},
 //JS源-----
-{"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js","name":"🐯虎牙+☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
+{"api":"https://pcrock88.github.io/zb/dat/lib/drpy2.min.js","ext":"https://pcrock88.github.io/zb/dat/虎牙.js","name":"🐯虎牙+☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_XYQBiu","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json","name":"🐬斗鱼+☆☆☆","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"csp_Bili","ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json","name":"🌎演唱会+☆☆","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 {"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js","name":"🌎球赛+☆☆","key":"dr_JRKAN直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
