@@ -1,4 +1,4 @@
-//-----{"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/.js","name":"🚔","key":"drpy_js_","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+//-----{"ext":"https://pcrock88.github.io/zb/dat/js/.js","name":"🚔","key":"drpy_js_","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 {
 "sites":[
@@ -49,6 +49,23 @@
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/JangoIndex.js","name":"🚔JangoIndex","key":"drpy_js_JangoIndex","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/JRKAN直播.js","name":"🚔JRKAN直播","key":"drpy_js_JRKAN直播","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/JRS看球网.js","name":"🚔JRS看球网","key":"drpy_js_JRS看球网","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/JRS看直播.js","name":"🚔JRS看直播","key":"drpy_js_JRS看直播","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/JRS录像.js","name":"🚔JRS录像","key":"drpy_js_JRS录像","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/JustLive.js","name":"🚔JustLive","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/KOK影院.js","name":"🚔KOK影院","key":"drpy_js_KOK影院","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/KUBO影视[飞].js","name":"🚔KUBO影视[飞]","key":"drpy_js_KUBO影视[飞]","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/l0l.js","name":"🚔l0l","key":"drpy_js_l0l","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/LIBVIO.js","name":"🚔LIBVIO","key":"drpy_js_LIBVIO","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/MV263.js","name":"🚔MV263","key":"drpy_js_MV263","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/NFM影视.js","name":"🚔NFM影视","key":"drpy_js_NFM影视","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/Nike影视.js","name":"🚔Nike影视","key":"drpy_js_Nike影视","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/NT动漫.js","name":"🚔NT动漫","key":"drpy_js_NT动漫","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/NyaFun.js","name":"🚔NyaFun","key":"drpy_js_NyaFun","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/NY影院.js","name":"🚔NY影院","key":"drpy_js_NY影院","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/omofun动漫.js","name":"🚔omofun动漫","key":"drpy_js_omofun动漫","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/RP影视.js","name":"🚔RP影视","key":"drpy_js_RP影视","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/tva云播.js","name":"🚔tva云播","key":"drpy_js_tva云播","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/TV蜂.js","name":"🚔TV蜂","key":"drpy_js_TV蜂","api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"api":"csp_LiteApple","name":"🍎苹果+☆☆☆","key":"csp_LiteApple","type":3,"searchable":1,"quickSearch":1,"filterable": 1},
