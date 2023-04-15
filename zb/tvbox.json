@@ -83,7 +83,7 @@
 {"api":"https://www.30dian.cn/api.php/provide/vod/at/xml","name":"△创艺+☆☆☆","key":"创艺","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.39kan.com/api.php/provide/vod/at/xml","name":"△39影视+☆","key":"39影视","type":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://api.nguonphim.tv/api.php/provide/vod","name":"△南国+☆☆","key":"南国","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://api.apibdzy.com/api.php/provide/vod","name":"△百度+☆","key":"百度","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://api.apibdzy.com/api.php/provide/vod","name":"△百度+☆","key":"百度","type":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"api":"https://ckzy.me/api.php/provide/vod","name":"△CK+☆☆☆","key":"CK","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://umao.ml/api.php/provide/vod","name":"△U猫+☆☆☆","key":"U猫","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://www.feifei67.com/api.php/provide/vod","name":"△飞飞+☆☆☆","key":"飞飞","type":1,"searchable":1,"quickSearch":1,"filterable":1},
