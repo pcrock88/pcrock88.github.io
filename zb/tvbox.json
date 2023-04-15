@@ -46,6 +46,7 @@
 {"key":"csp_xp_789kp","ext":"https://pcrock88.github.io/zb/dat/json/789看片.json","name":"💢789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_双十电影","ext":"https://pcrock88.github.io/zb/dat/json/双十电影.json","name":"🍀双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0},
 //XML or JSON-----
+{"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"⏩️快播资源","key":"快播","type":1,"searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod","name":"△卧龙+☆☆☆","key":"卧龙","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/provide/vod","name":"△量子A+☆☆☆","key":"量子A","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://cj.lziapi.com/api.php/providedown/vod","name":"△量子B+☆☆☆","key":"量子B","type":1,"searchable":1,"quickSearch":1,"filterable":1},
