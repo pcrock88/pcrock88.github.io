@@ -1,11 +1,13 @@
 //-----https://ghproxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/两个BT.js
 {
 "sites":[
+//JS-----
 {"api":"https://pcrock88.github.io/zb/dat/lib/直转点.js","name":"💻pcrock+☆☆☆ 仅限个人使用，严禁商用！更新:230409","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#蓝鲸TV$https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt#线路01$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#动物世界$https://pcrock88.github.io/zb/dat/txt/dwsj.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/快看.js","name":"🚀快看+☆☆☆☆☆","key":"Kuaikan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/酷云77.js","name":"👒七七+☆☆☆☆","key":"csp_77","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/两个BT.js","name":"🐞两BT♀+☆☆","key":"csp_Bttoo","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/360影视.js","name":"💫360+☆☆☆","key":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/555影视[V2].js","name":"🚔555影视","key":"drpy_js_555影视","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_LiteApple","name":"🍎苹果+☆☆☆","key":"csp_LiteApple","type":3,"searchable":1,"quickSearch":1,"filterable": 1},
 {"api":"csp_Anime1","name":"🌸动漫+☆☆","key":"csp_Anime1","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Cokemv","name":"🚗可乐+☆☆","key":"csp_Cokemv","type":3,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -13,7 +15,6 @@
 {"api":"csp_IQIYI","name":"🥝爱奇艺+☆☆☆","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_MGTV","name":"🍋芒果+☆☆☆","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-//JS-----
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/虎牙.js","name":"🐯虎牙+☆☆☆","key":"dr_虎牙直播","type":3,"searchable":0,"quickSearch":0,"filterable":0},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/蜻蜓FM.js","name":"📻️蜻蜓FM","key":"drpy_js_蜻蜓FM","type":3},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"🚁哔哩直播","key":"drpy_js_哔哩直播","type":3},
@@ -31,7 +32,6 @@
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/孜然影视.js","name":"🚔孜然影视","key":"drpy_js_孜然影视","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/大师兄影视.js","name":"🚔大师兄影视","key":"drpy_js_大师兄影视","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/真不卡.js","name":"🚔真不卡","key":"drpy_js_真不卡","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"https://pcrock88.github.io/zb/dat/lib/drpy.min.js","ext":"https://pcrock88.github.io/zb/dat/js/555影视.js","name":"🚔555影视","key":"drpy_js_555影视","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //JSON-----
 {"api":"csp_XPath","ext":"https://pcrock88.github.io/zb/dat/json/vip电影.json","name":"💢VIP电影+☆☆☆","key":"csp_xp_vip1280","type":3,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"csp_XPathFilter","ext":"https://pcrock88.github.io/zb/dat/json/dm84.json","name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0},
