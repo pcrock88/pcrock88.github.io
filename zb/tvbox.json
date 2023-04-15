@@ -24,7 +24,7 @@
 {"api":"https://pcrock88.github.io/zb/dat/lib/drpy2.min.js","ext":"https://pcrock88.github.io/zb/dat/js/喜马拉雅.js","spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","name":"🐎喜马拉雅+☆☆☆","key":"drpy_js_喜马拉雅","type":3},
 //JSON源-----
 {"api":"csp_XPath","ext":"https://pcrock88.github.io/zb/dat/json/vip电影.json","name":"💢VIP电影+☆☆☆","key":"csp_xp_vip1280","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XPathFilter","ext":"https://pcrock88.github.io/zb/dat/json/dm84.json""name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0},
+{"api":"csp_XPathFilter","ext":"https://pcrock88.github.io/zb/dat/json/dm84.json","name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"csp_XPathMacFilter","ext":"https://pcrock88.github.io/zb/dat/json/动漫岛.json","name":"💢动漫岛+☆☆☆","key":"csp_xp_dmw","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_XPathMacFilter","ext":"https://pcrock88.github.io/zb/dat/json/libv.json","name":"💢Libvio+☆☆☆","key":"csp_xp_libv","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/搜狗影院.json","name":"🍀搜狗影院+☆☆☆","key":"csp_xbb_搜狗","type":3,"searchable":1,"quickSearch":1,"filterable":0},
