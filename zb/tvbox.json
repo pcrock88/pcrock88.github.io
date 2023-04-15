@@ -105,11 +105,6 @@
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod","name":"▽小鸟动漫+☆☆☆","key":"小鸟动漫","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://124.220.183.81:83/api.php/provide/vod","name":"▽干饭+☆☆☆","key":"干饭","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-
-{"key":"csp_app_贵宾影院","name":"🐌贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
-{"key":"csp_app_2号币","name":"🐌2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
-{"key":"csp_app_天天视频","name":"🐌天天视频","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
-{"key":"csp_app_段友影视","name":"🐌段友影视2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 {"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml","name":"△看看+","key":"看看","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://tv2.hykjtv.cn/api.php/provide/vod/at/xml","name":"海玉+","key":"海玉","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml","name":"阿里+","key":"阿里","type":1,"searchable":1,"quickSearch":1,"filterable":1},
