@@ -1,6 +1,6 @@
 {
 "sites":[
-//XML 
+//XML
 {"api":"https://www.hongniuzy2.com/api.php/provide/vod","name":"△红牛+☆☆☆☆","key":"红牛","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"快播资源☆☆","key":"快播","type":1,"searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod","name":"△卧龙+☆☆☆","key":"卧龙","type":1,"searchable":1,"quickSearch":1,"filterable":1},
