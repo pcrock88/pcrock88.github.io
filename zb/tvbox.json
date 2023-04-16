@@ -5,10 +5,10 @@
 "sites":[
 //https://ghproxy.com/https://raw.githubusercontent.com/pcrock88/dr_py/master/js
 {"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/live2mv.js","name":"💻pcrock+☆☆☆ 仅限个人使用，严禁商用！更新:230416","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#蓝鲸TV$https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt#线路01$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#动物世界$https://pcrock88.github.io/zb/dat/txt/dwsj.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
-{"jar":"https://pcrock88.github.io/zb/dat/jsd/小苹果.jpg;md5;d3828dbc91d98c3ebc258e6f7874a30c","api":"csp_LiteApple","key":"小苹果","name":"🍎小苹果","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_QQ","key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_IQIYI","key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_MGTV","key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"jar":"https://pcrock88.github.io/zb/dat/jsd/小苹果.jpg;md5;d3828dbc91d98c3ebc258e6f7874a30c","api":"csp_LiteApple","key":"小苹果","name":"🍎小苹果(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_QQ","key":"csp_QQ","name":"🍅腾讯(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_IQIYI","key":"csp_IQIYI","name":"🥝爱奇艺(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_MGTV","key":"csp_MGTV","name":"🍋芒果(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"ext":"https://pcrock88.github.io/zb/dat/js/优酷.js","name":"👑优酷","key":"drpy_js_优酷","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/虎牙直播.js","name":"🚔虎牙直播","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
