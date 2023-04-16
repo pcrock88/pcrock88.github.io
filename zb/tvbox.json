@@ -7,12 +7,6 @@
 {"ext":"https://pcrock88.github.io/zb/dat/js/虎牙直播.js","name":"🚔虎牙直播","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"🚔哔哩直播","key":"drpy_js_哔哩直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-//jsd-----
-{"key":"drpy_js_饭团","name":"🍚饭团","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/饭团.jsd"},
-{"key":"drpy_js_大猪蹄子","name":"🐖大猪蹄子","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/大猪蹄子.jsd"},
-{"key":"drpy_js_在线189","name":"📡在线189","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/在线189.jsd"},
-{"key":"drpy_js_爱酷影视","name":"👨🏻‍❤️‍👨🏻爱酷影视","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/爱酷影视.jsd"},
-{"key":"drpy_js_冲TMTV[飞]","name":"✈冲TMTV","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/冲TMTV[飞].jsd"},
 //JS-----
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"🚔007影视","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"🚔100影院","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -286,6 +280,12 @@
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/追剧兔.js","name":"🚔追剧兔","key":"drpy_js_追剧兔","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/孜然影视.js","name":"🚔孜然影视","key":"drpy_js_孜然影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/子子影视.js","name":"🚔子子影视","key":"drpy_js_子子影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+//jsd-----
+{"key":"drpy_js_在线189","name":"🍚在线189","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/在线189.jsd"},
+{"key":"drpy_js_大猪蹄子","name":"🍚大猪蹄子","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/大猪蹄子.jsd"},
+{"key":"drpy_js_饭团","name":"🍚饭团","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/饭团.jsd"},
+{"key":"drpy_js_爱酷影视","name":"🍚爱酷影视","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/爱酷影视.jsd"},
+{"key":"drpy_js_冲TMTV[飞]","name":"🍚冲TMTV","type":3,"api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/pcrock/dr_py/raw/master/js/冲TMTV[飞].jsd"},
 //XML
 {"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"⏩️快播资源","key":"快播","type":1,"searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod","name":"△卧龙+☆☆☆","key":"卧龙","type":1,"searchable":1,"quickSearch":1,"filterable":1},
