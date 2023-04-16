@@ -1,5 +1,8 @@
 # 以下内容均源于互联网
 
+json内资源格式参数介绍
+{"key":"key_〔资源名称〕", "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕", "searchable":1, "quickSearch":1, "filterable":0, "jar":"〔jar文件地址〕", "ext":"〔txt json文件地址〕", "playUrl": "〔播放解析地址〕", "categories":["〔自定义资源列表〕", "〔自定义资源列表〕"] }
+
 工具|
 ----|
 [github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)|
