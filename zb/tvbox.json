@@ -10,8 +10,8 @@
 {"key":"drpy_js_虎牙","name":"🚁虎牙","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/虎牙直播.js"},
 
 
-{"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/虎牙直播.js","name":"🚔虎牙直播","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/虎牙直播.js","name":"🚔虎牙直播","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"🚔007影视","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"🚔100影院","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
