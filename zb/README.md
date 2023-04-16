@@ -2,6 +2,8 @@
 https://www.emojiall.com/zh-hans/categories/D  
 https://funletu.com/emoji/
 
+[gao](https://github.com/gaotianliuyun/gao)
+
 json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
 "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕",
