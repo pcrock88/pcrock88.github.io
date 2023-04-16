@@ -1,5 +1,5 @@
 # 以下内容均源于互联网
-
+[emoji](https://pcrock88.github.io/zb/dat/emoji.me)
 
 json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
