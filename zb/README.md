@@ -1,7 +1,8 @@
 # 以下内容均源于互联网
 
-json内资源格式参数介绍
+https://github.com/liu673cn/box
 
+json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
 "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕",
 "searchable":1, "quickSearch":1, "filterable":0,
