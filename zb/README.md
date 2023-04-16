@@ -1,7 +1,12 @@
 # 以下内容均源于互联网
 
 json内资源格式参数介绍
+
 {"key":"key_〔资源名称〕", "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕", "searchable":1, "quickSearch":1, "filterable":0, "jar":"〔jar文件地址〕", "ext":"〔txt json文件地址〕", "playUrl": "〔播放解析地址〕", "categories":["〔自定义资源列表〕", "〔自定义资源列表〕"] }
+
+FongMi電視版|FongMi手機版
+----|----
+[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk "TV")、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk "TV")、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk "TV")|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk "TV")、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk "TV")
 
 工具|
 ----|
