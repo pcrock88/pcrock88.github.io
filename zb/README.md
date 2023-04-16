@@ -3,6 +3,7 @@ https://www.emojiall.com/zh-hans/categories/D
 https://funletu.com/emoji/
 
 [gao](https://github.com/gaotianliuyun/gao)
+[box配置编辑器](https://kvymin.github.io/CatVodTVJsonEditor/)
 
 json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
