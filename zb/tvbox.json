@@ -339,40 +339,7 @@
 {"api":"https://api.yparse.com/api/xml","name":"云播+","key":"云播","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"每天(fq)+","key":"每天(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"M3U8(fq)+","key":"M3U8(fq)","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"api":"csp_LiteApple","name":"🍎苹果+☆☆☆","key":"csp_LiteApple","type":3,"searchable":1,"quickSearch":1,"filterable": 1},
-{"api":"csp_Anime1","name":"🌸动漫+☆☆","key":"csp_Anime1","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_Cokemv","name":"🚗可乐+☆☆","key":"csp_Cokemv","type":3,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_Lgyy","name":"💧蓝光+☆☆","key":"csp_Lgyy","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_IQIYI","name":"🥝爱奇艺+☆☆☆","key":"csp_IQIYI","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_MGTV","name":"🍋芒果+☆☆☆","key":"csp_MGTV","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_Yj1211","name":"📸直播合集+☆☆☆☆","key":"csp_Yj1211","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-
-//JSON-----
-{"api":"csp_XPath","ext":"https://pcrock88.github.io/zb/dat/json/vip电影.json","name":"💢VIP电影+☆☆☆","key":"csp_xp_vip1280","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XPathFilter","ext":"https://pcrock88.github.io/zb/dat/json/dm84.json","name":"💢动漫巴士+☆☆☆","key":"csp_xp_dm84","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XPathMacFilter","ext":"https://pcrock88.github.io/zb/dat/json/动漫岛.json","name":"💢动漫岛+☆☆☆","key":"csp_xp_dmw","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_XPathMacFilter","ext":"https://pcrock88.github.io/zb/dat/json/libv.json","name":"💢Libvio+☆☆☆","key":"csp_xp_libv","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/搜狗影院.json","name":"🍀搜狗影院+☆☆☆","key":"csp_xbb_搜狗","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/茶杯狐.json","name":"🍀茶杯狐+☆☆☆","key":"csp_xbb_茶杯狐","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/真不卡.json","name":"🍀真不卡sobods+☆☆☆","key":"csp_xbb_sobods","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/Nike影视网.json","name":"🍀Nike影视+☆☆☆","key":"csp_xbb_Nike影视","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XBiubiu","ext":"https://pcrock88.github.io/zb/dat/json/骚火电影.json","name":"🔥骚火电影+☆☆☆","key":"csp_biubiu_骚火电影","type":3,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"csp_XPbd","ext":"https://pcrock88.github.io/zb/dat/json/磁力.json","name":"🧲磁力高清+☆☆☆","key":"bdys","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"api":"csp_Bili","ext":"https://pcrock88.github.io/zb/dat/json/哔哩全集.json","name":"🐞哔哩全集+☆☆☆","key":"csp_哔哩全集","type":3,"searchable":1,"quickSearch":0,"filterable":1},
-{"api":"csp_Bili","ext":"https://pcrock88.github.io/zb/dat/json/学习园地.json","name":"📝学习园地+☆☆☆","key":"学习","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"api":"csp_Bili","ext":"https://pcrock88.github.io/zb/dat/json/软件教程.json","name":"📚软件教程+☆☆☆","key":"软件","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"api":"csp_Bili","ext":"https://pcrock88.github.io/zb/dat/json/哔哩儿童乐园.json","name":"🐯儿童乐园+☆☆☆","key":"儿童","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"api":"csp_Bili","ext":"https://pcrock88.github.io/zb/dat/json/哔哩演唱会.json","name":"🌎演唱会+☆☆","key":"csp_Biliych","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"api":"csp_XYQBiu","ext":"https://pcrock88.github.io/zb/dat/json/斗鱼.json","name":"🐬斗鱼+☆☆☆","key":"csp_XYQBiu_斗鱼","type":3,"searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_xp_348z","ext":"https://pcrock88.github.io/zb/dat/json/348电影.json","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xp_tjyy","ext":"https://pcrock88.github.io/zb/dat/json/奇优影院.json","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xp_yingba","ext":"https://pcrock88.github.io/zb/dat/json/电影吧.json","name":"💢电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xp_99ys","ext":"https://pcrock88.github.io/zb/dat/json/久久影视.json","name":"💢久久影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xp_789kp","ext":"https://pcrock88.github.io/zb/dat/json/789看片.json","name":"💢789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xbb_双十电影","ext":"https://pcrock88.github.io/zb/dat/json/双十电影.json","name":"🍀双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0}
-
+{"api":"http://app.7en7.com/api.php/provide/vod","name":"瞬间+","key":"瞬间","type":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 "parses": [
 {"url":"https://jx.bozrc.com:4433/player/?url=","name":"parwix","type":0},
