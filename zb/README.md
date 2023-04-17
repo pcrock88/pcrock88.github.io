@@ -17,9 +17,9 @@ json内资源格式参数介绍
 ----|
 [github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)|
 
-FongMi電視版|FongMi手機版
-----|----
-[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk "TV")、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk "TV")、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk "TV")|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk "TV")、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk "TV")
+FongMi電視版|FongMi手機版|takagen99
+----|----|----
+[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk)、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk)|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk)|[20220709](https://github.com/takagen99/Box/releases/download/v1.0.0-alpha/app-release.apk)
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
 ----|----
