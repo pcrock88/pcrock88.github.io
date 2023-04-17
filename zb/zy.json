@@ -57,7 +57,7 @@
 {"api":"https://api.yparse.com/api/xml","name":"云播","key":"云播","group": "MV"},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"天天看(xj)","key":"天天看(xj)","group": "MV"},
 {"api":"http://app.7en7.com/api.php/provide/vod/at/xml","name":"瞬间(xj)","key":"瞬间(xj)","group": "MV"},
-{"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"快播资源","key":"快播","group": "MV},
+{"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"快播资源","key":"快播","group": "MV"},
 
 {"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃","group": "+18"},
 {"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源","group": "+18"},
