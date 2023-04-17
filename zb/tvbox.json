@@ -14,6 +14,9 @@
 {"ext":"https://pcrock88.github.io/zb/dat/js/虎牙直播.js","name":"🚔虎牙直播","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"🚔哔哩直播","key":"drpy_js_哔哩直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_zxzj","name":"在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
+{"key":"csp_zxzjH3","name":"在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 //JS-----
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"🚔007影视","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"🚔100影院","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
