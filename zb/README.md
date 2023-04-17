@@ -1,6 +1,6 @@
 ### 以下内容均源于互联网，如有侵权，请联系删除！
 
-
+https://github.com/cuiocean/ZY-Player-APP
 
 json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
