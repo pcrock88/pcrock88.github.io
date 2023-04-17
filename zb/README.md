@@ -3,6 +3,7 @@
 https://github.com/cuiocean/ZY-Player-APP
 https://github.com/huangdali/M3U8Manger
 https://github.com/HeiSir2014/M3U8-Downloader
+https://github.com/cloudreve/Cloudreve
 
 json内资源格式参数介绍
 {"key":"key_〔资源名称〕",
