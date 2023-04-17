@@ -12,10 +12,8 @@ Adult IPTV.net
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/video-js.min.css" rel="stylesheet">
-<script src="js/video.min.js">
-</script>
-<script src="js/videojs-contrib-hls.min.js">
-</script>
+<script src="js/video.min.js"></script>
+<script src="js/videojs-contrib-hls.min.js"></script>
 </head>
 <body>
 <div class="container">
@@ -23,9 +21,7 @@ Adult IPTV.net
 <div class="col-md-10 tv-screen col-md-offset-1">
 <div class="col-md-10">
 <div class="row">
-<video-js id="player" class="video-js vjs-default-skin vjs-big-play-centered"
-controls preload="auto" data-setup='{"fluid": true,"autoplay": true}' poster="">
-</video-js>
+<video-js id="player"class="video-js vjs-default-skin vjs-big-play-centered"controls preload="auto"data-setup='{"fluid": true,"autoplay": true}'poster=""></video-js>
 </div>
 </div>
 <div class="col-md-2">
@@ -56,12 +52,8 @@ controls preload="auto" data-setup='{"fluid": true,"autoplay": true}' poster="">
 <li><a class="playignitor vertical-align" href="javascript:void(0)" data-source="https://live.adultiptv.net/brunette.m3u8">Brunette</a></li>
 <li><a class="playignitor vertical-align" href="javascript:void(0)" data-source="https://live.adultiptv.net/asian.m3u8">Asian</a></li>
 <li><a class="playignitor vertical-align" href="javascript:void(0)" data-source="https://live.adultiptv.net/blonde.m3u8">Blonde</a></li>
+<li><a class="playignitor vertical-align" href="javascript:void(0)" data-source="https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8">adsports1</a></li>
 
-<li>
-<a class="playignitor vertical-align" href="javascript:void(0)" data-source="https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8">
-<img src="img/logo/">
-</a>
-</li>
 </ul>
 </div>
 </div>
@@ -70,35 +62,10 @@ controls preload="auto" data-setup='{"fluid": true,"autoplay": true}' poster="">
 </div>
 </div>
 </div>
-<script src="js/jquery-3.2.1.min.js">
-</script>
-<script src="js/scripts.js">
-</script>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/scripts.js"></script>
 </body>
 <script>
-const disabledKeys = [67, 73, 85, 88]; // keys code that will be disabled
-const showAlert = e = >{
-
-e.preventDefault(); // preventing its default behaviour
-return alert("Sorry, you can't view or copy source codes this way!");
-
-}
-
-document.addEventListener("contextmenu", e = >{
-
-showAlert(e); // calling showAlert() function on mouse right click
-});
-
-document.addEventListener("keydown", e = >{
-
-// calling showAlert() function, if the pressed key matched to disabled keys
-if (e.ctrlKey && disabledKeys.includes(e.keyCode)) {
-
-showAlert(e);
-
-}
-
-});
+const disabledKeys=[67,73,85,88];const showAlert=e=>{e.preventDefault();return alert("Sorry, you can't view or copy source codes this way!")}document.addEventListener("contextmenu",e=>{showAlert(e)});document.addEventListener("keydown",e=>{if(e.ctrlKey&&disabledKeys.includes(e.keyCode)){showAlert(e)}});
 </script>
-
 </html>
