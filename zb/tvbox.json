@@ -16,9 +16,9 @@
 {"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"🚔哔哩直播","key":"drpy_js_哔哩直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //py-----
-{"ext":"https://pcrock88.github.io/zb/dat/py/py_cctv_full.py","api":"py_cctv_full","key":"py_cctv_full","name":"央视大全","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"ext":"https://pcrock88.github.io/zb/dat/py/py_bilivd.py","api":"py_bilivd","key":"py_bilivd","name":"B站(带搜索)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-
+{"ext":"https://pcrock88.github.io/zb/dat/py/py_cctv_full.py","api":"py_cctv_full","key":"py_cctv_full","name":"央视(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/py/py_kunyu77.py","api":"py_kunyu77","key":"py_kunyu77","name":"酷云77(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/py/py_czspp.py","key":"py_czspp","api":"py_czspp","name":"厂长(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //JS-----
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"🚔007影视","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"🚔100影院","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
