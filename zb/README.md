@@ -1,6 +1,5 @@
 # 以下内容均源于互联网
-https://www.emojiall.com/zh-hans/categories/D  
-https://funletu.com/emoji/
+
 
 
 json内资源格式参数介绍
@@ -15,7 +14,7 @@ json内资源格式参数介绍
 
 工具|
 ----|
-[github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)|
+[github代理](https://ghproxy.com/)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)、[emoji-1](https://www.emojiall.com/zh-hans/categories/D)、[emoji-2](https://funletu.com/emoji/)|
 
 FongMi電視版|FongMi手機版|takagen99
 ----|----|----
