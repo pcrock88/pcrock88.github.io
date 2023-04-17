@@ -9,7 +9,7 @@
 {"ext":"https://pcrock88.github.io/zb/dat/py/py_cctv_full.py","api":"py_cctv_full","key":"py_cctv_full","name":"央视(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/py/py_kunyu77.py","api":"py_kunyu77","key":"py_kunyu77","name":"酷云77(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/py/py_huya.py","api":"py_huya","key":"py_huya","name":"虎牙(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
-{"ext":"https://pcrock88.github.io/zb/dat/py/py_douyu.py","api":"py_douyu","key":"py_douyu","name":"斗鱼(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1}
+{"ext":"https://pcrock88.github.io/zb/dat/py/py_douyu.py","api":"py_douyu","key":"py_douyu","name":"斗鱼(py)","type":3,"searchable":0,"quickSearch":0,"filterable":1},
 //jar-----
 {"jar":"https://pcrock88.github.io/zb/dat/jsd/小苹果.jpg;md5;d3828dbc91d98c3ebc258e6f7874a30c","api":"csp_LiteApple","key":"小苹果","name":"🍎小苹果(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_QQ","key":"csp_QQ","name":"🍅腾讯(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
