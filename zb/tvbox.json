@@ -15,7 +15,6 @@
 {"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"🚔斗鱼直播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"🚔哔哩直播","key":"drpy_js_哔哩直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602"},
 //JS-----
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"🚔007影视","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"🚔100影院","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -392,10 +391,11 @@
 {"url":"Demo","name":"解析聚合","type":3},{"url":"Parallel","name":"Json并发","type":2},{"url":"Sequence","name":"Json轮询","type":2}
 ],
 "spider":[
-"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+"https://pcrock88.github.io/zb/dat/jsd/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83"
 ],
 "wallpaper":[
+"https://www.dmoe.cc/random.php"
 "http://饭太硬.ga/深色壁纸/api.php",
 "https://bing.img.run/rand.php",
 "http://www.kf666888.cn/api/tvbox/img",
@@ -408,6 +408,7 @@
 "http://api.btstu.cn/sjbz/?lx=suiji",
 "https://tool.weetai.cn/api",
 "https://pictures.catvod.eu.org/"
+"https://picsum.photos/1280/720/?blur=10"
 ],
 "lives":[
   {"name":"蓝鲸直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt"},
