@@ -2,7 +2,7 @@
 
 IPTV|
 ----|
-[IPTV搜索](http://tonkiang.us/)、[AdultIPTV](https://github.com/andibasuki/SITechnologyLtd.Porn.AdultIPTV.net)、[Free XXX](http://adultiptv.net/)、[SPX372928](https://github.com/SPX372928)、[iptv-restream](https://github.com/iptv-restream)、[liangdl](https://github.com/liangdl)、[iptv-pro](https://github.com/iptv-pro)、[IPTV:g9x2](https://yxssp.lanzoui.com/b06fic5bi)、[youshandefeiyang](https://github.com/youshandefeiyang)、[biancangming](https://github.com/biancangming)、[SPX372928](https://github.com/SPX372928)、[zbefine](https://github.com/zbefine)、[kimcrowing](https://github.com/kimcrowing)、[qwerttvv](https://github.com/qwerttvv)、[wuwentao](https://github.com/wuwentao)、[wudunxu](https://github.com/wudunxu)、[nthack](https://github.com/nthack)、[lylehust](https://github.com/lylehust)、[kozalak-robot](https://github.com/kozalak-robot)、[IPTV](https://github.com/shawze/IPTV)、[iptv](https://github.com/FanchangWang/iptv)、[Tzwcard](https://github.com/Tzwcard)、[islercn](https://github.com/islercn)、[etag2000](https://github.com/etag2000)、[c1pher-cn](https://github.com/c1pher-cn)、[qcgzxw](https://github.com/qcgzxw)、[lizhiyong2000](https://github.com/lizhiyong2000)、[yunianvh](https://github.com/yunianvh)、[sec-an](https://github.com/sec-an)、[fuinbr](https://github.com/fuinbr)、[vbskycn](https://github.com/vbskycn)、[SoPudge](https://github.com/SoPudge)、[Cyril0563(蓝鲸TV)](https://github.com/Cyril0563)、[imDazui](https://github.com/imDazui)、[Free-TV](https://github.com/Free-TV)、
+[IPTV搜索](http://tonkiang.us/ "搜索直播源")、[AdultIPTV](https://github.com/andibasuki/SITechnologyLtd.Porn.AdultIPTV.net)、[Free XXX](http://adultiptv.net/)、[SPX372928](https://github.com/SPX372928)、[iptv-restream](https://github.com/iptv-restream)、[liangdl](https://github.com/liangdl)、[iptv-pro](https://github.com/iptv-pro)、[IPTV:g9x2](https://yxssp.lanzoui.com/b06fic5bi)、[youshandefeiyang](https://github.com/youshandefeiyang)、[biancangming](https://github.com/biancangming)、[SPX372928](https://github.com/SPX372928)、[zbefine](https://github.com/zbefine)、[kimcrowing](https://github.com/kimcrowing)、[qwerttvv](https://github.com/qwerttvv)、[wuwentao](https://github.com/wuwentao)、[wudunxu](https://github.com/wudunxu)、[nthack](https://github.com/nthack)、[lylehust](https://github.com/lylehust)、[kozalak-robot](https://github.com/kozalak-robot)、[IPTV](https://github.com/shawze/IPTV)、[iptv](https://github.com/FanchangWang/iptv)、[Tzwcard](https://github.com/Tzwcard)、[islercn](https://github.com/islercn)、[etag2000](https://github.com/etag2000)、[c1pher-cn](https://github.com/c1pher-cn)、[qcgzxw](https://github.com/qcgzxw)、[lizhiyong2000](https://github.com/lizhiyong2000)、[yunianvh](https://github.com/yunianvh)、[sec-an](https://github.com/sec-an)、[fuinbr](https://github.com/fuinbr)、[vbskycn](https://github.com/vbskycn)、[SoPudge](https://github.com/SoPudge)、[Cyril0563(蓝鲸TV)](https://github.com/Cyril0563)、[imDazui](https://github.com/imDazui)、[Free-TV](https://github.com/Free-TV)、
 
 
 
@@ -20,18 +20,18 @@ FongMi電視版|FongMi手機版|takagen99|TVBoxOSC
 [肥猫](http://肥猫.love)、[饭太硬](http://饭太硬.ga/x/o.json)、[云星](https://maoyingshi.cc/tvbox/云星日记/1.m3u8)、[老刘备](https://raw.liucn.cc/box/m.json)、[多多](https://yydsys.top/duo/v.json)、[南风](https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json)、[俊佬](http://home.jundie.top:81/top98.json)、[唐三](https://hutool.ml/tang)、[霜辉月明](https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json)、[甜蜜](https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json)、[dxawi/github️](https://dxawi.github.io/0/0.json)、[潇洒js源](https://download.kstore.space/download/2863/01.txt)、[D大](https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8)、[未知主人](https://agit.ai/n/b/raw/branch/a/b/c.json)、[小苹果](https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json)、[01](http://9xi4o.tk/0725.json)、[02](http://byyds.top/w.txt)、[03](http://home.jundie.top:81/top98.json)、[04](http://pandown.pro/tvbox/tvbox.json)、[05](http://www.dmtv.ml/mao/single.json)、[06](https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json)、[07](https://download.kstore.space/download/2863/01.txt)、[08](https://dxawi.github.io/0/0.json)、[09](https://freed.yuanhsing.cf/TVBox/meowcf.json)、[10](https://raw.iqiq.io/liu673cn/box/main/m.json)、[11](https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json)、[12](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/biu.txt)、[13](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt)|接口
 [01](http://shuyuan.miaogongzi.net/shuyuan/1667621493.txt)、[02](http://shuyuan.miaogongzi.net/shuyuan/1666225624.txt)、[03](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json)、[04](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json)、[05](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-2.json)、[06](https://ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json)|开车
 
-json内资源格式参数介绍
-<pre><code>
-{
-"key":"key_〔资源名称〕",
-"name":"资源名称",
-"type":0,
-"api":"csp_〔jar内文件名称〕",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"jar":"〔jar文件地址〕",
-"ext":"〔txt json文件地址〕",
-"playUrl": "〔播放解析地址〕",
-"categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
-}
+  json内资源格式参数介绍
+  
+    {
+    "key":"key_〔资源名称〕",
+    "name":"资源名称",
+    "type":0,
+    "api":"csp_〔jar内文件名称〕",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"〔jar文件地址〕",
+    "ext":"〔txt json文件地址〕",
+    "playUrl": "〔播放解析地址〕",
+    "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
+    }
