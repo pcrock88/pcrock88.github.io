@@ -1,2 +1,2 @@
 # 
-[CCTV-01](http://live.cooltv.top/tv/aishang.php?id=cctv1)
+[CCTV-01](http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8)、[CCTV-02](http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8)、[CCTV-03](http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8)、[CCTV-04](http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8)、[CCTV-05](http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8)、[CCTV-5+](http://125.210.152.19:9120/live/hzgq-cctv5pulsgq-h264.m3u8)、、、、、、、、、
