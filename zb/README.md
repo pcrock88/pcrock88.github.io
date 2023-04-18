@@ -1,7 +1,7 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-json内资源格式参数介绍
-  
+格式:
+
     {
     "key":"key_〔资源名称〕",
     "name":"资源名称",
