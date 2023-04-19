@@ -25,7 +25,7 @@ IPTV|
 
 工具|
 ----|
-[GitHub Proxy](https://ghproxy.com)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)、[emoji-1](https://www.emojiall.com/zh-hans/categories/D)、[emoji-2](https://funletu.com/emoji/)、[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)、[Cloudreve](https://github.com/cloudreve/Cloudreve)、[M3U8Manger](https://github.com/huangdali/M3U8Manger)、[M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)、[AHK:MyScript](https://github.com/wyagd001/MyScript)、、、|
+[GitHub Proxy](https://ghproxy.com)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[猫抓](https://github.com/xifangczy/cat-catch)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer发行](https://github.com/Hiram-Wong/ZyPlayer)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)、[emoji-1](https://www.emojiall.com/zh-hans/categories/D)、[emoji-2](https://funletu.com/emoji/)、[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)、[Cloudreve](https://github.com/cloudreve/Cloudreve)、[M3U8Manger](https://github.com/huangdali/M3U8Manger)、[M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)、[AHK:MyScript](https://github.com/wyagd001/MyScript)、[FL](http://www.huo.kim)、、|
 
 FongMi電視版|FongMi手機版|takagen99|TVBoxOSC
 ----|----|----|----
