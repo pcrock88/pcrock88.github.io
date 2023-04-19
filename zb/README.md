@@ -5,6 +5,7 @@ https://gitee.com/konrad98/Html-Example
 https://gitee.com/hui-Zz/RunAny?_from=gitee_search
 https://download.kstore.space/download/2863/01.txt
 https://www.douyin.com/home
+http://www.moondownload.com/chinese.html
 
     {
     "key":"key_〔资源名称〕",
