@@ -1,8 +1,7 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-'https://github.com/yurenli0217/Boshiahk2
-
-格式:
+https://github.com/yurenli0217/Boshiahk2
+https://gitee.com/konrad98/Html-Example/tree/master格式:
 
     {
     "key":"key_〔资源名称〕",
