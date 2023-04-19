@@ -12,9 +12,6 @@
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_biliys.py","api":"py_bilimd","key":"py_bilimd","name":"B站影视(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_bilivd.py","api":"py_bilivd","key":"py_bilivd","name":"B站视频(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_bilizb.py","api":"py_bilizb","key":"py_bilizb","name":"B站直播(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_ali.py","api":"py_ali","key":"py_ali","name":"阿里(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_cokemv.py","api":"py_cokemv","key":"py_cokemv","name":"cokemv(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_czspp.py","api":"py_czspp","key":"py_czspp","name":"厂长(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_genmov.py","api":"py_genmov","key":"py_genmov","name":"我爱跟剧(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_gimytv.py","api":"py_gimytv","key":"py_gimytv","name":"剧迷(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/txt/py/py_gitcafe.py","api":"py_gitcafe","key":"gitcafe","name":"gitcafe(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -30,7 +27,7 @@
 //JS-----
 {"ext":"https://pcrock88.github.io/zb/dat/js/优酷.js","name":"优酷(js)","key":"drpy_js_优酷","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/虎牙直播.js","name":"虎牙(js)","key":"drpy_js_虎牙直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"斗鱼(js)播","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/zb/dat/js/斗鱼直播.js","name":"斗鱼(js)","key":"drpy_js_斗鱼直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/js/哔哩直播.js","name":"哔哩(js)","key":"drpy_js_哔哩直播","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/007影视.js","name":"007影视(js)","key":"drpy_js_007影视","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/100影院.js","name":"100影院(js)","key":"drpy_js_100影院","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
