@@ -6,6 +6,7 @@ https://gitee.com/hui-Zz/RunAny?_from=gitee_search
 https://download.kstore.space/download/2863/01.txt
 https://www.douyin.com/home
 http://www.moondownload.com/chinese.html
+https://github.com/1143910315
 
     {
     "key":"key_〔资源名称〕",
