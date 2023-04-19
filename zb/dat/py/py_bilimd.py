@@ -40,20 +40,22 @@ class Spider(Spider):  # 元类 默认的元类 type
 			result['filters'] = self.config['filter']
 		return result
 	def homeVideoContent(self):
-		result = {
-			'list':[]
-		}
-		return result
+		tid = self.homeContent(False)['class'][0]['type_id']
+		return self.categoryContent(tid, 1, False, {})
+
 	cookies = ''
 	def getCookie(self):
-		#在cookies_str中填入会员或大会员cookie，以获得更好的体验
-		cookies_str = "innersign=0; buvid3=606BE156-AE37-AEA8-7052-9DA0B21766E776404infoc; b_nut=1663302976; i-wanna-go-back=-1; b_ut=7; b_lsid=4106252F6_18344933A90; _uuid=586AAEB7-6B88-A691-F7AC-95C27E57F53C43036infoc; buvid4=B6FF1449-4361-1C76-DEFC-4AFCA1777B7E78304-022091612-PdJr0jKE6N5TamfAEX9uACD1RXvklspbNdlcIQEFLMu0d9wS3G3sdA%3D%3D; buvid_fp=2a9b54d5e06aa54293dc7544e000552d"
-		cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
-		rsp = session()
-		cookies_jar = utils.cookiejar_from_dict(cookies_dic)
-		rsp.cookies = cookies_jar
-		content = self.fetch("http://api.bilibili.com/x/web-interface/nav", cookies=rsp.cookies)
-		res = json.loads(content.text)
+		try:
+			cookies_str = self.fetch("cook所在链接").text
+			cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
+			rsp = session()
+			cookies_jar = utils.cookiejar_from_dict(cookies_dic)
+			rsp.cookies = cookies_jar
+			content = self.fetch("http://api.bilibili.com/x/web-interface/nav", cookies=rsp.cookies)
+			res = json.loads(content.text)
+		except:
+			res = {}
+			res["code"] = 404
 		if res["code"] == 0:
 			self.cookies = rsp.cookies
 		else:
@@ -88,8 +90,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['limit'] = 90
 		result['total'] = 999999
 		return result
+
 	def cleanSpace(self,str):
 		return str.replace('\n','').replace('\t','').replace('\r','').replace(' ','')
+
 	def detailContent(self,array):
 		aid = array[0]
 		url = "http://api.bilibili.com/pgc/view/web/season?season_id={0}".format(aid)
@@ -176,24 +180,22 @@ class Spider(Spider):  # 元类 默认的元类 type
 		rsp = self.fetch(url,cookies=self.cookies,headers=header)
 		jRoot = json.loads(rsp.text)
 		if jRoot['message'] != 'success':
-			print("需要大会员权限才能观看")
-			return {}
-		jo = jRoot['result']
-		ja = jo['durl']
-		maxSize = -1
-		position = -1
-		for i in range(len(ja)):
-			tmpJo = ja[i]
-			if maxSize < int(tmpJo['size']):
-				maxSize = int(tmpJo['size'])
-				position = i
-
-		url = ''
-		if len(ja) > 0:
-			if position == -1:
-				position = 0
-			url = ja[position]['url']
-
+			url = ''
+		else:
+			jo = jRoot['result']
+			ja = jo['durl']
+			maxSize = -1
+			position = -1
+			for i in range(len(ja)):
+				tmpJo = ja[i]
+				if maxSize < int(tmpJo['size']):
+					maxSize = int(tmpJo['size'])
+					position = i
+			url = ''
+			if len(ja) > 0:
+				if position == -1:
+					position = 0
+				url = ja[position]['url']
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url
