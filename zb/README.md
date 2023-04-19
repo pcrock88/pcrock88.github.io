@@ -3,6 +3,7 @@
 https://github.com/yurenli0217/Boshiahk2
 https://gitee.com/konrad98/Html-Example
 https://gitee.com/hui-Zz/RunAny?_from=gitee_search
+https://download.kstore.space/download/2863/01.txt
 
     {
     "key":"key_〔资源名称〕",
