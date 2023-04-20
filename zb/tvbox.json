@@ -17,15 +17,7 @@
 {"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_IQIYI","key":"csp_IQIYI","name":"爱奇艺(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"https://pcrock88.github.io/zb/dat/jsd/qq_qiyi_mgtv.jpg","api":"csp_MGTV","key":"csp_MGTV","name":"芒果(jar)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //JS-----
-{"key": "360_spider",
-			"name": "360影视(json)",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
+{"key":"360_spider","name":"360影视(json)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 		{
 			"key": "csp_QQ",
 			"name": "腾讯(json)",
