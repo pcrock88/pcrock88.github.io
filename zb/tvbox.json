@@ -410,8 +410,8 @@
 
 {"url":"Demo","name":"解析聚合","type":3},{"url":"Parallel","name":"Json并发","type":2},{"url":"Sequence","name":"Json轮询","type":2}
 ],
-"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-//"spider":[
+"spider":[
+"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 "https://pcrock88.github.io/zb/dat/jsd/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "https://pcrock88.github.io/zb/dat/jsd/cc.jar;md5;613066b0150c902b3d51bde7a433be83",
 "https://pcrock88.github.io/zb/dat/jsd/258733.jar"
