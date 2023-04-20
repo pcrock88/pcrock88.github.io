@@ -47,7 +47,7 @@
 				"奇幻片",
 				"少儿",
 				"其他片"
-			]}
+			]},
 {"ext":"https://pcrock88.github.io/dr_py/js/优酷.js","name":"优酷(js)","key":"drpy_js_优酷","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/虎牙直播.js","name":"虎牙(js)","key":"drpy_js_虎牙直播","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/斗鱼直播.js","name":"斗鱼(js)","key":"drpy_js_斗鱼直播","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
