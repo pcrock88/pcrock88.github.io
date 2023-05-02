@@ -16,6 +16,7 @@
 //{"ext":"https://pcrock88.github.io/dr_py/txt/py/py_czspp.py","api":"py_czspp","key":"py_czspp","name":"厂长(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //{"ext":"https://pcrock88.github.io/dr_py/txt/py/py_bilizb.py","api":"py_bilizb","key":"py_bilizb","name":"哔哩直播(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/txt/py/py_gimytv.py","api":"py_gimytv","key":"py_gimytv","name":"剧迷(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"ext":"https://pcrock88.github.io/dr_py/txt/py/py_genmov.py","api":"py_genmov","key":"py_genmov","name":"跟剧(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/txt/py/py_huya.py","api":"py_huya","key":"py_huya","name":"虎牙(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/txt/py/py_douyu.py","api":"py_douyu","key":"py_douyu","name":"斗鱼(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/py/py_cctv_full.py","api":"py_cctv_full","key":"py_cctv_full","name":"央视(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
