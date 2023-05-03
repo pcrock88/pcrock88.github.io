@@ -1,22 +1,6 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-[drpy新仓](https://github.com/kingfren/dr_py)
-
-[python](https://github.com/xingyujie/binpython)[本地接口](http://localhost:5705/index)
-
-[直播聚和平台](https://github.com/guyijie1211)
-
-[抖音](https://www.douyin.com/home)
-
-[嘸蝦米輸入工具](https://github.com/yurenli0217/Boshiahk2)
-
-[html杂七杂八](https://gitee.com/konrad98/Html-Example)
-
-[RunAny](https://gitee.com/hui-Zz/RunAny?_from=gitee_search)
-
-[静读天下](http://www.moondownload.com/chinese.html)
-
-[易语言](https://github.com/1143910315)
+[drpy新仓](https://github.com/kingfren/dr_py)、[python](https://github.com/xingyujie/binpython)、[本地接口](http://localhost:5705/index)、[直播聚和平台](https://github.com/guyijie1211)、[抖音](https://www.douyin.com/home)、[嘸蝦米輸入工具](https://github.com/yurenli0217/Boshiahk2)、[html杂七杂八](https://gitee.com/konrad98/Html-Example)、[RunAny](https://gitee.com/hui-Zz/RunAny?_from=gitee_search)、[静读天下](http://www.moondownload.com/chinese.html)、[易语言](https://github.com/1143910315)
 
 
     {
@@ -46,7 +30,7 @@ IPTV|
 
 FongMi電視版|FongMi手機版|takagen99|TVBoxOSC
 ----|----|----|----
-[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk)、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk)|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk)|[20220709](https://github.com/takagen99/Box/releases/download/v1.0.0-alpha/app-release.apk)|[pyramid-1011](https://github.com/UndCover/PyramidStore/blob/main/pyramid-1011.apk)
+[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk)、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk)|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk)|[20220709](https://github.com/takagen99/Box/releases/download/v1.0.0-alpha/app-release.apk)|[pyramid-1011](https://github.com/UndCover/PyramidStore/blob/main/pyramid-1011.apk)、[官方原版](https://liucn.lanzouf.com/idz8n0r4nbgh)
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
 ----|----
