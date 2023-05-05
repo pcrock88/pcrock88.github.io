@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>俄罗斯方块</title>
+    <style>
+        table {
+            margin: 0 auto;
+        }
+
+        td {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #666;
+        }
+
+        .bgRed {
+            background-color: red;
+        }
+
+        .bgGray {
+            background-color: gray;
+        }
+
+        .down {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="totalScore" style="text-align: center;"></h1>
+    <table>
+    </table>
+    <div style="text-align: center;">
+        <button id="transform">↑变形</button>
+        <button id="down">↓向下</button>
+        <button id="left">←向左</button>
+        <button id="right">→向右</button>
+    </div>
+
+    <script>
+
+        //图标基类
+        class Icon {
+            status = 0  //形态
+            position = null //当前形态的坐标
+            positionList = null //保存所有形态的坐标
+
+            //通过原点坐标，设置所有形态的坐标
+            setPositionList() { }
+
+            //构造函数
+            constructor(origin) {
+                this.setPositionList(origin)
+                this.position = this.positionList[0]//初始化是所有状态的第一个
+            }
+            //通过status设置icon的位置
+            setPosition(status) {
+                this.status = status
+                this.position = this.positionList[status]
+            }
+            //获取原点
+            getOrigin() {
+                return this.position[0]
+            }
+            //变形
+            transform() {
+                let status = this.status + 1//状态+1，切换到下一个状态
+                status = status == this.positionList.length ? 0 : status// true返回0，false返回当前status，实现循环切换状态
+                let newIcon = new this.constructor(this.getOrigin())
+                newIcon.setPosition(status)
+                return newIcon
+            }
+        }
+
+        //图标派生类
+        class J extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top - 1, left: left - 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top - 1, left: left + 1 },
+                        { top: top + 1, left: left }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left + 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top + 1, left: left },
+                        { top: top + 1, left: left - 1 }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class L extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top - 1, left: left + 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top + 1, left: left },
+                        { top: top + 1, left: left + 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left - 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top + 1, left: left },
+                        { top: top - 1, left: left - 1 }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class T extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top + 1, left: left },
+                        { top: top, left: left - 1 }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class Z extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left - 1 },
+                        { top: top - 1, left: left },
+                        { top: top, left: left + 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left + 1 },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class S extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top - 1, left: left + 1 },
+                        { top: top, left: left - 1 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left + 1 }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class I extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left - 1 },
+                        { top: top, left: left + 1 },
+                        { top: top, left: left + 2 }
+                    ],
+                    [
+                        { top: top, left: left },
+                        { top: top - 1, left: left },
+                        { top: top + 1, left: left },
+                        { top: top + 2, left: left }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+        class O extends Icon {
+            setPositionList({ top, left }) {
+                this.positionList = [
+                    [
+                        { top: top, left: left },
+                        { top: top, left: left + 1 },
+                        { top: top + 1, left: left },
+                        { top: top + 1, left: left + 1 }
+                    ]
+                ]
+            }
+            constructor(origin) {
+                super(origin)
+            }
+        }
+
+        //游戏类：渲染，清除等一系列方法和数据
+        class Game {
+            #t = null//计时器变量
+            #_icon = null//当前图标
+            #icon_ = null//下一次准备的展示图标
+            #totalScore = 0 //总分
+            #iconClassList = null//图标集合
+            #classX = null//当前图标类
+            #table = null//表格DOM
+            #totalScoreEl = null//显示分数的DOM
+
+
+            //生成20行10列的表格
+            #data = [
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
+                [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+            ]
+            //把DOM对象传进来
+            constructor(table, totalScoreEl, iconClassList) {
+                this.#table = table
+                this.#totalScoreEl = totalScoreEl
+                this.#iconClassList = iconClassList
+            }
+
+            #render() {
+                this.#totalScoreEl.innerHTML = this.#totalScore
+                this.#table.innerHTML = ""
+                //使用forEach遍历,生成表格(优于map)
+                this.#data.forEach(v => {
+                    //生成一行
+                    let tr = document.createElement('tr')
+                    this.#table.appendChild(tr)
+                    //为这一行添加列
+                    v.forEach(v => {
+                        let td = document.createElement('td')
+                        tr.appendChild(td)
+                        //添加state属性设置背景色
+                        if (v.state === 1) {
+                            td.className = 'bgRed'
+                        }
+                        if (v.state === 2) {
+                            td.className = 'bgGray'
+                        }
+                    })
+                })
+
+            }
+            //icon初始化
+            #init() {
+                //随机生成图标
+                let n = Math.floor(Math.random() * this.#iconClassList.length)
+                this.#classX = this.#iconClassList[n]
+                //让图标从中间生成
+                this.#_icon = new this.#classX({ top: 1, left: this.#data[0].length / 2 })
+                if (!this.t) {
+                    this.t = setInterval(() => {
+                        this.down()
+                    }, 1000)
+                }
+                if (this.#checkTouch(this.#_icon)) {
+                    alert(`游戏结束，您的总分为${this.#totalScore}`)
+                    clearInterval(this.t)
+                }
+                this.#showIcon(this.#_icon)
+                this.#render()
+            }
+            // 将data安装icon的坐标设置状态
+            #setIconstate(icon, state) {
+                icon.position.forEach(v => {
+                    let y = v.top
+                    let x = v.left
+                    this.#data[y][x].state = state
+                })
+            }
+            //将icon同步到数据结合中
+            #showIcon(icon) {
+                this.#setIconstate(icon, 1)
+            }
+            //移动和变形时，清除前一个icon的坐标
+            #clearIcon(icon) {
+                this.#setIconstate(icon, 0)
+            }
+            //设置icon到达底部，颜色改变
+            #setBottom(icon) {
+                this.#setIconstate(icon, 2)
+            }
+            //移动，to是方向
+            #move(to) {
+                let y, x
+                switch (to) {
+                    case "left": y = 0, x = -1; break
+                    case "right": y = 0, x = 1; break
+                    case "down": y = 1, x = 0; break
+                }
+                let origin = this.#_icon.getOrigin()
+                //找出移动后原点的位置
+                let newOrigin = {
+                    top: origin.top + y,
+                    left: origin.left + x
+                }
+                //根据移动后原点的位置绘制出图标
+                this.#icon_ = new this.#classX(newOrigin)
+                this.#icon_.setPosition(this.#_icon.status)//同步新生成的icon状态
+                //检测是否碰撞
+                if (this.#checkTouch(this.#icon_)) {
+                    if (to === "down") {
+                        this.#nextTick()
+                    }
+                } else {//没有碰撞
+                    this.#clearIcon(this.#_icon);
+                    this.#_icon = this.#icon_;
+                    this.#showIcon(this.#_icon);
+                    this.#render();
+                }
+            }
+
+            //单独封装方法，便于调用和维护
+            left() {
+                this.#move("left")
+            }
+            right() {
+                this.#move("right")
+            }
+            down() {
+                this.#move("down")
+            }
+            //变形
+            transform() {
+                this.#icon_ = this.#_icon.transform()
+                //没有碰撞则可以变形
+                if (!this.#checkTouch(this.#icon_)) {
+                    this.#clearIcon(this.#_icon)
+                    this.#_icon = this.#icon_
+                    this.#classX = this.#_icon.constructor
+                    this.#showIcon(this.#_icon)
+                    this.#render()
+                }
+            }
+            //是否触碰边界或体积碰撞
+            #checkTouch(icon) {
+                let flag = false
+                icon.position.forEach(v => {
+                    if (v.top > this.#data.length - 1 || v.left < 0 || v.left > this.#data[0].length - 1) {
+                        flag = true
+                    } else if (this.#data[v.top][v.left] && this.#data[v.top][v.left].state === 2) {
+                        flag = true
+                    }
+                })
+                return flag
+            }
+            //当前icon落地，下一个图标
+            #nextTick() {
+                this.#setBottom(this.#_icon)
+                this.#score()
+                this.#init()
+            }
+            //消除与得分
+            #score() {
+                for (let i = 0; i < this.#data.length; i++) {
+                    for (let j = 0; j < this.#data[i].length; j++) {
+                        if (this.#data[i][j].state !== 2) {
+                            break
+                        }
+                        if (j === this.#data[i].length - 1) {
+                            this.#data.splice(i, 1);
+                            this.#data.unshift([{}, {}, {}, {}, {}, {}, {}, {}, {}, {}])
+                            // this.#data.unshift(this.#data[0])
+                            this.#totalScore++;
+                        }
+                    }
+                }
+            }
+            //start单独放出来，有利于扩展
+            start() {
+                this.#init()
+            }
+        }
+        // 用户代码
+        let table = document.querySelector("table")
+        let totalScoreEl = document.querySelector("#totalScore")
+        let game = new Game(table, totalScoreEl, [T, L, J, S, Z, I, O])
+        game.start()// 开始游戏 
+        //添加按键点击事件
+        document.querySelector("#left").onclick = function () {
+            game.left()
+        }
+        document.querySelector("#right").onclick = function () {
+            game.right()
+        }
+        document.querySelector("#transform").onclick = function () {
+            game.transform()
+        }
+        document.querySelector("#down").onclick = function () {
+            game.down()
+        }
+        //添加键盘点击事件
+        document.onkeydown = function (event) {
+            switch (event.keyCode) {
+                case 37: game.left()
+                    break
+                case 39: game.right()
+                    break
+                case 40: game.down()
+                    break
+                case 38: game.transform()
+                    break
+            }
+        }
+
+
+
+
+
+
+
+
+    </script>
+
+</body>
+
+</html>
