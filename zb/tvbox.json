@@ -8,6 +8,7 @@
 {"key":"csp_Yj1211","name":"直播合集(sp)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/虎牙直播.js","name":"虎牙(js)","key":"drpy_js_虎牙直播","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"小苹果(sp)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360","name":"360(sp)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"ext":"https://pcrock88.github.io/dr_py/txt/py/py_kunyu77.py","api":"py_kunyu77","key":"py_kunyu77","name":"酷云77(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/zb/dat/py/py_cctv_full.py","api":"py_cctv_full","key":"py_cctv_full","name":"央视(py)","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/优酷.js","name":"优酷(js)","key":"drpy_js_优酷","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
