@@ -10,7 +10,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/json/虎牙直播.json"},
 {"key":"csp_biubiu_斗鱼","name":"🦈斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/json/斗鱼直播.json"},
 {"key":"网易CC","name":"🐠网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pcrock88.github.io/zb/dat/json/网易CC直播.json"},
-  { 
+{ 
     "key": "dr_奇优影院", 
     "name": "奇优影院(drpy)", 
     "type": 3, 
