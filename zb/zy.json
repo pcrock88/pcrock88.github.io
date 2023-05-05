@@ -54,13 +54,14 @@
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml","name":"天天看","key":"天天看","group":"MV"},
 {"api":"http://app.7en7.com/api.php/provide/vod/at/xml","name":"瞬间","key":"瞬间","group":"MV"},
 {"api":"https://www.kuaibozy.com/api.php/provide/vod","name":"快播","key":"快播","group":"MV"},
+//------官采
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml","name":"youku","key":"youku","group":"官采"},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml","name":"PPTV","key":"PPTV","group":"官采"},
 {"api":"http://anltv.cn/api.php/provide/vod/at/xml","name":"忆梦","key":"忆梦","group":"官采"},
 {"api":"http://vipmv.cc/api.php/provide/vod/at/xml","name":"天堂","key":"天堂","group":"官采"},
 {"api":"http://xydm.baicai.buzz/api.php/provide/vod/at/xml","name":"小鸟动漫","key":"小鸟动漫","group":"官采"},
 {"api":"https://www.zycaiji.net:7788/api.php/provide/vod/at/xml","name":"M3U8","key":"M3U8","group":"官采"},
-
+//------18+
 {"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃","group":"+18"},
 {"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源","group":"+18"},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"+99采集","key":"+99采集","group":"+18"},
