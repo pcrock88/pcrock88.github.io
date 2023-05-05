@@ -1,5 +1,5 @@
 [
-{"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml","name":"★★★卧龙","key":"卧龙","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
+{"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml","name":"★★★卧龙","key":"卧龙","group":"MV","id":"1","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml","name":"★★量子","key":"量子","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"https://cj.lziapi.com/api.php/providedown/vod/at/xml","name":"★★量子mp4","key":"量子mp4","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"https://cj.vodimg.top/api.php/provide/vod/at/xml","name":"★★影图","key":"影图","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
