@@ -2,6 +2,8 @@
 
 https://github.com/poerin/Laufe
 
+https://github.com/poerin/Feep
+
 https://github.com/NickYang29/aria2gui
 
 https://github.com/sumatrapdfreader/sumatrapdf
