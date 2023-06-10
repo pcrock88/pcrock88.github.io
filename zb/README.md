@@ -1,5 +1,9 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
+https://github.com/stackia/best-windows-apps
+https://xie.infoq.cn/link?target=https%3A%2F%2Fgithub.com%2FQL-Win%2FQuickLook
+https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
+
 [SMSBoom](https://github.com/OpenEthan/SMSBoom)、 [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)、[adarkroom](https://github.com/doublespeakgames/adarkroom)、[listen1](https://github.com/listen1/)、[drpy新仓](https://github.com/kingfren/dr_py)、[python](https://github.com/xingyujie/binpython)、[本地接口](http://localhost:5705/index)、[直播聚和平台](https://github.com/guyijie1211)、[抖音](https://www.douyin.com/home)、[嘸蝦米輸入工具](https://github.com/yurenli0217/Boshiahk2)、[html杂七杂八](https://gitee.com/konrad98/Html-Example)、[RunAny](https://gitee.com/hui-Zz/RunAny?_from=gitee_search)、[静读天下](http://www.moondownload.com/chinese.html)、[易语言](https://github.com/1143910315)
 
 
