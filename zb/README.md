@@ -12,7 +12,7 @@ https://github.com/sumatrapdfreader/sumatrapdf
 
 https://github.com/stackia/best-windows-apps
 
-https://xie.infoq.cn/link?target=https%3A%2F%2Fgithub.com%2FQL-Win%2FQuickLook
+https://github.com/QL-Win/QuickLook
 
 https://github.com/Awesome-Windows
 
