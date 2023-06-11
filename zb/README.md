@@ -2,13 +2,15 @@
 
 [免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
 
-SMSBoom Options:,
--t, --thread INTEGER       线程数(默认64),
--p, --phone TEXT           手机号,可传入多个再使用-p传递  [required],
--f, --frequency INTEGER    执行次数(默认1次),
--i, --interval INTEGER     间隔时间(默认60s),
--e, --enable_proxy BOOLEAN 开启代理(默认关闭),
---help                     Show this message and exit.,
+
+    SMSBoom Options:
+    -t, --thread INTEGER       线程数(默认64)
+    -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
+    -f, --frequency INTEGER    执行次数(默认1次)
+    -i, --interval INTEGER     间隔时间(默认60s)
+    -e, --enable_proxy BOOLEAN 开启代理(默认关闭)
+    --help                     Show this message and exit.
+
 
 [games](https://github.com/leereilly/games)、[Laufe](https://github.com/poerin/Laufe)、[Feep](https://github.com/poerin/Feep)、[aria2gui](https://github.com/NickYang29/aria2gui)、[sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)、[windows-apps](https://github.com/stackia/best-windows-apps)、[QuickLook](https://github.com/QL-Win/QuickLook)、[Awesome-Windows](https://github.com/Awesome-Windows)、[SMSBoom](https://github.com/OpenEthan/SMSBoom)、[webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)、[adarkroom](https://github.com/doublespeakgames/adarkroom)、[listen1](https://github.com/listen1/)、[drpy新仓](https://github.com/kingfren/dr_py)、[python](https://github.com/xingyujie/binpython)、[本地接口](http://localhost:5705/index)、[直播聚和平台](https://github.com/guyijie1211)、[抖音](https://www.douyin.com/home)、[嘸蝦米輸入工具](https://github.com/yurenli0217/Boshiahk2)、[html杂七杂八](https://gitee.com/konrad98/Html-Example)、[RunAny](https://gitee.com/hui-Zz/RunAny?_from=gitee_search)、[静读天下](http://www.moondownload.com/chinese.html)、[易语言](https://github.com/1143910315)
 
