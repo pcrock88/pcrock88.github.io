@@ -2,7 +2,7 @@
 
 插件
 
-[listen1](https://github.com/listen1/)、[沉浸式翻译]、(https://github.com/immersive-translate/immersive-translate)
+[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)
 
 [免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
 
