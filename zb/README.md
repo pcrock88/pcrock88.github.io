@@ -1,7 +1,8 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
 插件
-[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)
+
+[沉浸式翻译][listen1](https://github.com/listen1/)、(https://github.com/immersive-translate/immersive-translate)
 
 [免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
 
@@ -27,7 +28,6 @@
 [SMSBoom](https://github.com/OpenEthan/SMSBoom)、
 [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)、
 [adarkroom](https://github.com/doublespeakgames/adarkroom)、
-[listen1](https://github.com/listen1/)、
 [drpy新仓](https://github.com/kingfren/dr_py)、
 [python](https://github.com/xingyujie/binpython)、
 [本地接口](http://localhost:5705/index)、
