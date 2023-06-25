@@ -1,5 +1,8 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
+插件
+[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)
+
 [免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
 
 
