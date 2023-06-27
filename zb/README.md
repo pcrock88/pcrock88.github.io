@@ -11,6 +11,23 @@
     --help                     Show this message and exit.
 </details>
 
+<details> 
+ <summary>接口</summary>
+{
+    "key":"key_〔资源名称〕",
+    "name":"资源名称",
+    "type":0,
+    "api":"csp_〔jar内文件名称〕",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"〔jar文件地址〕",
+    "ext":"〔txt json文件地址〕",
+    "playUrl": "〔播放解析地址〕",
+    "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
+    },
+</details>
+
 浏览器插件：
 [猫抓](https://github.com/xifangczy/cat-catch)、[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、[SetupVPN](https://setupvpn.com/download/)、[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
 
@@ -41,22 +58,6 @@
 [RunAny](https://gitee.com/hui-Zz/RunAny?_from=gitee_search)、
 [静读天下](http://www.moondownload.com/chinese.html)、
 [易语言](https://github.com/1143910315)
-
-
-    {
-    "key":"key_〔资源名称〕",
-    "name":"资源名称",
-    "type":0,
-    "api":"csp_〔jar内文件名称〕",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "jar":"〔jar文件地址〕",
-    "ext":"〔txt json文件地址〕",
-    "playUrl": "〔播放解析地址〕",
-    "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
-    },
-
 
 IPTV|
 ----|
