@@ -1,26 +1,11 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
 <details> 
- <summary>展开查看软件截图</summary> 
-  
- |                           影视(首页)                           |                             影视(搜索)                             | 
- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: | 
- | ![影视](https://s2.loli.net/2023/05/07/dBApoeKhWjsbM1v.png) | ![影视搜索](https://s2.loli.net/2023/05/07/t3bNq8dHXTeyB9A.png) | 
- |                           影视(播放)                           |                             影视 (介绍)                             | 
- | ![影视播放](https://s2.loli.net/2023/05/07/fgmbdXQvPE73WCY.png) |   ![影视详情](https://s2.loli.net/2023/05/07/LrJY4EVK5WhZ3XR.png)   | 
- |                          影视(热搜榜）                           |                             直播(首页)                              | 
- | ![热榜](https://s2.loli.net/2023/05/07/6qyjHCKnS9wUXWF.png) |   ![直播首页](https://s2.loli.net/2023/05/07/Xf4aTpDbZF9niuW.png)   | 
- |                           直播(播放)                            |                                解析                                 | 
- | ![直播播放](https://s2.loli.net/2023/05/07/e3GufyD1Um6h2iK.png) |     ![解析](https://s2.loli.net/2023/05/07/qoAfuET4Lvn1kl7.png)     | 
- |                            历史记录                             |                                在追                                 | 
- | ![历史](https://s2.loli.net/2023/05/07/KYUpQA7g2MGVIZb.png) |     ![在追](https://s2.loli.net/2023/05/07/xuMkzWQLYCSl5XZ.png)     | 
- |                            社区                             |                                设置                                 | 
- | ![社区](https://s2.loli.net/2023/05/07/r31qEmNPTGouOXb.png) |     ![设置](https://s2.loli.net/2023/05/07/RgDOlzJKBcop2d6.png)     | 
-  
- </details>
-
->浏览器插件：
+ <summary>插件</summary>
+浏览器插件：
 [猫抓](https://github.com/xifangczy/cat-catch)、[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、[SetupVPN](https://setupvpn.com/download/)、[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
+</details>
+
 
 [免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
 
