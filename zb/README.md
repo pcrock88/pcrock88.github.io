@@ -1,15 +1,7 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
 <details> 
- <summary>插件</summary>
-浏览器插件：
-[猫抓](https://github.com/xifangczy/cat-catch)、[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、[SetupVPN](https://setupvpn.com/download/)、[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
-</details>
-
-
-[免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
-
-
+ <summary>SMSBoom</summary>
     SMSBoom Options:
     -t, --thread INTEGER       线程数(默认64)
     -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
@@ -17,6 +9,14 @@
     -i, --interval INTEGER     间隔时间(默认60s)
     -e, --enable_proxy BOOLEAN 开启代理(默认关闭)
     --help                     Show this message and exit.
+</details>
+
+浏览器插件：
+[猫抓](https://github.com/xifangczy/cat-catch)、[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、[SetupVPN](https://setupvpn.com/download/)、[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
+
+[免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
+
+
 
 [Notepad3](https://github.com/rizonesoft/Notepad3)、
 [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)、
