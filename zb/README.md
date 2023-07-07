@@ -38,7 +38,7 @@
 [免费代理1](https://proxyscrape.com/free-proxy-list)、
 [免费代理2](https://openproxy.space/list)
 
-
+[LKY_Office](https://github.com/OdysseusYuan/LKY_OfficeTools)、
 [洛雪音乐](https://github.com/lyswhut/lx-music-desktop)、
 [Notepad3](https://github.com/rizonesoft/Notepad3)、
 [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)、
