@@ -1,7 +1,7 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-<details> 
- <summary>SMSBoom</summary>
+<细节> 
+ <摘要>SMSBoom</摘要>
     SMSBoom Options:
     -t, --thread INTEGER       线程数(默认64)
     -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
@@ -9,10 +9,10 @@
     -i, --interval INTEGER     间隔时间(默认60s)
     -e, --enable_proxy BOOLEAN 开启代理(默认关闭)
     --help                     Show this message and exit.
-</details>
+</细节>
 
-<details> 
- <summary>接口</summary>
+<细节> 
+ <摘要>接口</摘要>
 {
     "key":"key_〔资源名称〕",
     "name":"资源名称",
@@ -26,15 +26,20 @@
     "playUrl": "〔播放解析地址〕",
     "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
     },
-</details>
+</细节>
 
 浏览器插件：
-[猫抓](https://github.com/xifangczy/cat-catch)、[listen1](https://github.com/listen1/)、[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、[SetupVPN](https://setupvpn.com/download/)、[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
+[猫抓](https://github.com/xifangczy/cat-catch)、
+[listen1](https://github.com/listen1/)、
+[沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、
+[SetupVPN](https://setupvpn.com/download/)、
+[Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
 
-[免费代理1](https://proxyscrape.com/free-proxy-list)、[免费代理2](https://openproxy.space/list)
+[免费代理1](https://proxyscrape.com/free-proxy-list)、
+[免费代理2](https://openproxy.space/list)
 
 
-
+[洛雪音乐](https://github.com/lyswhut/lx-music-desktop)、
 [Notepad3](https://github.com/rizonesoft/Notepad3)、
 [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)、
 [games](https://github.com/leereilly/games)、
