@@ -76,9 +76,7 @@ IPTV|
 ----|
 [GitHub Proxy](https://ghproxy.com)、[dev-sidecar](https://github.com/docmirror/dev-sidecar)、[N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)、[mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases)、[ZyPlayer新版](https://github.com/Hiram-Wong/ZyPlayer)、[ZyPlayer旧版](https://github.com/Hunlongyu)、[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)、[emoji-1](https://www.emojiall.com/zh-hans/categories/D)、[emoji-2](https://funletu.com/emoji/)、[ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP)、[Cloudreve](https://github.com/cloudreve/Cloudreve)、[M3U8Manger](https://github.com/huangdali/M3U8Manger)、[M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)、[AHK:MyScript](https://github.com/wyagd001/MyScript)、[FL](http://www.huo.kim)、、|
 
-FongMi電視版|FongMi手機版|takagen99|TVBoxOSC
-----|----|----|----
-[Jar+Js](https://github.com/FongMi/TV/raw/release/release/leanback-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/leanback-python.apk)、[Android 4.4](https://github.com/FongMi/TV/raw/kitkat/release/leanback.apk)|[Jar+Js](https://github.com/FongMi/TV/raw/release/release/mobile-java.apk)、[Jar+Js+Py](https://github.com/FongMi/TV/raw/release/release/mobile-python.apk)|[20220709](https://github.com/takagen99/Box/releases/download/v1.0.0-alpha/app-release.apk)|[pyramid-1011](https://github.com/UndCover/PyramidStore/blob/main/pyramid-1011.apk)、[官方原版](https://liucn.lanzouf.com/idz8n0r4nbgh)
+[FongMi TV](https://github.com/FongMi/TV)、[takagen99](https://github.com/takagen99/Box/releases/download/v1.0.0-alpha/app-release.apk)、[TVBoxOSC pyramid-1011](https://github.com/UndCover/PyramidStore/blob/main/pyramid-1011.apk)、[TVBoxOSC 官方原版](https://liucn.lanzouf.com/idz8n0r4nbgh)
 
 接口地址（[开源TVBox:999](https://wws.lanzouq.com/b03j4ulyh)）|类型
 ----|----
