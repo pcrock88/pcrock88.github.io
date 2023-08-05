@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用……
 {
 "sites": [
-{"api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"pcrock分类","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"18+$https://pcrock88.github.io/zb/dat/txt/18+.txt#连续剧$https://pcrock88.github.io/zb/dat/txt/lxj.txt"},
+{"api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"分类","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"18+$https://pcrock88.github.io/zb/dat/txt/18+.txt"},
 
 
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/猫了个咪.js","name":"+🚔猫了个咪","key":"drpy_js_猫了个咪","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
