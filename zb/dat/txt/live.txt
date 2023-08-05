@@ -63,7 +63,6 @@ FM100.8,http://live.xmcdn.com/live/910/64.m3u8
 天地玄门,https://dow.dowlz2.com//20220407/2574_ee5d63ff/天地玄门.mp4
 哗鬼旅行团,https://dow.dowlz3.com/20220410/3282_7caab076/猛鬼旅行团.mp4
 人吓鬼,https://dow.dowlzi.com/20220404/891_a3593dbe/人吓鬼.mp4
-
 杰森·斯坦森,#genre#
 怒火攻心1,https://dow.dowlz5.com/20220519/6915_188f1b58/怒火攻心.Crank.2006.mp4
 怒火攻心2：高压电,https://dow.dowlz5.com/20220519/6914_6949642d/怒火攻心2：高压电.Crank.2.High.Voltage.2009.mp4
@@ -92,10 +91,11 @@ FM100.8,http://live.xmcdn.com/live/910/64.m3u8
 死亡飞车,https://cdn4.vipzyk-video.com/20220614/20079_9ccaed57/index.m3u8
 粉红豹,https://cdn3.vipzyk-video.com/20220509/18050_af5b8ea6/index.m3u8
 宇宙追缉令,https://dow.dowlz10.com/20230124/13727_fe289ca0/宇宙追缉令.The.One.2001.英.mp4
-
-123,#genre#
-
-
-123,#genre#
-
-
+成龙,#genre#
+成龙,https://0.m3u8
+周星驰,#genre#
+周星驰,https://0.m3u8
+刘德华,#genre#
+刘德华,https://0.m3u8
+周润发,#genre#
+周润发,https://0.m3u8
