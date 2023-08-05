@@ -1,1 +1,17 @@
 A,#genre#
+安居,https://pcrock88.github.io/zb/lsx/A/安居.m3u
+暗战,https://pcrock88.github.io/zb/lsx/A/暗战.m3u
+澳门人家,https://pcrock88.github.io/zb/lsx/A/澳门人家.m3u
+阿娜尔罕,https://pcrock88.github.io/zb/lsx/A/阿娜尔罕.m3u
+阿丕书记,https://pcrock88.github.io/zb/lsx/A/阿丕书记.m3u
+爱比恨多一点,https://pcrock88.github.io/zb/lsx/A/爱比恨多一点.m3u
+爱的保镖,https://pcrock88.github.io/zb/lsx/A/爱的保镖.m3u
+爱拼会赢,https://pcrock88.github.io/zb/lsx/A/爱拼会赢.m3u
+爱情二十年,https://pcrock88.github.io/zb/lsx/A/爱情二十年.m3u
+爱情海滨,https://pcrock88.github.io/zb/lsx/A/爱情海滨.m3u
+爱情有点蓝,https://pcrock88.github.io/zb/lsx/A/爱情有点蓝.m3u
+爱情真善美,https://pcrock88.github.io/zb/lsx/A/爱情真善美.m3u
+爱人同志,https://pcrock88.github.io/zb/lsx/A/爱人同志.m3u
+俺爹是卧底,https://pcrock88.github.io/zb/lsx/A/俺爹是卧底.m3u
+俺娘田小草,https://pcrock88.github.io/zb/lsx/A/俺娘田小草.m3u
+案发现场 第一部,https://pcrock88.github.io/zb/lsx/A/案发现场 第一部.m3u
