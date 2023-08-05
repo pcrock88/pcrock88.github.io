@@ -1,6 +1,9 @@
 //以下内容为互联网收集，只为自用……
 {
 "sites": [
+{"api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"pcrock分类","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"18+$https://pcrock88.github.io/zb/dat/txt/18+.txt#连续剧$https://pcrock88.github.io/zb/dat/txt/lxj.txt"},
+
+
 {"ext":"https://gitee.com/pcrock/dr_py/raw/master/js/猫了个咪.js","name":"+🚔猫了个咪","key":"drpy_js_猫了个咪","api":"https://gitee.com/pcrock/dr_py/raw/master/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //{"api":"http://51smt4.xyz/api.php/provide/vod/","name":"+水蜜桃","key":"+水蜜桃","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 //{"api":"http://99zy.pw/api.php/provide/vod/","name":"+99资源","key":"+99资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
