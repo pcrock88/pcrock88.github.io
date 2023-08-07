@@ -5,6 +5,7 @@ G:
 L:
 
 [亮剑](https://pcrock88.github.io/zb/lxj/L/亮剑.m3u)
+[鹿鼎记](https://pcrock88.github.io/zb/lxj/L/鹿鼎记.m3u)
 
 H:
 
