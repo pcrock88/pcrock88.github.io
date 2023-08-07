@@ -1,3 +1,7 @@
+G:
+
+[功夫婆媳](https://pcrock88.github.io/zb/lxj/G/功夫婆媳.m3u)
+
 L:
 
 [亮剑](https://pcrock88.github.io/zb/lxj/L/亮剑.m3u)
