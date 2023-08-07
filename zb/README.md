@@ -29,7 +29,11 @@
 </细节>
 
 https://github.com/XingangPan/DragGAN
-
+https://github.com/bluebabes/tuliu
+https://github.com/yhf7952/mmPic
+https://github.com/yzygithub/showImg
+https://github.com/bzsome/idcard_generator
+https://github.com/airob0t/idcardgenerator
 浏览器插件：
 [猫抓](https://github.com/xifangczy/cat-catch)、
 [listen1](https://github.com/listen1/)、
