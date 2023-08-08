@@ -35,3 +35,6 @@ W
 
 X
 [雪中悍刀行](https://pcrock88.github.io/zb/lxj/X/雪中悍刀行.m3u)
+
+Z
+[曾少年](https://pcrock88.github.io/zb/lxj/曾少年.m3u)
