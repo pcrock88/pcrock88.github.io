@@ -45,5 +45,5 @@ X
 Z
 [曾少年](https://pcrock88.github.io/zb/lxj/曾少年.m3u)
 
-Free XXX IPTV
+
 [Free XXX IPTV](http://adultiptv.net/all.m3u)
