@@ -28,6 +28,10 @@ M
 P
 [破冰行动](https://pcrock88.github.io/zb/lxj/P/破冰行动.m3u)
 
+S
+[三国演义](https://pcrock88.github.io/zb/lxj/S/三国演义.m3u)
+[水浒传](https://pcrock88.github.io/zb/lxj/S/水浒传.m3u)
+
 W
 [温州一家人](https://pcrock88.github.io/zb/lxj/W/温州一家人.m3u)
 [温州两家人](https://pcrock88.github.io/zb/lxj/W/温州两家人.m3u)
