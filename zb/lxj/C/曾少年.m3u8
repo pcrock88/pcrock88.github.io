@@ -1,3 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,01
 https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/95706042ccb044ce8dc8a6c8e0ba7706/main.m3u8
 #EXTINF:-1,02
