@@ -5,6 +5,10 @@ A
 C  
 [曾少年](https://pcrock88.github.io/zb/lxj/C/曾少年.m3u)
 
+D  
+[大侠霍元甲](https://pcrock88.github.io/zb/lxj/D/大侠霍元甲.m3u)
+
+
 G  
 [功夫婆媳](https://pcrock88.github.io/zb/lxj/G/功夫婆媳.m3u)
 
