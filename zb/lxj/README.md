@@ -3,7 +3,7 @@ A
 [澳门人家](https://pcrock88.github.io/zb/lxj/A/澳门人家.m3u)
 
 C
-[曾少年](https://pcrock88.github.io/zb/lxj/C/曾少年.m3u8)
+[曾少年](https://pcrock88.github.io/zb/lxj/C/曾少年.m3u)
 
 G
 [功夫婆媳](https://pcrock88.github.io/zb/lxj/G/功夫婆媳.m3u)
