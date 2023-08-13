@@ -2,6 +2,9 @@ A
 [安居](https://pcrock88.github.io/zb/lxj/A/安居.m3u)
 [澳门人家](https://pcrock88.github.io/zb/lxj/A/澳门人家.m3u)
 
+C
+[曾少年](https://pcrock88.github.io/zb/lxj/C/曾少年.m3u)
+
 G
 [功夫婆媳](https://pcrock88.github.io/zb/lxj/G/功夫婆媳.m3u)
 
@@ -42,8 +45,7 @@ X
 [西游记](https://pcrock88.github.io/zb/lxj/X/西游记-1986.m3u)
 [西游记续](https://pcrock88.github.io/zb/lxj/X/西游记续.m3u)
 
-Z
-[曾少年](https://pcrock88.github.io/zb/lxj/曾少年.m3u)
+
 
 
 [Free XXX IPTV](http://adultiptv.net/all.m3u)
