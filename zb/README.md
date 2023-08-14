@@ -28,6 +28,8 @@
     },
 </细节>
 
+https://github.com/maotoumao/MusicFree
+
 https://github.com/XingangPan/DragGAN
 
 https://github.com/bluebabes/tuliu
