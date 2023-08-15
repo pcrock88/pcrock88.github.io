@@ -37,17 +37,19 @@
 
 浏览器插件：
 [猫抓](https://github.com/xifangczy/cat-catch)、
-[listen1](https://github.com/listen1/)、
-[MusicFree](https://github.com/maotoumao/MusicFree)、
 [沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、
 [SetupVPN](https://setupvpn.com/download/)、
 [Online NoteBook](https://chenapp.com/chrome/notebook/index?u=pcrock)
+
+音乐：
+[listen1](https://github.com/listen1/)、
+[MusicFree](https://github.com/maotoumao/MusicFree)、
+[洛雪音乐](https://github.com/lyswhut/lx-music-desktop)、
 
 [免费代理1](https://proxyscrape.com/free-proxy-list)、
 [免费代理2](https://openproxy.space/list)
 
 [LKY_Office](https://github.com/OdysseusYuan/LKY_OfficeTools)、
-[洛雪音乐](https://github.com/lyswhut/lx-music-desktop)、
 [Notepad3](https://github.com/rizonesoft/Notepad3)、
 [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)、
 [games](https://github.com/leereilly/games)、
