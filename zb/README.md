@@ -1,16 +1,17 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-# SMSBoom Options:
-
+<details>
+<summary>SMSBoom Options</summary>
     -t, --thread INTEGER       线程数(默认64)
     -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
     -f, --frequency INTEGER    执行次数(默认1次)
     -i, --interval INTEGER     间隔时间(默认60s)
     -e, --enable_proxy BOOLEAN 开启代理(默认关闭)
     --help                     Show this message and exit.
+</details>
 
-# 接口
-
+<details>
+<summary>接口</summary>
     {
     "key":"key_〔资源名称〕",
     "name":"资源名称",
@@ -24,10 +25,10 @@
     "playUrl": "〔播放解析地址〕",
     "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
     },
+</details>
 
-
-# 123
-
+<details>
+<summary>资源</summary>
     https://github.com/XingangPan/DragGAN
     https://github.com/bluebabes/tuliu
     https://github.com/yhf7952/mmPic
@@ -91,3 +92,5 @@ IPTV|
 [TVBoxOSC](https://github.com/UndCover/PyramidStore)、[takagen99/Box](https://github.com/takagen99/Box)、[FongMi tvbox](https://github.com/FongMi/TV)、[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)、[AlphaTV](https://github.com/pvqogw/AlphaTV)、[TVBox](https://gitee.com/cherry0532/tvbox)、[一影视](https://github.com/tv-player/TvBox)、[2hacc/TVBox](https://github.com/2hacc/TVBox)、[一木源](https://github.com/xianyuyimu/TVBOX-)、[TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk)、[多仓接口](https://github.com/yutian88881/tvbox)、[hl128k/tvbox](https://github.com/hl128k/tvbox)、[Tvbox](https://agit.ai/Yoursmile7/TVBox)、[jyoketsu-TV](https://github.com/jyoketsu/tv)、[dr_py](https://gitcode.net/qq_32394351/dr_py)、[道长dr_py](https://github.com/troray/dr_py)、[空壳](https://github.com/liu673cn/box)、[资源猫](https://www.zizhuge.cn/1734.html)、[接口展示](https://leevi0321.gitee.io/api/)、[TVBox安卓](https://github.com/pvqogw/TVBoxOSC)、[liu673cn/tvbox](https://github.com/liu673cn/box)、[franksun1211/TVBOX](https://github.com/franksun1211/TVBOX)、[cyao2q/files](https://github.com/cyao2q/files)、[M-LTV/tvbox](https://github.com/M-LTV/tvbox)、[hd9211/Tvbox1](https://github.com/hd9211/Tvbox1)、[clanTV](https://github.com/clanTV/clanTV)、[looktv](https://github.com/once678/looktv)、[mifia/tvbox](https://github.com/mifia/tvbox)、[TVBoxDIY](https://github.com/lm317379829/TVBoxDIY)、[gao](https://github.com/gaotianliuyun/gao)、[box配置编辑器](https://kvymin.github.io/CatVodTVJsonEditor/)、[iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)、[m3u8](https://github.com/reysc/M3U8)、[m3u](https://github.com/yuanxin69/m3u)、[接口仓](https://github.com/jyoketsu/tv)|仓库
 [肥猫](http://肥猫.love)、[饭太硬](http://饭太硬.ga/x/o.json)、[云星](https://maoyingshi.cc/tvbox/云星日记/1.m3u8)、[老刘备](https://raw.liucn.cc/box/m.json)、[多多](https://yydsys.top/duo/v.json)、[南风](https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json)、[俊佬](http://home.jundie.top:81/top98.json)、[唐三](https://hutool.ml/tang)、[霜辉月明](https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json)、[甜蜜](https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json)、[dxawi/github️](https://dxawi.github.io/0/0.json)、[潇洒js源](https://download.kstore.space/download/2863/01.txt)、[D大](https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8)、[未知主人](https://agit.ai/n/b/raw/branch/a/b/c.json)、[小苹果](https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json)、[01](http://9xi4o.tk/0725.json)、[02](http://byyds.top/w.txt)、[03](http://home.jundie.top:81/top98.json)、[04](http://pandown.pro/tvbox/tvbox.json)、、[08](https://dxawi.github.io/0/0.json)、[09](https://freed.yuanhsing.cf/TVBox/meowcf.json)、[10](https://raw.iqiq.io/liu673cn/box/main/m.json)、[11](https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json)、[12](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/biu.txt)、[13](https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt)|接口
 [01](http://shuyuan.miaogongzi.net/shuyuan/1667621493.txt)、[02](http://shuyuan.miaogongzi.net/shuyuan/1666225624.txt)、[03](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json)、[04](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json)、[05](https://ghproxy.com/https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-2.json)、[06](https://ghproxy.com/https://raw.githubusercontent.com/cnnbgo/tvbox/main/x.json)|开车
+
+</details>
