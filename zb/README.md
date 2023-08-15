@@ -1,19 +1,17 @@
 # ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
 
-<细节> 
- <摘要>SMSBoom</摘要>
-    SMSBoom Options:
+# SMSBoom Options:
+
     -t, --thread INTEGER       线程数(默认64)
     -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
     -f, --frequency INTEGER    执行次数(默认1次)
     -i, --interval INTEGER     间隔时间(默认60s)
     -e, --enable_proxy BOOLEAN 开启代理(默认关闭)
     --help                     Show this message and exit.
-</细节>
 
-<细节> 
- <摘要>接口</摘要>
-{
+# 接口
+
+    {
     "key":"key_〔资源名称〕",
     "name":"资源名称",
     "type":0,
@@ -26,7 +24,7 @@
     "playUrl": "〔播放解析地址〕",
     "categories":["〔自定义资源列表〕","〔自定义资源列表〕"]
     },
-</细节>
+
 
 https://github.com/maotoumao/MusicFree
 
