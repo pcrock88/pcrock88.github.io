@@ -1,4 +1,4 @@
-# ![](https://pcrock88.github.io/favicon.ico) 以下内容均源于互联网，如有侵权，请联系删除！
+# ![](https://pcrock88.github.io/favicon.ico)
 
 <details>
 <summary>SMSBoom Options</summary>
