@@ -14,7 +14,7 @@
 #EXT-X-TARGETDURATION:5 //每个视频分段最大的时长（单位秒）
 #EXT-X-DISCONTINUITY //表示换编码
 #EXTINF: //每个切片的时长
-</details
+</details>
 
 <details>
 <summary>SMSBoom Options</summary>
