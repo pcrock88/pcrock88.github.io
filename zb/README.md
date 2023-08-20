@@ -6,6 +6,7 @@
 
 <details>
 <summary>m3u</summary>
+
 #EXTM3U //必需，表示一个扩展的m3u文件
 #EXT-X-VERSION:3 //hls的协议版本号，暗示媒体流的兼容性
 #EXT-X-MEDIA-SEQUENCE:xx //首个分段的sequence number
