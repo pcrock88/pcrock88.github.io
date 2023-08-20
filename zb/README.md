@@ -1,6 +1,19 @@
 ![](https://pcrock88.github.io/favicon.ico)
+>
+
 <details>
 <summary>PCROCK</summary>
+
+<details>
+<summary>m3u</summary>
+#EXTM3U //必需，表示一个扩展的m3u文件
+#EXT-X-VERSION:3 //hls的协议版本号，暗示媒体流的兼容性
+#EXT-X-MEDIA-SEQUENCE:xx //首个分段的sequence number
+#EXT-X-ALLOW-CACHE:NO //是否缓存
+#EXT-X-TARGETDURATION:5 //每个视频分段最大的时长（单位秒）
+#EXT-X-DISCONTINUITY //表示换编码
+#EXTINF: //每个切片的时长
+</details
 
 <details>
 <summary>SMSBoom Options</summary>
