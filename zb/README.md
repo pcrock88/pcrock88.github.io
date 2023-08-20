@@ -41,6 +41,7 @@
     https://github.com/bzsome/idcard_generator
     https://github.com/airob0t/idcardgenerator
 
+https://github.com/Qquanwei/windows-open-source-apps
 浏览器插件：
 [猫抓](https://github.com/xifangczy/cat-catch)、
 [沉浸式翻译](https://github.com/immersive-translate/immersive-translate)、
