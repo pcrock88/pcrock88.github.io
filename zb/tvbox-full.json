@@ -433,6 +433,8 @@
 "https://picsum.photos/1280/720/?blur=10"
 ],
 "lives":[
+
+{"name":"猫影视","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://github.com/xlc520/MaoTV/raw/main/zhibo.txt"},
   {"name":"蓝鲸直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt"},
   {"name":"线路01","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"}
 ],
