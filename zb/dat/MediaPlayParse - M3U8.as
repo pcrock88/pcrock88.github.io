@@ -41,17 +41,17 @@ int RI=0,PG=1;
 bool isOnly = false;
 JsonReader JSON;
 array<string> URLLIST={
-	"https://api.xinlangapi.com/xinlangapi.php/provide/vod"
+	"https://api.xinlangapi.com/xinlangapi.php/provide/vod",
 	"https://jyzyapi.com/provide/vod/at/xml"
-    "https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/json/",
-    "https://www.39kan.com/api.php/provide/vod/at/json",
-    "https://api.tiankongapi.com/api.php/provide/vod/",
-    "https://api.ukuapi.com/api.php/provide/vod/",
-    "https://api.1080zyku.com/inc/apijson.php",
-    "https://api.tiankongapi.com/api.php/provide/vod/at/json/from/tkm3u8/",
-    "https://sdzyapi.com/api.php/provide/vod/",
-    "https://www.hongniuzy2.com/api.php/provide/vod/at/json/",
-    "https://kudian10.com/api.php/provide/vod/"
+	"https://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/json",
+	"https://www.39kan.com/api.php/provide/vod/at/json",
+	"https://api.tiankongapi.com/api.php/provide/vod/",
+	"https://api.ukuapi.com/api.php/provide/vod/",
+	"https://api.1080zyku.com/inc/apijson.php",
+	"https://api.tiankongapi.com/api.php/provide/vod/at/json/from/tkm3u8/",
+	"https://sdzyapi.com/api.php/provide/vod/",
+	"https://www.hongniuzy2.com/api.php/provide/vod/at/json/",
+	"https://kudian10.com/api.php/provide/vod/"
     };
 
 void getHomeURL(string name)
