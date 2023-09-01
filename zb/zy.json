@@ -1,3 +1,4 @@
+[
 {"api":"http://175.178.7.35:2020/api.php/provide/vod/at/xml/","name":"龙腾","key":"龙腾","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml/","name":"天天","key":"天天","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml/","name":"阿里","key":"阿里","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
@@ -149,4 +150,5 @@ https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,M3U8
 {"api":"https://www.pgxdy.com/api/xml.php","name":"+AV资源","key":"+AV资源","group":"18+","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"https://www.xrbsp.com/api/xml.php","name":"+饮水机","key":"+饮水机","group":"18+","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 {"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml/","name":"+小姐姐","key":"+小姐姐","group":"18+","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
-{"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml/","name":"+点娱","key":"+点娱","group":"18+","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
+{"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml/","name":"+点娱","key":"+点娱","group":"18+","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false}
+]
