@@ -1,4 +1,7 @@
+//TVbox
 {"api":"","name":"","key":"","type":1,"searchable":1,"quickSearch":1,"filterable":1},
+//ZY
+{"api":"","name":"","key":"","group":"MV","download":"","jiexiUrl":"","isActive":true,"reverseOrder":false},
 
 http://175.178.7.35:2020/api.php/provide/vod/at/xml/,龙腾
 http://47.113.126.237:1234/api.php/provide/vod/at/xml/,天天
