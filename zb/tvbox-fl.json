@@ -28,7 +28,7 @@
 //{"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","name":"+咪咪","key":"+咪咪","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 //{"api":"http://www.feifei67.com/api.php/provide/vod/","name":"+CK资源","key":"+CK资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://www.ggmmzy.com:9999/inc/xml","name":"+哥妹","key":"+哥妹","type":0,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"http://www.shabizy.com:777/inc/sea","name":"+SB资源","key":"+SB资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+//{"api":"http://www.shabizy.com:777/inc/sea","name":"+SB资源","key":"+SB资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://zmcj88.com/api?ac=list","name":"+泡芙","key":"+泡芙","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 //{"api":"https://111kkkkk.com/api.php/provide/vod","name":"+金莲","key":"+金莲","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"https://156.249.29.8/inc/api.php/provide/vod/at/xml","name":"+蛋蛋","key":"+蛋蛋","type":0,"searchable":1,"quickSearch":1,"filterable":0},
