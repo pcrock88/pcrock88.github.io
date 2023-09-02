@@ -1,11 +1,8 @@
 ![](https://pcrock88.github.io/favicon.ico)
->
 
-<details>
-<summary>PCROCK</summary>
+<details><summary>PCROCK</summary>
 
-<details>
-<summary>xml接口</summary>
+<details><summary>xml接口</summary>
 
     http://175.178.7.35:2020/api.php/provide/vod/at/xml/,龙腾
     http://47.113.126.237:1234/api.php/provide/vod/at/xml/,天天
@@ -158,8 +155,7 @@
     https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml/,+点娱
 </details>
 
-<details>
-<summary>tvbox</summary>
+<details><summary>tvbox</summary>
 
     {
     "api": "",
@@ -189,8 +185,7 @@
     },
 </details>
 
-<details>
-<summary>m3u</summary>
+<details><summary>m3u</summary>
 
     #EXTM3U //必需，表示一个扩展的m3u文件
     #EXT-X-VERSION:3 //hls的协议版本号，暗示媒体流的兼容性
@@ -201,8 +196,7 @@
     #EXTINF: //每个切片的时长
 </details>
 
-<details>
-<summary>SMSBoom Options</summary>
+<details><summary>SMSBoom Options</summary>
     
     -t, --thread INTEGER       线程数(默认64)
     -p, --phone TEXT           手机号,可传入多个再使用-p传递  [required]
@@ -212,8 +206,7 @@
     --help                     Show this message and exit.
 </details>
 
-<details>
-<summary>接口</summary>
+<details><summary>接口</summary>
     
     {
     "key":"key_〔资源名称〕",
@@ -230,8 +223,7 @@
     },
 </details>
 
-<details>
-<summary>资源</summary>
+<details><summary>资源</summary>
     
     https://github.com/hooke007/mpv.net_CM
     happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
