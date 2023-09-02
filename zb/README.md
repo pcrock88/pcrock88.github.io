@@ -3,9 +3,193 @@
 
 <details>
 <summary>PCROCK</summary>
+
 <details>
+<summary>xml接口</summary>
 
+    http://175.178.7.35:2020/api.php/provide/vod/at/xml/,龙腾
+    http://47.113.126.237:1234/api.php/provide/vod/at/xml/,天天
+    http://aliys.cn:90/api.php/provide/vod/at/xml/,阿里
+    http://anltv.cn/api.php/provide/vod/at/xml/,忆梦
+    https://api.tiankongapi.com/api.php/provide/vod/at/xml/,天空
+    http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/,新浪
+    http://app.7en7.com/api.php/provide/vod/at/xml/,瞬间
+    http://cj.bajiecaiji.com/inc/bjm3u8.php/provide/vod/at/xml/,//八戒
+    http://cj.bajiecaiji.com/inc/seacmsapi.php/provide/vod/at/xml/,八戒
+    http://vipmv.cc/api.php/provide/vod/at/xml/,天堂
+    http://www.feifei67.com/api.php/provide/vod/at/xml/,飞飞
+    http://www.hanjuzy.com/inc/api.php/provide/vod/at/xml/,韩剧
+    http://www.tvyb02.com/api.php/provide/vod/at/xml/,TVB
+    http://www.zzrhgg.com/api.php/provide/vod/at/xml/,飘花
+    http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/,小猫
+    https://api.1080zyku.com/inc/ldg_api_all.php/provide/vod/at/xml/,ZYku
+    https://api.apibdzy.com/api.php/provide/vod/at/xml/,百度
+    https://api.guangsuapi.com/api.php/provide/vod/at/xml/,光速
+    https://api.ukuapi.com/api.php/provide/vod/at/xml/,U酷
+    https://api.wujinapi.net/api.php/provide/vod/at/xml/,无尽
+    https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/,新浪
+    https://caiji.kczyapi.com/api.php/provide/vod/at/xml/,快车
+    https://cj.lziapi.com/api.php/provide/vod/at/xml/,量子
+    https://cj.vodimg.top/api.php/provide/vod/at/xml/,影图
+    https://ckzy.me/api.php/provide/vod/at/xml/,CKzy
+    https://collect.wolongzyw.com/api.php/provide/vod/at/xml/,卧龙
+    https://jyzyapi.com/provide/vod/at/xml/at/xml/,金鹰
+    https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/,樱花
+    https://p2100.net/api.php/provide/vod/at/xml/,飘零
+    https://sdzyapi.com/api.php/provide/vod/at/xml/,闪电
+    https://www.77hanju.com/api.php/provide/vod/at/xml/,77韩
+    https://www.911ysw.top/tianyi.php/provide/vod/at/xml/,天翼
+    https://www.feisuzyapi.com/api.php/provide/vod/at/xml/,飞速
+    https://www.hongniuzy2.com/api.php/provide/vod/at/xml/,红牛
+    https://www.inmi.app/api.php/provide/vod/at/xml/,映迷
+    https://www.rrvipw.com/api.php/provide/vod/at/xml/,人人
+    https://zy.hikan.xyz/api.php/provide/vod/at/xml/,看看
+    //-----------------------------------------api失效中:
+    http://124.220.183.81:83/api.php/provide/vod/at/xml/,干饭
+    http://anltv.cn/api.php/provide/vod/at/xml/,忆梦
+    http://api.nguonphim.tv/api.php/provide/vod/at/xml/,南国
+    http://api.travelbooking.cc/xml/,唯一
+    http://tv2.hykjtv.cn/api.php/provide/vod/at/xml/,海玉
+    http://umao.ml/api.php/provide/vod/at/xml/,U猫
+    http://www.kuaibocaiji.com/api.php/provide/vod/at/xml/,星辰
+    http://www.kuaibozy.com/api.php/provide/vod/at/xml/,快播
+    http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,星辰
+    http://xydm.baicai.buzz/api.php/provide/vod/at/xml/,小鸟
+    https://api.foxzyapi.com/api.php/provide/vod/at/xml/,FOX
+    https://api.kuapi.cc/api.php/provide/vod/at/xml/,酷点
+    https://api.tomcaiji.com/api.php/provide/vod/at/xml/,TOM
+    https://api.yikanapi.com/api.php/provide/vod/at/xml/,易看
+    https://api.ylzy1.com/api.php/provide/vod/at/xml/,影乐
+    https://api.yparse.com/api/xml/m3u8/,云zy
+    https://api.yulecj.com/api.php/provide/vod/at/xml/,鱼乐
+    https://caiji.68zyapi.com/api.php/provide/vod/at/xml/,68zy
+    https://lehootv.com/api.php/provide/vod/at/xml/,乐活
+    https://taopianapi.com/home/cjapi/as/mc/vod/xml/,淘片
+    https://www.30dian.cn/api.php/provide/vod/at/xml/,创艺
+    https://www.39kan.com/api.php/provide/vod/at/xml/,39ys
+    https://www.ff9.top/api.php/provide/vod/at/xml/,FF9
+    https://www.kuaibozy.com/api.php/provide/vod/at/xml/,快播
+    https://www.zhanlangbu.com/api.php/provide/vod/at/xml/,爱酷
+    https://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,M3U8
+    //-------------------18++++
+    http://51smt4.xyz/api.php/provide/vod/at/xml/,+蜜桃
+    http://99zy.pw/api.php/provide/vod/at/xml/,+99zy
+    http://99zywcj.com/inc/sapi.php?ac=videolist,+99cj
+    http://bttcj.com/inc/sapi.php,+bt资源
+    http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml/,+鲍鱼AV
+    http://cjmygzy.com/inc/sapi.php?ac=videolist,+狼少年
+    http://f2dcj6.com/sapi/?ac=videolist,+富二代
+    http://fhapi9.com/api.php/provide/vod/at/xml/at/xml/,+番号(xj)
+    http://lbapiby.com/api.php/provide/vod/at/xml/,+AIvin(xj)
+    http://m.7777688.com/inc/api.php,+76ss+
+    http://m.7777688.com/inc/apijson.php,+AVZY6888
+    http://mygzycj.com/api.php?ac=list,+JAV名优
+    http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml,+se屌丝
+    http://secj8.com/inc/sapi.php?ac=videolist,+SS资源
+    http://wmcj8.com/inc/sapi.php?ac=videolist,+环亚
+    http://www.010aizy.com/API/macs.php,+爱zy
+    http://www.987caiji.com/api/max.php,+天噜啦
+    http://www.aikanzyz9.com/inc/apijson_vod.php,+爱看
+    http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml,+啪啪
+    http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml,+屌丝
+    http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml,+咪咪
+    http://www.feifei67.com/api.php/provide/vod/at/xml/,+CK资源
+    http://www.ggmmzy.com:9999/inc/xml,+哥妹
+    http://www.shabizy.com:777/inc/sea,+SB资源
+    http://zmcj88.com/api?ac=list,+泡芙
+    https://111kkkkk.com/api.php/provide/vod/at/xml/,+金莲
+    https://156.249.29.8/inc/api.php/provide/vod/at/xml,+蛋蛋
+    https://52zyapi.com/home/cjapi/asda/mc10/vod/xml,+52AV
+    https://91md.me/api.php/provide/vod/at/xml,+91麻豆
+    https://api.apilyzy.com/api.php/provide/vod/at/xml/,+老鸭
+    https://api.kdapi.info/api.php/provide/vod/at/xml/,+酷豆2
+    https://api.kudian70.com/api.php/provide/vod/at/xml/,+酷伦理
+    https://api.maozyapi.com/inc/api.php,+色猫+
+    https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/,+se猫
+    https://api.putaozy.net/inc/apijson_vod.php,+葡萄
+    https://api.sexnguon.com/api.php/provide/vod/at/xml/,+se南国
+    https://api.xiuseapi.com/api.php/provide/vod/at/xml/,+秀se
+    https://api.yikanapi.com/api.php/provide/vod/at/xml/,+易看+
+    https://api.yinwoapi.com/api.php/provide/vod/at/xml/,+yin窝
+    https://api.ykapi.net/api.php/provide/vod/at/xml/,+影库
+    https://apihjzy.com/api.php/provide/vod/at/xml/,+花椒
+    https://apittzy.com/api.php/provide/vod/at/xml/,+探探+
+    https://caiji.523zyw.com/inc/seacmsapi.php,+523zy
+    https://caiji.caomeiapi.com/inc/api.php/provide/vod/at/xml,+草莓
+    https://caiji.huakuiapi.com/inc/api.php/provide/vod/at/xml/,+花魁
+    https://caiji.naichaapi.com/inc/api.php/provide/vod/at/xml/,+奶茶
+    https://caiji.putaozy.net/inc/api.php/provide/vod/at/xml/,+葡萄
+    https://cj.apiabzy.com/api.php/provide/vod/at/xml/,+爱播
+    https://dadiapi.com/api.php/provide/vod/at/xml/,+大地
+    https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml/,+精工厂
+    https://jializyzapi.com/api.php/provide/vod/at/xml/,+佳丽
+    https://kkzy.me/api.php/provide/vod/at/xml/,+KKzy+
+    https://kkzy.me/api.php/provide/vod/at/xml/,+KK资源
+    https://kudouzy.com/api.php/provide/vod/at/xml/,+酷豆(xj)
+    https://lbapi9.com/api.php/provide/vod/at/xml/,+乐播+
+    https://mgzyz1.com/api.php/provide/vod/at/xml/,+芒果
+    https://sewozyapi.com/api.php/provide/vod/at/xml/,+色窝
+    https://shayuapi.com/api.php/provide/vod/at/xml/,+鲨鱼
+    https://siwazyw.cc/api.php/provide/vod/at/xml/,+丝袜
+    https://siwazyw.cc/api.php/provide/vod/at/xml/,+丝袜+
+    https://www.afasu.com/api/xml.php,+小湿妹
+    https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/,+亚洲在线(xj)
+    https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/,+草榴(xj)
+    https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/,+一本道(xj)
+    https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml/,+麻豆(xj)
+    https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml/,+青青草(xj)
+    https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml/,+青青草(xj)(xj)
+    https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml/,+久久热(xj)
+    https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml/,+AV在线(xj)
+    https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml/,+大香蕉(xj)
+    https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml/,+快播盒子(xj)
+    https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml/,+黄瓜TV(xj)
+    https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml/,+AV集中(xj)
+    https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml/,+夜夜lu(xj)
+    https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml/,+大MM(xj)
+    https://www.gdlsp.com/api/xml.php,+香奈儿
+    https://www.kxgav.com/api/xml.php,+白嫖
+    https://www.langyouzy.com/api.php/provide/vod/at/xml/,+狼友
+    https://www.lsjapi.com/home/cjapi/asd2g8/mc10/vod/xml/,+老司机(xj)
+    https://www.msnii.com/api/xml.php,+美少女
+    https://www.pgxdy.com/api/xml.php,+AV资源
+    https://www.xrbsp.com/api/xml.php,+饮水机
+    https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml/,+小姐姐
+    https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml/,+点娱
+</details>
 
+<details>
+<summary>tvbox</summary>
+
+    {
+    "api": "",
+    "name": "",
+    "key": "",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "categories": [
+        "动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "综艺"
+    ]
+    },
+</details>
+
+<details>
 <summary>m3u</summary>
 
     #EXTM3U //必需，表示一个扩展的m3u文件
