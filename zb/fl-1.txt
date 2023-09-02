@@ -1,6 +1,6 @@
 {
 "sites": [
-{"api":"","name":"pcrock-fl","key":"pcrock-fl"}
+{"api":"","name":"pcrock-fl","key":"pcrock-fl"},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"玖玖","key":"玖玖"},
 {"api":"http://bttcj.com/inc/sapi.php","name":"BTzy","key":"BTzy"},
 {"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","name":"狼少年","key":"狼少年"},
