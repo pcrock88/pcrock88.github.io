@@ -30,8 +30,7 @@
 {"api":"https://www.kxgav.com/api/xml.php","name":"白嫖","key":"白嫖"},
 {"api":"https://www.msnii.com/api/xml.php","name":"美少女","key":"美少女"},
 {"api":"https://www.pgxdy.com/api/json.php","name":"黄AV","key":"黄AV"},
-{"api":"https://www.xrbsp.com/api/xml.php","name":"淫水机","key":"淫水机"},
-{"api":"https://www.xrbsp.com/api/xml.php","name":"饮水机","key":"饮水机2"},
+{"api":"https://www.xrbsp.com/api/xml.php","name":"饮水机","key":"饮水机"},
 
 {"api":"","name":"pcrock-fl","key":"pcrock-fl"}
 ]
