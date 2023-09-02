@@ -95,7 +95,7 @@
 //{"api":"https://www.langyouzy.com/api.php/provide/vod","name":"+狼友","key":"+狼友","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 //{"api":"https://www.lsjapi.com/home/cjapi/asd2g8/mc10/vod/xml","name":"+老司机(xj)","key":"+老司机(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 
-{"key": "pcrock","name": "️更新：剔除无效源","type": 3,"api": "","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""}
+{"key": "pcrock","name": "️更新：剔除无效源","type": 3,"api": "pcrock","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""}
 
 ],
 "spider": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
