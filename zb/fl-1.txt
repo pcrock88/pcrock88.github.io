@@ -1,6 +1,6 @@
 {
 "sites": [ 
-{"key":"美少女","name":"美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"美少女","name":"美少女","type":0,"api":"https://www.msnii.com/api/xml.php"},
 {"key":"饮水机2","name":"饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"老鸭1","name":"老鸭1","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"老鸭2","name":"老鸭2","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
