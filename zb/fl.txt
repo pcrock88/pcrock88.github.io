@@ -27,7 +27,7 @@
 {"api":"https://www.msnii.com/api/xml.php","name":"美少女","key":"美少女"},
 {"api":"https://www.pgxdy.com/api/json.php","name":"黄AV","key":"黄AV"},
 {"api":"https://www.xrbsp.com/api/xml.php","name":"饮水机","key":"饮水机"},
-
+{"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"花椒","key":"花椒"},
 //-----------------------
 //{"api":"http://51smt4.xyz/api.php/provide/vod/at/xml/","name":"水蜜桃","key":"水蜜桃"},
 //{"api":"http://99zy.pw/api.php/provide/vod/at/xml/","name":"99","key":"99"},
