@@ -10,7 +10,7 @@
 {"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"+99采集","key":"+99采集","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://bttcj.com/inc/sapi.php","name":"+bt资源","key":"+bt资源","type":0,"searchable":1,"quickSearch":1,"filterable":0},
-{"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","name":"+鲍鱼AV","key":"+鲍鱼AV","type":0,"searchable":1,"quickSearch":1,"filterable":0},
+//{"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","name":"+鲍鱼AV","key":"+鲍鱼AV","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","name":"+狼少年","key":"+狼少年","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://f2dcj6.com/sapi/?ac=videolist","name":"+富二代","key":"+富二代","type":0,"searchable":1,"quickSearch":1,"filterable":0},
 {"api":"http://fhapi9.com/api.php/provide/vod/at/xml","name":"+番号(xj)","key":"+番号(xj)","type":0,"searchable":1,"quickSearch":1,"filterable":0},
