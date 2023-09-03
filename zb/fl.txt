@@ -14,7 +14,7 @@
 {"api":"http://www.ggmmzy.com:9999/inc/xml","name":"哥妹","key":"哥妹"},
 {"api":"http://zmcj88.com/sapi?ac=videolist","name":"字幕网","key":"字幕网"},
 {"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"老鸭","key":"老鸭"},
-{"api":"https://api.maozyapi.com/inc/api.php","name":"S猫","key":"S猫"},
+{"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","name":"猫zy","key":"猫zy"},
 {"api":"https://apittzy.com/api.php/provide/vod/at/xml/","name":"探探","key":"探探"},
 {"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","name":"花魁","key":"花魁"},
 {"api":"https://dadiapi.com/api.php/","name":"大地","key":"大地"},
@@ -30,9 +30,6 @@
 {"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"花椒","key":"花椒"},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"玖玖","key":"玖玖"},
 {"api":"https://mgzyz1.com/api.php/provide/vod/","name":"芒果","key":"芒果"},
-{"api":"http://jcspcj8.com/api?ac=list","name":"001","key":"001"},
-{"api":"http://mygzycj.com/api.php?ac=list","name":"002","key":"002"},
-{"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","name":"猫zy","key":"猫zy"},
 
 {"api":"","name":"END","key":"END"}
 ]
