@@ -1,6 +1,6 @@
 {
 "sites":[
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
-{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"csp_XYQBiu","name":"🐯虎牙","api":"XYQBiu","ext":"https://pcrock88.github.io/zb/dat/json/虎牙直播.json"}
 ]
 }
