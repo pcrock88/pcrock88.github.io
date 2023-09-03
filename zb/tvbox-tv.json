@@ -1,5 +1,5 @@
 {
 "sites":[
-{"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪","categories":["动漫","国剧","韩剧","港剧","美剧","泰剧","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录","综艺","体育","伦理"]}
+{"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"}
 ]
 }
