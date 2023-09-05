@@ -224,7 +224,8 @@
 </details>
 
 <details><summary>资源</summary>
-    
+
+    https://github.com/pashangshangpo/AI-Create-Video
     https://github.com/hooke007/mpv.net_CM
     happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
     松1, https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
