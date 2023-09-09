@@ -15,15 +15,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "csp_简影",
-      "name": "剪影",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/from/jiguang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"api": "https://www.xy1080.net/api.php/provide/vod/from/jiguang","name": "剪影","key": "csp_简影"},
 {
       "key": "app_轻简",
       "name": "🚈轻简",
@@ -207,7 +199,7 @@
         "欧美动漫"
       ]
     },
-    {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐",},
+    {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {
       "key": "落落",
       "name": "️🍇落落APP",
