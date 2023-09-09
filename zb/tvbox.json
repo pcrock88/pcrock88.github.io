@@ -16,15 +16,15 @@
       "filterable": 1
     },
 {"api": "https://www.xy1080.net/api.php/provide/vod/at/xml/","name": "剪影","key": "csp_简影"},
-{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","name":"轻简","key":"轻简"},
+{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻简","key":"轻简"},
 {"api":"https://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
-{"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "🦊搜狐","key": "搜狐资源"},
-{"api": "https://taopianapi.com/cjapi/mc/vod/json.html","name": "🐁淘片","key": "淘片资源"},
+{"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/","name":"搜狐","key":"搜狐"},
+{"api":"https://taopianapi.com/cjapi/mc/vod/json.html","name":"淘片","key":"淘片"},
 {"api":"http://cj.md214.cn/api.php/provide/vod/at/xml/","name":"双双","key":"双双"},
-{"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list","name":"猫咪","key":"猫咪"},
-{"api":"http://mkzy.vip/api.php/provide/vod/at/json","name":"秒看","key":"秒看"},
+{"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/","name":"猫咪","key":"猫咪"},
+{"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 
-{"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","name": "🐯虎牙采集","key": "虎牙"},
+{"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/","name": "虎牙y","key":"虎牙y"},
     {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {
       "key": "落落",
