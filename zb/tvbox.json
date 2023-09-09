@@ -12,7 +12,7 @@
       "type": 1,
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"
     },
-{"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun","name": "️快看","key": "快看"},
+{"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"},
     {
       "key": "暴风采集",
       "name": "🍃┃暴风┃高清",
