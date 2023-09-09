@@ -15,6 +15,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "csp_appysv2_看剧吧",
+      "name": "看剧吧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.ishen520.com/api.php/v1.vod"
+    },
 {"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun"},
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
