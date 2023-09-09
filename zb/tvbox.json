@@ -19,7 +19,7 @@
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻简","key":"轻简"},
 {"api":"https://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 {"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/","name":"搜狐","key":"搜狐"},
-{"api":"https://taopianapi.com/cjapi/mc/vod/json.html","name":"淘片","key":"淘片"},
+{"api":"https://taopianapi.com/cjapi/mc/vod/at/xml/","name":"淘片","key":"淘片"},
 {"api":"http://cj.md214.cn/api.php/provide/vod/at/xml/","name":"双双","key":"双双"},
 {"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/","name":"猫咪","key":"猫咪"},
 {"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
