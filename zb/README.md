@@ -2,6 +2,8 @@
 
 <details><summary>PCROCK</summary>
 
+[连续剧](https://pcrock88.github.io/zb/lxj.md)
+
 <details><summary>xml接口</summary>
 
     http://175.178.7.35:2020/api.php/provide/vod/at/xml/,龙腾
