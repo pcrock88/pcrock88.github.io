@@ -2,7 +2,7 @@
 
 <details><summary>PCROCK</summary>
 
-[连续剧](https://pcrock88.github.io/zb/dat/txt/cctv.txt)
+[连续剧](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)
 
 <details><summary>xml接口</summary>
 
