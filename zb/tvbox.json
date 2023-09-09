@@ -6,6 +6,12 @@
 {"ext":"https://pcrock88.github.io/dr_py/js/JustLive.js","name":"JustLive(js)","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
 {
+      "key": "MV_vod",
+      "name": "🤳字母┃点歌台",
+      "type": 1,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"
+    },
+{
       "key": "app_快看",
       "name": "️💕快看采集",
       "type": 1,
