@@ -25,7 +25,7 @@
 {"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 
 {"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/","name": "虎牙y","key":"虎牙y"}, {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
-{"api":"csp_AppYs","name":"️落落APP","key":"落落","jar":"http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9","ext":"http://tv.hyjy666.top/icciu_api.php/v1.vod"},
+{"api":"csp_AppYs","name":"️落落","key":"落落","jar":"http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9","ext":"http://tv.hyjy666.top/icciu_api.php/v1.vod","searchable":1,"quickSearch":1,"filterable":3},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶"},
 {"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun"},
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
