@@ -2,7 +2,7 @@
 "sites":[
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
 {"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️🦊┃搜糊┃影视","key": "api_xml_搜糊","type": 1},
-
+{"key":"轻简","name":"🚈轻轨","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"],"jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"},
 
 
 
