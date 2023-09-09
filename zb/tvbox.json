@@ -6,7 +6,15 @@
 {"ext":"https://pcrock88.github.io/dr_py/js/drpy.js","name":"豆瓣(js)","key":"drpy_js_drpy","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/JustLive.js","name":"JustLive(js)","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod/at/xml/","name":"点歌","key":"点歌"},
+{
+      "key": "MV_vod",
+      "name": "🎸┃明星-接口1┃MV",
+      "type": 1,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
