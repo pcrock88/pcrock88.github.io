@@ -45,6 +45,258 @@
         "动漫"
       ]
     },
+{
+      "key": "csp_appysv2_看剧吧",
+      "name": "看剧吧(普通)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.ishen520.com/api.php/v1.vod"
+    },
+{
+      "key": "T4_douban1",
+      "name": "🔍影视推荐1(T4)",
+      "type": 4,
+      "api": "http://t4.ganggang.live:3812/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "T4_douban2",
+      "name": "🔍影视推荐2(T4)",
+      "type": 4,
+      "api": "https://t4.饭太硬.ml/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "csp_app_美剧范",
+      "name": "🐌美剧范(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ttzmz.net/api.php/v1.vod"
+    },
+{
+      "key": "csp_app_独优影视",
+      "name": "🐌独优影视(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://121.205.88.71:218/api.php/Chengcheng/vod/"
+    },
+{
+      "key": "csp_xml_土狗360",
+      "name": "🐝土狗360",
+      "type": 1,
+      "api": "http://360.tgzy.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "纪录片",
+        "其他片"
+      ]
+    },
+{
+      "key": "csp_xml_段友影视",
+      "name": "🐝段友影视",
+      "type": 1,
+      "api": "http://shangjihuoke.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_考拉直链",
+      "name": "🐝考拉资源",
+      "type": 1,
+      "api": "https://ikaola.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_200121",
+      "name": "🐝200121",
+      "type": 1,
+      "api": "https://www.200121.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_mac采集",
+      "name": "🐝苹果采集",
+      "type": 0,
+      "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_木子看剧",
+      "name": "🐝木子看剧",
+      "type": 1,
+      "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_app_米来影视",
+      "name": "🐌米来影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://42.51.37.161:2346/api.php/iptv/vod/"
+    },
+{
+      "key": "csp_app_小鸟动漫",
+      "name": "🐌小鸟动漫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
+    },
+{
+      "key": "csp_app_芒迅TV",
+      "name": "🐌芒迅TV",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.hdyangtv.com/api.php/iptv/vod/"
+    },
+{
+      "key": "csp_app_盒子视界",
+      "name": "🐌盒子视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://eh.tvzy.cc/api.php/iptv/vod/"
+    },
+{
+      "key": "csp_app_贵宾影院",
+      "name": "🐌贵宾影院",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vipdytv.com/api.php/iptv/vod/"
+    },
+{
+      "key": "csp_app_CV影视",
+      "name": "🐌CV影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
+    },
+{
+      "key": "csp_xml_冠军资源",
+      "name": "🐝冠军资源",
+      "type": 1,
+      "api": "https://www.cmpzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_番茄资源",
+      "name": "🐝番茄资源",
+      "type": 1,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/",
+      "playUrl": "https://dp.fqplayer.com/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_诺迅资源",
+      "name": "🐝诺迅资源",
+      "type": 1,
+      "api": "https://caiji.nxflv.com/api.php/provide/vod/",
+      "playUrl": "https://www.nxflv.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "csp_xml_橘猫资源",
+      "name": "🐝橘猫资源",
+      "type": 1,
+      "api": "http://www.zitv.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_趣看采集",
+      "name": "🐝趣看采集",
+      "type": 1,
+      "api": "https://qkmp4.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_松鼠资源",
+      "name": "🐝松鼠资源",
+      "type": 1,
+      "api": "https://m3u8.songshuzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_共青春",
+      "name": "🐝共青春影院",
+      "type": 1,
+      "api": "https://gqcyy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
+
+
 
 {"api":"","name":"END","key":"END"}
 ]
