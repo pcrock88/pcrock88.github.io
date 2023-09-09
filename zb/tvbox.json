@@ -15,6 +15,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun"},
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
