@@ -1,7 +1,7 @@
 {
 "sites":[
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
-{"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️🦊┃搜糊┃影视","key": "api_xml_搜糊","type": 1},
+{"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️搜糊","key": "搜糊","type": 1},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻轨","key":"轻简"},
 {
       "key": "北川",
