@@ -231,6 +231,8 @@
 
 
 <details><summary>资源</summary>
+
+https://github.com/leosam1024/tvbox-mv
     
     [直播聚合](https://github.com/wbt5/real-url)
     https://github.com/pashangshangpo/AI-Create-Video
