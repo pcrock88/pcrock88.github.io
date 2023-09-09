@@ -93,7 +93,7 @@
       "filterable": 1,
       "ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
     },
-{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","name":"玩偶","key":"玩偶"},
+{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶"},
 {
       "key": "csp_appysv2_看剧吧",
       "name": "看剧吧",
