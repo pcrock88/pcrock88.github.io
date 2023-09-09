@@ -48,40 +48,7 @@
         "欧美动漫"
       ]
     },
-    {
-      "key": "火狐",
-      "name": "🦊茶杯狐",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-    },
+    {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐",},
 {
       "key": "落落",
       "name": "️🍇落落APP",
@@ -94,16 +61,6 @@
       "ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
     },
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶"},
-{
-      "key": "csp_appysv2_看剧吧",
-      "name": "看剧吧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.ishen520.com/api.php/v1.vod"
-    },
 {"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun"},
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
