@@ -2,7 +2,7 @@
 
 <details><summary>PCROCK</summary>
 
-[连续剧](https://pcrock88.github.io/zb/lxj.md)
+[连续剧](https://pcrock88.github.io/zb/dat/txt/cctv.txt)
 
 <details><summary>xml接口</summary>
 
