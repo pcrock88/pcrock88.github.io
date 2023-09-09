@@ -1,5 +1,5 @@
 {
-"spider": "https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;38B95541F1E193EE40B82E37A73CBEC5",
 "sites":[
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
 {"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️🦊┃搜糊┃影视","key": "api_xml_搜糊","type": 1},
