@@ -2,7 +2,10 @@
 
 <details><summary>PCROCK</summary>
 
-[连续剧](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)
+[cctv.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)、
+[tvbox.json](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/tvbox.json)、
+[fl.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/fl.txt)、
+[zy.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/zy.txt)、
 
 <details><summary>xml接口</summary>
 
