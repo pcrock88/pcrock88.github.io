@@ -12,7 +12,8 @@
       "type": 1,
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"
     },
-{"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
+{"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"}, 
+{"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
 {"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/","name":"卧龙","key":"卧龙"},
 {"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","name":"量子","key":"量子"},
