@@ -2,5 +2,6 @@
 "sites":[
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"}
 
+{"api":"","name":"END","key":"END"}
 ]
 }
