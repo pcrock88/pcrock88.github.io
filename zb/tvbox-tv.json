@@ -4,6 +4,10 @@
 "api":"csp_Alist",
 "key":"pcrock聚合",
 "name":"pcrock聚合",
+"searchable": 0,
+"playerType": 2,
+"quickSearch": 0,
+"filterable": 0,
 "ext":{
 "QQ":"http://tvbox-1-g5221611.deta.app/vod/qq",
 "iqiyi":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",
