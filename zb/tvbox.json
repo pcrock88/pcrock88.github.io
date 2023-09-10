@@ -1,26 +1,24 @@
 {
 "warningText": "pcrock接口完全免费，切勿付费购买！",
+"lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"pcrock all😄   更新:230419","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#连续剧$https://pcrock88.github.io/zb/dat/txt/lxj.txt#纪录片$https://pcrock88.github.io/zb/dat/txt/jlp.txt#蓝鲸TV$https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt#线路01$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#动物世界$https://pcrock88.github.io/zb/dat/txt/dwsj.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
 
 {"ext":"https://pcrock88.github.io/dr_py/js/drpy.js","name":"豆瓣(js)","key":"drpy_js_drpy","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"ext":"https://pcrock88.github.io/dr_py/js/JustLive.js","name":"JustLive(js)","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","name":"🎸MV","key":"MV_vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{
-      "key": "MV_vod",
-      "name": "🎸┃明星-接口1┃MV",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{"api": "https://www.xy1080.net/api.php/provide/vod/at/xml/","name": "剪影","key": "csp_简影"},
-{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻简","key":"轻简"},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/qq","name":"秋秋","key":"秋秋","type": 1,"playerType": 2,"playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=" },
+{"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","name":"艺艺","key":"艺艺","type":1,"playerType":2,"playUrl":""},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","name":"搜搜","key":"搜搜","type":1,"playerType":2,"playUrl":"json:http://jx.realdou.cn/api/?cat_ext=ImZsYWciOiBbInFxIiwgIuiFvuiuryIsICJxaXlpIiwgIueIseWlh-iJuiIsICLlpYfoiboiLCAieW91a3UiLCAi5LyY6YW3IiwgIm1ndHYiLCAi6IqS5p6cIiwgImxldHYiLCAi5LmQ6KeGIiwgInBwdHYiLCAiUFBUViIsICJpbWdvIiwic29odSIsICJiaWxpYmlsaSIsICLpnZ7lh6EiLCAi5ZOU5ZOpIl0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuMS4wIn19fQ==&key=j4vwSEv2iAE54EWTbM&url="},
+{"api":"http://tvbox.top/360.php","name":"卫卫","key":"360","type":1,"playerType":2,"playUrl":""},
+
+{"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
+{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻轨","key":"轻简"},
+{"api":"https://www.xy1080.net/api.php/provide/vod/at/xml/","name": "剪影","key": "csp_简影"},
 {"api":"http://cj.md214.cn/api.php/provide/vod/at/xml/","name":"双双","key":"双双"},
 {"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/","name":"猫咪","key":"猫咪"},
-{"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
-{"api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/","name": "HYcj","key":"HYcj"},
+{"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name": "HYcj","key":"HYcj"},
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶"},
 {"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun"},
@@ -59,9 +57,10 @@
 {"api":"https://www.77hanju.com/api.php/provide/vod/at/xml/","name":"77j","key":"77j"},
 {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml/","name":"阿里","key":"阿里"},
 {"api":"http://app.7en7.com/api.php/provide/vod/at/xml/","name":"瞬间","key":"瞬间"},
-
+{"api":"https://www.ah121.com/api.php/provide/vod/at/xml/","name":"ah121","key":"ah121"},
+{"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","name":"非凡","key":"非凡"},
 //-----失效
-//{"api":"https://www.ah121.com/api.php/provide/vod/at/xml/","name":"非凡","key":"非凡"},
+//{"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 //{"api":"https://www.kuaibozy.com/api.php/provide/vod/at/xml/","name":"快播","key":"快播"},
 //{"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
 //{"api":"http://www.kuaibocaiji.com/api.php/provide/vod/at/xml/","name":"星辰","key":"星辰"},
