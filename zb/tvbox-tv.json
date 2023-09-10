@@ -1,56 +1,6 @@
 {
 "sites":[
-{
-"api":"csp_Alist",
-"key":"pcrock聚合",
-"name":"pcrock聚合",
-"searchable": 0,
-"playerType": 2,
-"quickSearch": 0,
-"filterable": 0,
-"ext":{
-"QQ":"http://tvbox-1-g5221611.deta.app/vod/qq",
-"iqiyi":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",
-"sohu":"http://tvbox-1-g5221611.deta.app/vod/sohu",
-"360":"http://tvbox.top/360.php"
-}
-},
 
-{"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
-{"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️搜糊","key": "搜糊","type": 1},
-{"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻轨","key":"轻简"},
-{
-      "key": "csp_秋秋",
-      "name": "✨秋秋┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
-    },
-    {
-      "key": "csp_艺艺",
-      "name": "✨艺艺┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
-      "playUrl": ""
-    },
-    {
-      "key": "csp_搜搜",
-      "name": "✨搜搜┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "playUrl": " json:http://jx.realdou.cn/api/?cat_ext=ImZsYWciOiBbInFxIiwgIuiFvuiuryIsICJxaXlpIiwgIueIseWlh-iJuiIsICLlpYfoiboiLCAieW91a3UiLCAi5LyY6YW3IiwgIm1ndHYiLCAi6IqS5p6cIiwgImxldHYiLCAi5LmQ6KeGIiwgInBwdHYiLCAiUFBUViIsICJpbWdvIiwic29odSIsICJiaWxpYmlsaSIsICLpnZ7lh6EiLCAi5ZOU5ZOpIl0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuMS4wIn19fQ==&key=j4vwSEv2iAE54EWTbM&url="
-    },
-    {
-      "key": "csp_360",
-      "name": "✨卫卫┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox.top/360.php",
-      "playUrl": ""
-    },
 
 
 
