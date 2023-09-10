@@ -1,5 +1,17 @@
 {
 "sites":[
+{
+"api":"pcrock聚合",
+"key":"pcrock聚合",
+"name":"pcrock聚合",
+"ext":{
+"QQ":"http://tvbox-1-g5221611.deta.app/vod/qq",
+"iqiyi":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",
+"sohu":"http://tvbox-1-g5221611.deta.app/vod/sohu",
+"360":"http://tvbox.top/360.php"
+}
+},
+
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml","name":"新片","key":"新片"},
 {"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","name": "️搜糊","key": "搜糊","type": 1},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻轨","key":"轻简"},
