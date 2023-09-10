@@ -11,7 +11,7 @@
 {"api":"http://tvbox-1-g5221611.deta.app/vod/qq","name":"秋秋","key":"秋秋","type":1,"playerType":2,"playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
 {"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","name":"艺艺","key":"艺艺","type":1,"playerType":2,"playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
 {"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","name":"搜搜","key":"搜搜","type":1,"playerType":2,"playUrl":"json:http://jx.realdou.cn/api/?cat_ext=ImZsYWciOiBbInFxIiwgIuiFvuiuryIsICJxaXlpIiwgIueIseWlh-iJuiIsICLlpYfoiboiLCAieW91a3UiLCAi5LyY6YW3IiwgIm1ndHYiLCAi6IqS5p6cIiwgImxldHYiLCAi5LmQ6KeGIiwgInBwdHYiLCAiUFBUViIsICJpbWdvIiwic29odSIsICJiaWxpYmlsaSIsICLpnZ7lh6EiLCAi5ZOU5ZOpIl0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuMS4wIn19fQ==&key=j4vwSEv2iAE54EWTbM&url="},
-{"api":"http://tvbox.top/360.php","name":"卫卫","key":"360","type":1,"playerType":2,"playUrl":""},
+{"api":"http://tvbox.top/360.php","name":"卫卫","key":"360","type":1,"playerType":2,"playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
 
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","name":"新片","key":"新片"},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"轻轨","key":"轻简"},
