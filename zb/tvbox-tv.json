@@ -7,7 +7,7 @@
 
 
 
-{"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看"},
+{"api":"https://epg.112114.xyz/pp.xml","name":"epg","key":"epg"},
 {"api":"","name":"END","key":"END"}
 ]
 }
