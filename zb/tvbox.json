@@ -8,11 +8,11 @@
 {"ext":"https://pcrock88.github.io/dr_py/js/JustLive.js","name":"JustLive(js)","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","name":"🎸MV","key":"MV_vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","name":"iqiyi","key":"iqiyi","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
-{"api":"http://tvbox-1-g5221611.deta.app/vod/qq","name":"腾讯","key":"qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
-{"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","name":"360","key":"360kan","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
-{"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","name":"sohu","key":"sohu","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
-{"api":"http://tvbox-1-g5221611.deta.app/vod/kuyun77","name":"七七","key":"kuyun77","playUrl":"http://tvbox-1-g5221611.deta.app/vod/kuyun77/play"},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","name":"iqiyi","key":"iqiyi","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/qq","name":"腾讯","key":"qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","name":"360","key":"360kan","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","name":"sohu","key":"sohu","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
+{"api":"http://tvbox-1-g5221611.deta.app/vod/kuyun77","name":"七七","key":"kuyun77","playUrl":"http://tvbox-1-g5221611.deta.app/vod/kuyun77/play","type":1,"searchable":1,"quickSearch":1},
 {"api":"http://tvbox.top/360.php","name":"卫卫","key":"360","type":1,"playerType":2,"playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
 
 {"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","name":"新片","key":"新片"},
