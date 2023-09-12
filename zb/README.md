@@ -4,6 +4,8 @@
 
 https://github.com/cyao2q/
 
+http://cron.qiqiv.cn/cron/abc/123/
+
 https://github.com/njfkib/TVBOXZY
 [cctv.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)、
 [tvbox.json](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/tvbox.json)、
