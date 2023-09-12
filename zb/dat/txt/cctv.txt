@@ -824,7 +824,7 @@ G,#genre#
 媳妇的美好宣言,https://pcrock88.github.io/zb/lxj/X/媳妇的美好宣言.m3u
 宣言,https://pcrock88.github.io/zb/lxj/X/宣言.m3u
 小兵张嘎,https://pcrock88.github.io/zb/lxj/X/小兵张嘎.m3u
-小品集锦,https://pcrock88.github.io/zb/lxj/X/小品集锦.m3u
+小品集锦,https://pcrock88.github.io/zb/lxj/X/小品集锦.txt
 小大夫,https://pcrock88.github.io/zb/lxj/X/小大夫.m3u
 小娘惹,https://pcrock88.github.io/zb/lxj/X/小娘惹.m3u
 小小飞虎队(2011),https://pcrock88.github.io/zb/lxj/X/小小飞虎队(2011).m3u
