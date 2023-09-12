@@ -61,8 +61,9 @@
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看"},
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风"},
 {"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看"},
-{"api":"https://yhzy.cc/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
 {"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/at/xml/","name":"鸡肋","key":"鸡肋"},
+{"api":"https://yhzy.cc/api.php/provide/vod/at/xml/","name":"樱花fq","key":"樱花"},
+{"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花fq","key":"樱花"},
 //-----失效
 //{"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 //{"api":"https://www.kuaibozy.com/api.php/provide/vod/at/xml/","name":"快播","key":"快播"},
