@@ -66,7 +66,6 @@
 //-----失效
 //{"api":"http://mkzy.vip/api.php/provide/vod/at/xml/","name":"秒看","key":"秒看"},
 //{"api":"https://www.kuaibozy.com/api.php/provide/vod/at/xml/","name":"快播","key":"快播"},
-//{"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
 //{"api":"http://www.kuaibocaiji.com/api.php/provide/vod/at/xml/","name":"星辰","key":"星辰"},
 //{"api":"http://www.tvyb02.com/api.php/provide/vod/at/xml/","name":"TVB云","key":"TVB云"},
 //{"api":"https://api.foxzyapi.com/api.php/provide/vod/at/xml/","name":"FOX","key":"FOX"},
