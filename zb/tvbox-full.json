@@ -307,10 +307,7 @@
 {"key":"drpy_js_爱酷影视","name":"爱酷影视(jsd)","type":3,"api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","ext":"https://pcrock88.github.io/dr_py/js/爱酷影视.jsd"},
 {"key":"drpy_js_冲TMTV[飞]","name":"冲TMTV(jsd)","type":3,"api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","ext":"https://pcrock88.github.io/dr_py/js/冲TMTV[飞].jsd"},
 //XML
-{"ext":"https://pcrock88.github.io/dr_py/js/drpy.js","name":"豆瓣(js)","key":"drpy_js_drpy","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
-{"ext":"https://pcrock88.github.io/dr_py/js/JustLive.js","name":"JustLive(js)","key":"drpy_js_JustLive","api":"https://pcrock88.github.io/dr_py/libs/drpy2.min.js","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","name":"🎸MV","key":"MV_vod","type":1,"searchable":1,"quickSearch":1,"filterable":1},
-
 {"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","name":"iqiyi","key":"iqiyi","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
 {"api":"http://tvbox-1-g5221611.deta.app/vod/qq","name":"腾讯","key":"qq","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
 {"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","name":"360","key":"360kan","playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=","type":1,"searchable":1,"quickSearch":1},
