@@ -4,6 +4,8 @@
 
 https://github.com/cyao2q/
 
+https://github.com/catvod/CatVodOpen
+
 http://cron.qiqiv.cn/cron/abc/123/
 
 https://github.com/njfkib/TVBOXZY
