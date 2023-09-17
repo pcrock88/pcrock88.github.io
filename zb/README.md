@@ -1,6 +1,6 @@
 ![](https://pcrock88.github.io/favicon.ico)
 
-[LXJ](https://github.com/pcrock88/pcrock88.github.io/tree/main/zb/lxj#readme)
+[LXJ](https://github.com/pcrock88/pcrock88.github.io/edit/main/zb/lxj/README.md)
 
 <details><summary>PCROCK</summary>
 
