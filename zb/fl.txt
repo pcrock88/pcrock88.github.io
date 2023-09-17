@@ -1,6 +1,7 @@
 {
 "sites": [
 {"api":"","name":"pcrock-fl","key":"pcrock-fl"},
+{"api":"https://api.yikanapi.com/api.php/provide/vod/at/xml/","name":"易看","key":"易看"},
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"玖玖","key":"玖玖"},
 {"api":"http://bttcj.com/inc/sapi.php","name":"BTzy","key":"BTzy"},
 {"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","name":"狼少年","key":"狼少年"},
@@ -16,21 +17,34 @@
 {"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"老鸭","key":"老鸭"},
 {"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","name":"猫zy","key":"猫zy"},
 {"api":"https://apittzy.com/api.php/provide/vod/at/xml/","name":"探探","key":"探探"},
-{"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","name":"花魁","key":"花魁"},
 {"api":"https://dadiapi.com/api.php/","name":"大地","key":"大地"},
-{"api":"https://kkzy.me/api.php/provide/vod/at/xml/","name":"KK写真","key":"KK写真"},
+{"api":"https://kkzy.me/api.php/provide/vod/at/xml/","name":"kkzy","key":"kkzy"},
 {"api":"https://lbapi9.com/api.php/provide/vod/at/xml","name":"乐播","key":"乐播"},
 {"api":"https://sewozyapi.com/api.php/provide/vod/at/xml/","name":"色窝","key":"色窝"},
 {"api":"https://shayuapi.com/api.php/provide/vod/at/xml/","name":"鲨鱼","key":"鲨鱼"},
 {"api":"https://www.gdlsp.com/api/xml.php","name":"香奶儿","key":"香奶儿"},
 {"api":"https://www.kxgav.com/api/xml.php","name":"白嫖","key":"白嫖"},
-{"api":"https://www.msnii.com/api/xml.php","name":"美少女","key":"美少女"},
+{"api":"https://www.msnii.com/api/xml.php","name":"袜子","key":"袜子"},
 {"api":"https://www.pgxdy.com/api/json.php","name":"黄AV","key":"黄AV"},
 {"api":"https://www.xrbsp.com/api/xml.php","name":"饮水机","key":"饮水机"},
 {"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"花椒","key":"花椒"},
-{"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"玖玖","key":"玖玖"},
 {"api":"https://mgzyz1.com/api.php/provide/vod/","name":"芒果","key":"芒果"},
+{"api":"http://lbapiby.com/api.php/provide/vod/at/xml/","name":"AIvin","key":"AIvin"},
 
+
+//------------失效
+//{"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","name":"花魁","key":"花魁"},
+//葡萄,https://caiji.putaozy.net/inc/api.php
+//酷豆,https://kudouzy.com/api.php/provide/vod/at/xml/
+//https://api.kdapi.info/api.php/provide/vod/at/json
+///SS,http://secj8.com/inc/sapi.php?ac=videolist
+//哥妹,http://www.ggmmzy.com:9999/inc/xml/
+//秀se,https://api.xiuseapi.com/api.php/provide/vod/at/xml/
+//探探,https://apittzy.com/api.php/provide/vod/at/xml/
+//丝袜,https://siwazyw.cc/api.php/provide/vod/at/xml/
+//酷伦理,https://api.kudian70.com/api.php/provide/vod/at/xml/
+//AV在线,https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml
+//奶茶,https://caiji.naichaapi.com/inc/api.php
 {"api":"","name":"END","key":"END"}
 ]
 }
