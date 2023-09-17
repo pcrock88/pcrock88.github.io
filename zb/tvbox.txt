@@ -15,7 +15,6 @@
 {"api":"http://tvbox-1-g5221611.deta.app/vod/kuyun77","name":"七七","key":"kuyun77","playUrl":"http://tvbox-1-g5221611.deta.app/vod/kuyun77/play","type":1,"searchable":1,"quickSearch":1},
 {"api":"http://tvbox.top/360.php","name":"卫卫","key":"360","type":1,"playerType":2,"playUrl":"json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="},
 
-//------------XML
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶"},
 {"api":"http://175.178.7.35:2020/api.php/provide/vod/at/xml/","name":"龙腾","key":"龙腾"},
@@ -67,7 +66,6 @@
 {"api":"https://www.xy1080.net/api.php/provide/vod/at/xml/","name":"剪影","key":"csp_简影"},
 {"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看"},
 {"api":"https://yhzy.cc/api.php/provide/vod/at/xml/","name":"樱花fq","key":"樱花"},
-//------------失效XML
 /*
 http://124.220.183.81:83/api.php/provide/vod/at/xml/,干饭
 http://api.nguonphim.tv/api.php/provide/vod/at/xml/,南国
@@ -98,7 +96,6 @@ https://速影128.xyz/inc/api.php/provide/vod/at/xml/,速影
 https://kudianzy.com/api.php/provide/vod/at/xml/,酷点
 */
 
-//------------18
 {"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","name":"+玖玖","key":"+玖玖"},
 {"api":"http://bttcj.com/inc/sapi.php","name":"+BTzy","key":"+BTzy"},
 {"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","name":"+狼少年","key":"+狼少年"},
@@ -128,7 +125,6 @@ https://kudianzy.com/api.php/provide/vod/at/xml/,酷点
 {"api":"https://www.msnii.com/api/xml.php","name":"+美少女","key":"+美少女"},
 {"api":"https://www.pgxdy.com/api/json.php","name":"+黄AV","key":"+黄AV"},
 {"api":"https://www.xrbsp.com/api/xml.php","name":"+饮水机","key":"+饮水机"},
-//------------失效18
 /*
 http://mygzycj.com/api.php?ac=list,+JAV
 http://secj8.com/inc/sapi.php?ac=videolist,+Scj
