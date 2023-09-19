@@ -1,4 +1,4 @@
-破冰行动#
+破冰行动,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/627656e627e8400f96794676cb6f5df4/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/cc3e251f467f467dbb0d536cec00d7a8/main.m3u8
 03,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a6874941056c44eb940108add8fe3988/main.m3u8
