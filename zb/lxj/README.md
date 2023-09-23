@@ -5,6 +5,7 @@
 03,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ed33d74244bd40d2a0e95e12b5a0c45e/main.m3u8
 04,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/fe836b39934547abbdcb848cce54f07e/main.m3u8
 05,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/cbfd40287bd84c8d9bdb817cd252513c/main.m3u8
+06,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/bdc6e931d7c9490297c9e1cfd1f8ef37/main.m3u8
 
 行尸走肉,#genre#
 
