@@ -8,6 +8,8 @@
 06,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/bdc6e931d7c9490297c9e1cfd1f8ef37/main.m3u8
 07,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/58b6ec3c773a42a3afba00f01c7f26b0/main.m3u8
 
+越狱,#genre#
+
 行尸走肉,#genre#
 
 S1-01,https://s.xlzys.com/play/BeX6MElb/index.m3u8
@@ -206,5 +208,3 @@ S11-特辑,https://s.xlzys.com/play/DdwKq7gd/index.m3u8
 11,https://iqiyi.1080tg.com/20220322/hqwQ3DgG/index.m3u8
 12,https://iqiyi.1080tg.com/20220322/fM0xvQ4q/index.m3u8
 13,https://iqiyi.1080tg.com/20220322/Lzbxit6m/index.m3u8
-
-越狱,#genre#
