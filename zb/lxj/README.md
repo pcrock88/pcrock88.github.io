@@ -11,6 +11,7 @@
 
 探索发现,#genre#
 20230926 西汉葽奢墓（中）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f50527d5a1441b38f50eb4170fba27a/main.m3u8
+20230925 西汉葽奢墓（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f50527d5a1441b38f50eb4170fba27a/main.m3u8
 
 亮剑,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/main.m3u8
