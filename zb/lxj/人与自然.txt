@@ -525,7 +525,7 @@
 20220411 牧马生涯（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c004933b0fa44257b7d9f1232b94e437/main.m3u8
 20220410 归客回城记（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/856056271fce4ad2a2604e4d4712cab8/main.m3u8
 20220409 归客回城记（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1c4fd9c563854c45847e426e1a85238c/main.m3u8
-20220408 海洋与沙漠的传奇（下）,https://tv.cctv.com/2022/04/08/VIDEQ9fZe7UGoBXZcE9FyRP8220408.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.2654
+20220408 海洋与沙漠的传奇（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7945fab06d3740ffb44da7cbb0374cbf/main.m3u8
 20220407 海洋与沙漠的传奇（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a4daa8d14d3f4cab802433787b379e87/main.m3u8
 20220406 漫步生态河岸,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/bd16e27a0b1a4755bf5a3458e44a6e3f/main.m3u8
 20220405 无心插柳（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5bd963e93372414d8758c03d614ea5c3/main.m3u8
