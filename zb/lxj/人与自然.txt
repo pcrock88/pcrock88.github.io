@@ -1353,7 +1353,7 @@
 20200104 非洲掠影（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3fd7e75cdd2d4be78cfcfa0f4b8e4151/main.m3u8
 20200103 史前巨兽探秘——昔日霸主,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/45a6290ce5fe46e2ad1daf2b98d4edfd/main.m3u8
 20200102 植物的力量（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e2595b77da084b87becc28b464902f45/main.m3u8
-20200101 植物的力量（上）,https://tv.cctv.com/2020/01/01/VIDEjiiEEA57h59cHKZqbsbI200101.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.4643
+20200101 植物的力量（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/083a196b082a49b693df46d9cee4b354/main.m3u8
 2019年,#genre#
 2018年,#genre#
 2017年,#genre#
