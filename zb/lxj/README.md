@@ -9,6 +9,9 @@
 08,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/eaeb6785759549cb84044baee466be9a/main.m3u8
 09,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4f2eff5f163e450abcd63e623f9aa649/main.m3u8
 
+探索发现,#genre#
+20230926 西汉葽奢墓（中）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f50527d5a1441b38f50eb4170fba27a/main.m3u8
+
 亮剑,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a452d5e8f9fa498f945ed6e3ae27a209/main.m3u8
