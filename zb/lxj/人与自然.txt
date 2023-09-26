@@ -1,3 +1,4 @@
+2023年,#genre#
 20230926 大海中的世外桃源（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/813dbe0393a44afba899abaca4acafb9/main.m3u8
 20230925 大海中的世外桃源（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/36be6136e1c94cdc9e2ba38a4f2ff251/main.m3u8
 20230924 草原世界·花豹（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d61991e2364e430190ca78d453435122/main.m3u8
@@ -267,3 +268,4 @@
 20230103 保护栖息地——水獭的新家（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6c462b7150dc4c22aed56689d2548501/main.m3u8
 20230102 保护栖息地——水獭的新家（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/467d8d83acff466290ac5e83049f8846/main.m3u8
 20230101 生态家园——大山里的小精灵,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c9b0a996caef4c20b12c4d662f70350f/main.m3u8
+2022年,#genre#
