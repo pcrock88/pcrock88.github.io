@@ -56,14 +56,14 @@
 20230803 鸟儿的港湾（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7436bd3e57b842428d52b5edb8866b1a/main.m3u8
 20230802 鸟儿的港湾（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1718ff29c3a44c30a679ec5383fa7f2f/main.m3u8
 20230801 大海中的世外桃源（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/97990b2249f244309c0fa6d9d120cf70/main.m3u8
-20230731 大海中的世外桃源（上）,https://tv.cctv.com/2023/07/31/VIDEezXn8dZt4zhfAKsKmHsk230731.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1282
-20230730 动物智慧（下）,https://tv.cctv.com/2023/07/30/VIDEnU8oDPZjsBgy3GV3HXri230730.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1286
-20230729 动物智慧（上）,https://tv.cctv.com/2023/07/29/VIDEPEtvQIxsmkKDGzXjDe7W230729.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1290
-20230728 捕食者家园,https://tv.cctv.com/2023/07/28/VIDE3zCJVLt5aNlZBxBGNpZY230728.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1294
-20230727 保护山地生态——山高水长（下）,https://tv.cctv.com/2023/07/27/VIDEkCQRXumcg4Q7U4vW0kKc230727.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1298
-20230726 保护山地生态——山高水长（上）,https://tv.cctv.com/2023/07/26/VIDEENasqeHjBQLrXxUXrZgc230726.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1302
-20230725 荒野原生态——大河上下（下）,https://tv.cctv.com/2023/07/25/VIDEXfzBgArB6crBsWUfqN3r230725.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1306
-20230724 荒野原生态——大河上下（上）,https://tv.cctv.com/2023/07/24/VIDEELHQOimxbhohWr0cf56Y230724.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1310
+20230731 大海中的世外桃源（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b7b7c7b5238f4037b4323ff5dd7f83cf/main.m3u8
+20230730 动物智慧（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4fc96775828049f7972bf8fe26fac1a4/main.m3u8
+20230729 动物智慧（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/f050db1417544db191c923bfa2e4a2af/main.m3u8
+20230728 捕食者家园,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4b6d520e7624455ea22e3b25aa63139e/main.m3u8
+20230727 保护山地生态——山高水长（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4fce33937a0543b89b6eaa3894e0be67/main.m3u8
+20230726 保护山地生态——山高水长（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/703629aa6311486ca295468ede44f2f0/main.m3u8
+20230725 荒野原生态——大河上下（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/714b6eb7dda9491dac6105704e4e135c/main.m3u8
+20230724 荒野原生态——大河上下（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/911a688b945f43f89a1d952a0894fa65/main.m3u8
 20230723 视觉进化之谜（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8a72478f8cf74570a1207e8b1e745c99/main.m3u8
 20230722 视觉进化之谜（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b4f4f498de1c49a3a2444f0804811cdb/main.m3u8
 20230721 爱在盛夏,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7cbf2261cf954a8090c1ee4a195196b5/main.m3u8
@@ -195,7 +195,7 @@
 20230317 野性世界搏击会,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6e72324c8d4d4c5685ba0d71531ab533/main.m3u8
 20230316 伊瓜苏瀑布的守护者（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/11a5d3a8016043beb0a6aab2e2455d08/main.m3u8
 20230315 伊瓜苏瀑布的守护者（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ab29c0f42bc8427ca087171019a0ed83/main.m3u8
-20230314 守护栖息地——回归湖畔（下）,https://tv.cctv.com/2023/03/14/VIDEehHCecaP3F2cWb9izDEp230314.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.2082
+20230314 守护栖息地——回归湖畔（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5578da709ed2476d9375770a339bdf65/main.m3u8
 20230313 守护栖息地——回归湖畔（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c1dea4c7cd404ad2824e3b1db80ced8b/main.m3u8
 20230312 漫步野性之岛,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a0c91844f4064eac903d6c46991ffd54/main.m3u8
 20230311 超感大自然·视觉（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c2357fe2946349bfb5feeec82846731e/main.m3u8
@@ -554,7 +554,7 @@
 20220313 荒野的新生——重归故园（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8c38f59cb71c45e2b393bab10c4ae126/main.m3u8
 20220312 荒野的新生——重归故园（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/63c0d31433e244f191e150f292b22835/main.m3u8
 20220311 隐秘的信号,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ebcfcfae748043c58a4658e1458057e7/main.m3u8
-20220310 地中海传奇——跨海而生（下）,https://tv.cctv.com/2022/03/10/VIDE51aVWCBV600B3sU8xdQ6220310.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.609
+20220310 地中海传奇——跨海而生（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e7194af1dc3e421aa3ac40d0b9c20384/main.m3u8
 20220309 地中海传奇——跨海而生（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6a8f01ca996d45d28bd1aa39ce97afeb/main.m3u8
 20220308 留住那片绿洲（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a5dbe07465d244f99b5a77a5e66574eb/main.m3u8
 20220307 留住那片绿洲（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c4e2fef2fd7346899d5184516a58a739/main.m3u8
@@ -625,7 +625,7 @@
 20220101 春暖大地（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ce2aafd8f5ab4d568e5c028bebe68816/main.m3u8
 2021年,#genre#
 20211231 植物的力量,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5d46c2403f5844ecaab71ed30bf98da8/main.m3u8
-20211230 山水田园（下）,https://tv.cctv.com/2021/12/30/VIDEw9wUzzIRAKkYDlBZbpEA211230.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.133
+20211230 山水田园（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ded7df9af3674be8b4b700b62eb9973b/main.m3u8
 20211229 山水田园（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d893dcb45d28492694e16b7285d85acb/main.m3u8
 20211228 荒野的新生——巨兽归来（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/93192691cfa84895bd21dd6c0cfe1760/main.m3u8
 20211227 荒野的新生——巨兽归来（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/0678cdf0a08c4f00bc2f379b8dbae089/main.m3u8
@@ -701,7 +701,7 @@
 20211018 丛林生存者——旱季的挑战（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/9d8c4f208c43446195c8fe4c153c61a2/main.m3u8
 20211017 春到樱桃谷（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7285cb9aa51c40edb278237f59cc8c15/main.m3u8
 20211016 春到樱桃谷（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/eb031425bc724ab594984ed83cd9780c/main.m3u8
-20211015 为母则刚（下）,https://tv.cctv.com/2021/10/15/VIDEuJCeF1HU2P0Mf20jk34w211015.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.437
+20211015 为母则刚（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/55c8c0d9935a45e49aaa44212b6cc295/main.m3u8
 20211014 为母则刚（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7bb7411c741648f39a6c0ae2b4696208/main.m3u8
 20211013 隐身有术,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7fe9ebe1919b41a8bf1ce75a7a4a8eb7/main.m3u8
 20211012 多瑙河之波（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2b98303e20d3463ea6ac9ffdbda7ce6e/main.m3u8
@@ -781,7 +781,7 @@
 20210730 鸟岛生机（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4d37a27015404797848cd2b2202c777d/main.m3u8
 20210729 鸟岛生机（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/731f4389dff94f3f8dafa230dd6effb2/main.m3u8
 20210728 荒野魅影,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/305dcca470c143a08187be011d4808a6/main.m3u8
-20210727 大河纪行——多瑙河畔（下）,https://tv.cctv.com/2021/07/27/VIDERFhQKlmq14Pi3GcLQRyS210727.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.757
+20210727 大河纪行——多瑙河畔（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/65ce5f23195e49289e61316a98482e8d/main.m3u8
 20210726 大河纪行——多瑙河畔（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c0f589c18d6f42738bb7b2c2b21b99ed/main.m3u8
 20210725 重返大自然（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/78e56fabec10420597332c1f8ce9ce60/main.m3u8
 20210724 重返大自然（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ff3741edba764afaa489636b5f62b9d9/main.m3u8
@@ -796,7 +796,7 @@
 20210715 小猴成长记,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/274c6020956142c1a17e97d29f23d9e0/main.m3u8
 20210714 猴妈妈育儿记,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/dd6abdcab91e443397bce678f951c8b8/main.m3u8
 20210713 解密动物语言（四）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b44b51e078fc420586f8d7ada4058434/main.m3u8
-20210712 解密动物语言（三）,https://tv.cctv.com/2021/07/12/VIDE069WPrZQOjE7sooGAsI8210712.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.817
+20210712 解密动物语言（三）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5e55fda328344a709424cdc1eb57c022/main.m3u8
 20210711 亚马逊传奇——幸运的孤儿（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d5479dbe35ff4131bf37643d264634ed/main.m3u8
 20210710 亚马逊传奇——幸运的孤儿（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ecfbc0117ca341ceb6f22fa21b78ce87/main.m3u8
 20210709 大河纪行——河畔家园（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3f1ccf84d4594306b43e0d00009f7d0b/main.m3u8
@@ -827,7 +827,7 @@
 20210614 湖畔之春（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/dc0cdf2e88064c40b0d0fa38ec026faf/main.m3u8
 20210613 动物解码——丛林中的低吟（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/770ffd1bbb1540b3ad50f3e578feca37/main.m3u8
 20210612 动物解码——丛林中的低吟（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d9eeb64f65b14447b4687c80f8f6f817/main.m3u8
-20210611 生存之舞,https://tv.cctv.com/2021/06/11/VIDEnkUZAG2zZIc0Bie89g3m210611.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.941
+20210611 生存之舞,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6c73f798eed544a6a4451312f7a6d4d1/main.m3u8
 20210610 不可或缺的植物,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/393b5e4514554424afe98b38e26dafe5/main.m3u8
 20210609 漫步卢瓦尔河,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6ffe60b26f3a45bd8930811d6eb648ee/main.m3u8
 20210608 北方的海岸（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e9a6edb91f98427a8bbdd4c13ae14977/main.m3u8
@@ -955,7 +955,7 @@
 20210206 沸腾的海岸（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1d468fbfc49d40c5997f82294e860590/main.m3u8
 20210205 生命的堡垒——海德堡城堡,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2d5a257626024208becdfd48229e53cd/main.m3u8
 20210204 高原风景线（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b47e1d0325464d9ea6dd146fbe7782cd/main.m3u8
-20210203 高原风景线（上）,https://tv.cctv.com/2021/02/03/VIDEGZWf3GiffUsHqVtjq2M9210203.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.1453
+20210203 高原风景线（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/f07167c17ce841de878c0998d6bf5f7d/main.m3u8
 20210202 博滕海奏鸣曲——生命的港湾（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c11aca420a604558a188385b663beb87/main.m3u8
 20210201 博滕海奏鸣曲——生命的港湾（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a555240fac4f4e399eae912d0273b425/main.m3u8
 20210131 热带岛屿巡游记,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7be0f500b8d44e2898449064fb527be3/main.m3u8
@@ -1018,7 +1018,7 @@
 20201206 荒漠风景线——巴塔哥尼亚高原,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/63cb5b178d194b08a74a530ebca4f92f/main.m3u8
 20201205 大洋里的岛屿——潮起潮落（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b3a0985286954e2ca795ac99c7d86b99/main.m3u8
 20201204 大洋里的岛屿——潮起潮落（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c7122dda6ea24d90828c3e2baba59c68/main.m3u8
-20201203 阿尔卑斯之旅——冰川的馈赠（下）,https://tv.cctv.com/2020/12/03/VIDERq0juCnFlaU30Rr1KyWl201203.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.3303
+20201203 阿尔卑斯之旅——冰川的馈赠（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/22351fe4066e4af6bb55797acbfc5912/main.m3u8
 20201202 阿尔卑斯之旅——冰川的馈赠（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/dfea2d3e5b6e4e79ac14602cc34b035f/main.m3u8
 20201201 进化乐园（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/bfefa7bf14fd45d4a8c5cc58b4a4655d/main.m3u8
 20201130 进化乐园（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/00bdce0b3fc04423b298f4b618d127e7/main.m3u8
@@ -1028,13 +1028,13 @@
 20201126 非洲地平线——回归自然（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3b98c5ec4a5b42f7b54918363232362d/main.m3u8
 20201125 湖光山色——提契诺（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1fa2d42c9e534197b0ba4c7a90869c3c/main.m3u8
 20201124 湖光山色——提契诺（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7c629d1e438b44b39dce4226730d2d32/main.m3u8
-20201123 阿尔卑斯之旅——迎风斗雪（下）,https://tv.cctv.com/2020/11/23/VIDEPjCN5EZerkSJfGESY4sQ201123.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.3343
+20201123 阿尔卑斯之旅——迎风斗雪（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/27d62d4b9bf246c188a3498ddc129240/main.m3u8
 20201122 阿尔卑斯之旅——迎风斗雪（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/377cc1ee2858493aa88248b9b9b78ec3/main.m3u8
 20201121 古堡巡游——阿尔罕布拉宫（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6b9f0e72554949d99d5c03ad5b16ab2f/main.m3u8
 20201120 古堡巡游——阿尔罕布拉宫（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/890a3aabef2546abab8d263103ca7412/main.m3u8
 20201119 生命的港湾——海岸生机（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e384f984935c4f6f8cf1be40cfcb5a8b/main.m3u8
 20201118 生命的港湾——海岸生机（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/46f8635ff80c4eb090d46a8043d37c7f/main.m3u8
-20201117 青山葱茏——汝拉山漫步（下）,https://tv.cctv.com/2020/11/17/VIDEU3gK1W6Hy3DkPCFsG5BZ201117.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.3367
+20201117 青山葱茏——汝拉山漫步（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1a66d397d92d48169693071633d81c4d/main.m3u8
 20201116 青山葱茏——汝拉山漫步（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a1868f4ff9e64cc7a4725c2e0c0bfa01/main.m3u8
 20201115 狐猴岛传奇（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a58447af163a492eb758437c21cb9e7b/main.m3u8
 20201114 狐猴岛传奇（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e6000d5cb0cd42d8966238ca475c1f4d/main.m3u8
@@ -1082,7 +1082,7 @@
 20201003 湄公河之旅——丰饶三角洲（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/9688743c6ff24fa6be72887485f8a185/main.m3u8
 20201002 湄公河之旅——成长岁月（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/32f0ca3b07944bc3b02a6cd059f9d6a6/main.m3u8
 20201001 湄公河之旅——成长岁月（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5ce844c1a93b45739dd85ec210016756/main.m3u8
-20200930 庭院深深——春华秋实（下）,https://tv.cctv.com/2020/09/30/VIDE7v1qcsiBTlfHu90dt2kH200930.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.3559
+20200930 庭院深深——春华秋实（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3999c00e6c034a5aa20f675f07f6444e/main.m3u8
 20200929 庭院深深——春华秋实（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d00929025c274eab8c9db8070179c959/main.m3u8
 20200928 猕猴王国——天堂里的风波（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/eaa835d429aa41eead86f07a59e95908/main.m3u8
 20200927 猕猴王国——天堂里的风波（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e21713b9c0774844a62eb34be4154560/main.m3u8
@@ -1117,7 +1117,7 @@
 20200829 非洲地平线——沙漠巨兽（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e83ec5556c4d497f89549819ce9e1cef/main.m3u8
 20200828 非洲地平线——沙漠巨兽（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/32c1aa2822fa4a95a196424e51c883c2/main.m3u8
 20200827 欧亚分界线（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/f7a58a1e5d9044ff87f50c69685d3c68/main.m3u8
-20200826 欧亚分界线（上）,https://tv.cctv.com/2020/08/26/VIDEn3MP8L7p1oijitsqXqaZ200826.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.3699
+20200826 欧亚分界线（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/677bd7d8dd6540268945334fa51556aa/main.m3u8
 20200825 小熊兄妹的故事（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b110a048fef0444e932fd851018c8684/main.m3u8
 20200824 小熊兄妹的故事（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/480c184a4cc3413dad743b482714f1c3/main.m3u8
 20200823 水与冰的馈赠（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6a13f4041e194890b01fd299f446470a/main.m3u8
@@ -1217,7 +1217,7 @@
 20200531 孚日山,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4722c98a2b5b45d1a3b1092d0ef75fe2/main.m3u8
 20200530 黑森林,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/38da70449cd74f8ea355df13e6455181/main.m3u8
 20200529 探寻生命的热土,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/53817d7096fd43c5881a088b283c0554/main.m3u8
-20200528 漫步多姿的海岸,https://tv.cctv.com/2020/05/28/VIDE8GGFuj2CWoPfl2D66Id3200528.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.4099
+20200528 漫步多姿的海岸,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/41aa6d7fe8cd4d2080e561a4dc6ec8db/main.m3u8
 20200527 礁心探秘,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b5ed11eaf61f491db822e9eefa037c0b/main.m3u8
 20200526 阿塔卡玛沙漠的生机,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6f03c947ce8241e6bf593df003c390a9/main.m3u8
 20200505 海岛岁月-皓月千里（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/0ef37f1335a34dd689091a0de06016ee/main.m3u8
@@ -1250,7 +1250,7 @@
 20200426 云端上的生命——安第斯山脉（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/42d8607609cb465d89dbd6d587e5b845/main.m3u8
 20200425 云端上的生命——安第斯山脉（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/fd227016c3a5437aae1eaa416d307884/main.m3u8
 20200424 荒野传奇——顽强生存,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8be0def327704a92aa857ba7c98f57e1/main.m3u8
-20200423 荒野传奇——大旱将至,https://tv.cctv.com/2020/04/23/VIDEc6W6TLiVQYDG44cGo5XD200423.shtml?spm=C31267.Ps4TvsHCiPx5.EFhA5EKLlcYD.4231
+20200423 荒野传奇——大旱将至,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e5d12e75751e44eb9f39ebc61c795f32/main.m3u8
 20200422 史前巨兽探秘——昔日霸主,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/785fb5a1caff42828e95252174959c0e/main.m3u8
 20200419 云端上的生命——落基山脉（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/99df64281195455a87e53b7ce9632006/main.m3u8
 20200418 云端上的生命——落基山脉（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/f592a6c99d6a4e00a1e01e1b7d23dd08/main.m3u8
