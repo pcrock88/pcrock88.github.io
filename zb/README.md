@@ -4,6 +4,8 @@
 
 <details><summary>PCROCK</summary>
 
+https://github.com/kokoko3k/xt7-player-mpv
+
 https://github.com/u8sand/Baka-MPlayer/
 
 https://github.com/cyao2q/
