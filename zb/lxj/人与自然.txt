@@ -1,4 +1,10 @@
 2023年,#genre#
+20231002 奇幻珊瑚礁——生命的摇篮（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5de7da06b1534c9895cbd8496e44b332/main.m3u8
+20231001 风暴中的动物奇观（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ae4994e445ef4653ab9631b990f419c3/main.m3u8
+20230930 风暴中的动物奇观（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/79a9b0e4aa554264afb22cee5df01209/main.m3u8
+20230929 奇幻森林,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/7a7e00cde26340759cb19fe975ad51f6/main.m3u8
+20230928 奇幻珊瑚礁——沸腾的角落（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/9c2e7b6dd57a4530b0dfb7a02b53a9e9/main.m3u8
+20230927 奇幻珊瑚礁——沸腾的角落（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/9b093b5a37994fdab4e8e5aa8827f1bf/main.m3u8
 20230926 大海中的世外桃源（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/813dbe0393a44afba899abaca4acafb9/main.m3u8
 20230925 大海中的世外桃源（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/36be6136e1c94cdc9e2ba38a4f2ff251/main.m3u8
 20230924 草原世界·花豹（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d61991e2364e430190ca78d453435122/main.m3u8
