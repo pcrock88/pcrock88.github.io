@@ -3,6 +3,7 @@
 马王堆素纱襌衣之谜,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/03fbad38bf7845ca928a7ba359dba945/main.m3u8
 马王堆传奇01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a6e74e4d413e450381018b3d7657478e/main.m3u8
 马王堆传奇02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/59eeaa67116c41c7bad1ef9093ef391a/main.m3u8
+马王堆汉墓帛画中的永生世界,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/f3709d4fe2d84b03a2859cf8136acbe7/main.m3u8
 西汉葽奢墓,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f50527d5a1441b38f50eb4170fba27a/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f50527d5a1441b38f50eb4170fba27a/main.m3u8
@@ -17,3 +18,17 @@
 雅安西汉墓葬,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/209b97f2e44d43d9819cc9b66ec2a2dc/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/326ad2ed5bd14a9d83afcb562943698f/main.m3u8
+未解之迷,#genre#
+梦境和灾难,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/036ff6379c744a3d93521bb1057f5bba/main.m3u8
+超级视觉之微尘中的宇宙,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ae6fb461fa94496ea983c594f067b1b8/main.m3u8
+宇宙大爆炸,#genre#
+01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d1b985840ae14d71a574c153dd999d25/main.m3u8
+02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/06b95c72e5c24a5692fb887aca9e4bfd/main.m3u8
+03,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/cb7e8dc547be4da29d086251eab4d5d7/main.m3u8
+04,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/29960eebdee54ab892b8ec5e69bf5c38/main.m3u8
+考古,#genre#
+秦都考古记01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d50fa0873c6347c7a50cefb76e530a6f/main.m3u8
+秦都考古记02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c3115e0ed165421daa0ea9a0ce44dcac/main.m3u8
+龙门国宝复原记（上集）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8999829c71e4478ca4ec43fb5ed408fc/main.m3u8
+
+破解石头城之谜,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/22e9c032e48a469093aeeed22e46b1bb/main.m3u8
