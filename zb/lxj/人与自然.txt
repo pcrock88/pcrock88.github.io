@@ -1,4 +1,10 @@
 2023年,#genre#
+
+20231007 豹的传承（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/638c8da0b67a4069a851dfaa4c749264/main.m3u8
+20231006 豹的传承（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/df7f2a48819246548ebfd9d8bbf0252f/main.m3u8
+20231005 湖上乐园（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/43ae2952c1614058ad622c77bf221a1b/main.m3u8
+20231004 湖上乐园（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/3a8f12472dfa488597ddbf847b793cef/main.m3u8
+20231003 奇幻珊瑚礁——生命的摇篮（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2221613a5e8842608f43c8dff37dae1c/main.m3u8
 20231002 奇幻珊瑚礁——生命的摇篮（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5de7da06b1534c9895cbd8496e44b332/main.m3u8
 20231001 风暴中的动物奇观（下）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ae4994e445ef4653ab9631b990f419c3/main.m3u8
 20230930 风暴中的动物奇观（上）,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/79a9b0e4aa554264afb22cee5df01209/main.m3u8
