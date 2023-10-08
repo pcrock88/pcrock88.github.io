@@ -18,6 +18,10 @@
 17,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/eae758ee13b84096bcb21c75bd6404bf/main.m3u8
 18,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/284a0ef0b1cf458881178f62104a2e42/main.m3u8
 19,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6a0eecd288e24a98b8ab294f0376ddfc/main.m3u8
+20,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8b95b6eda4d34b659e2ea88eda788b79/main.m3u8
+21,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/787ca7eff4174939b377a3c1cb7ab5b0/main.m3u8
+
+
 
 亮剑,#genre#
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8c5c8a1079bd45aea6e7d38f984e5ccb/main.m3u8
