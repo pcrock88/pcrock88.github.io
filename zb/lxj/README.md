@@ -22,7 +22,7 @@
 21,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/787ca7eff4174939b377a3c1cb7ab5b0/main.m3u8
 22,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/38f9f7231b614aef9875c7b8d7340e54/main.m3u8
 23,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/1274adc9d75147e6a68983e678828c41/main.m3u8
-24,
+24,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b951ea841991438c95bc4ba5bd002786/main.m3u8
 25,
 26,
 27,
