@@ -4,6 +4,8 @@
 
 <details><summary>PCROCK</summary>
 
+ffdss-435,https://video.fedbf.com/20230521/NDYxYjIyYz/172642/720/hls/encrypt/index.m3u8
+
 https://github.com/kokoko3k/xt7-player-mpv
 
 https://github.com/u8sand/Baka-MPlayer/
