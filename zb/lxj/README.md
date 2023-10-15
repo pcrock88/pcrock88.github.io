@@ -29,7 +29,7 @@ mv,#genre#
 25,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/6da27a5e192f4825b45a13c3c14ba6b8/main.m3u8
 26,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/753bfb89b9f34326a4b79705608303f4/main.m3u8
 27,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c1009f36afc44fd2b1eff1b1134d86bf/main.m3u8
-28,
+28,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/9834c869c2fc475e894d8a2c7f1ee02e/main.m3u8
 29,
 30,
 
