@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="description" content="解析城通网盘直连地址" />
+    <link rel="canonical" href="https://ctfile.qinlili.bid/" />
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#FFFFFF">
+    <link rel="icon" href="./icon.png">
+    <link crossorigin="anonymous"
+        integrity="sha512-tH5CEoO7QorGJK5RZrcKozo5xe0qC0UgOhjkIoqXNVe9ApFAjJRbVFzDfVvdRUSOJ5g2Pw9VzzOBguouzhLoIQ=="
+        href="https://lib.baomitu.com/material-components-web/6.0.0/material-components-web.min.css" rel="stylesheet">
+    <script crossorigin="anonymous"
+        integrity="sha512-5zCl3JhN4Fqq6+irTX1v8J+77hwL54zTbrdl2Dl8YHe+KGcuV14C01u/uWFrSg+kZgOfGMneoUySVHqEgdRaPQ=="
+        src="https://lib.baomitu.com/material-components-web/6.0.0/material-components-web.min.js"></script>
+    <title>历史记录 | 城通网盘解析器</title>
+    <style>
+        .mdc-card {
+            margin: 20px;
+        }
+
+        .card-title {
+            background-color: rgba(219, 199, 251, .5);
+            padding: 3px;
+            margin: 0;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <button
+            onclick="(window.this===window.top)?document.location.href='./':window.parent.postMessage('close', '*');"
+            id="dlbtn" class="mdc-button foo-button">
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">返回</span>
+        </button>
+
+        <button onclick="clearAll();" class="mdc-button foo-button">
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">全部清除</span>
+        </button>
+    </div>
+
+    <div id="records">
+
+    </div>
+    <br>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1806614386308377"
+        crossorigin="anonymous"></script>
+    <!-- 城通 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1806614386308377" data-ad-slot="4999029283"
+        data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <div class="mdc-dialog">
+        <div class="mdc-dialog__container">
+            <div class="mdc-dialog__surface" role="alertdialog" aria-modal="true" aria-labelledby="my-dialog-title"
+                aria-describedby="my-dialog-content">
+                <div class="mdc-dialog__content" id="my-dialog-content">
+                    <h5>这将清除所有记录</h5>
+                </div>
+                <div class="mdc-dialog__actions">
+                    <button onclick="clearAllConfirm()" type="button" class="mdc-button mdc-dialog__button"
+                        data-mdc-dialog-action="discard">
+                        <div class="mdc-button__ripple"></div>
+                        <span class="mdc-button__label">确认</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="mdc-dialog__scrim"></div>
+    </div>
+    <script>
+        const setBlank = () => {
+            document.querySelector("#records").innerHTML =
+                `<div class="mdc-card mdc-card--outlined" style="text-align:center;padding:20px">
+                    暂无记录    
+                </div>`
+        }
+        const clearAll = () => {
+            const dialog = new window.mdc.dialog.MDCDialog(document.querySelector('.mdc-dialog'));
+            dialog.open()
+        }
+        const clearAllConfirm = () => {
+            localStorage.removeItem("store")
+            setBlank()
+        }
+        const writeClipboard = async (element) => {
+            const link = element.parentElement.dataset.link;
+            const password = element.parentElement.dataset.pw;
+            await navigator.clipboard.writeText("asaki+" + btoa(encodeURI(`${link}|||${password}`)));
+            element.querySelector('.mdc-button__label').innerText = '已复制口令';
+        }
+        const store = localStorage.getItem("store")
+        const records = JSON.parse(store)
+        const $records = document.querySelector("#records")
+        if (store && Array.isArray(records) && records.length > 0) {
+            records.forEach(r => {
+                $records.insertAdjacentHTML("beforeend",
+                    `<div class="mdc-card mdc-card--outlined" data-link="${r.link}" data-pw="${r.password}">
+                        <h6 class="card-title">
+                            <span>${r.name}</span>
+                            <span>${r.size}</span>
+                        </h6>
+                        <div>原始链接: ${r.link}</div>
+                        <div>密码: ${r.password}</div>
+                        <div>发布时间: ${r.time}</div>
+                        <div>查询时间: ${r.queryTime}</div>
+                        <button onclick="writeClipboard(this)" class="mdc-button foo-button">
+                            <div class="mdc-button__ripple"></div>
+                            <span class="mdc-button__label">复制口令</span>
+                        </button>
+                    </div>`)
+            })
+        } else {
+            setBlank()
+        }
+    </script>
+    <script>
+        window.mdc.autoInit();
+        document.querySelectorAll('.foo-button').forEach(element => {
+            mdc.ripple.MDCRipple.attachTo(element);
+        });
+    </script>
+</body>
+
+</html>
