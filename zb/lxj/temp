@@ -30,6 +30,7 @@
 29,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/e04673f4bae74b4996c7abd45843135a/main.m3u8
 30,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d7f765ea5a77442093dfa6714bd6cef1/main.m3u8
 31,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8ade0ee4cbc345b5b4b8e7acf499c57d/main.m3u8
+32,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a4fbe0e09c1e4138b35bf03e84bb40de/main.m3u8
 问苍茫
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/892c0bd311b040a7a02c07223e229eb5/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/8665d5d668af463eab3f1fc4f8860ec8/main.m3u8
@@ -42,9 +43,11 @@
 09,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/4b90a168f53b4d589de6ea348b07f8a4/main.m3u8
 10,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/38b0eef3a08c4ff3bee2188141e98466/main.m3u8
 11,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/0d98b8bc3a354d10981a9d61d9a4872c/main.m3u8
-12,
-13,
-14,
+12,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/b03300c202e847ff9d9080332172df94/main.m3u8
+13,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/26521719abba48c8a7b3cae80e49d483/main.m3u8
+14,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/a79f48969443472689c504994c0a364d/main.m3u8
+15,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/5cc1aa4cef884c8891283678981bd895/main.m3u8
+16,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/fd05d63dba2c46d18cb5a44935b3a580/main.m3u8
 一代大商孟洛川
 01,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/013b8a78d54d48248e8e964e439efeb2/main.m3u8
 02,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/ec43c5b995f24fe9a6101367a7148347/main.m3u8
