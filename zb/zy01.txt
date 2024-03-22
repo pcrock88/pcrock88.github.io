@@ -1,5 +1,5 @@
 [
-{"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪","group":"MV"},
+{"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐","group":"MV"},
 {"api":"http://175.178.7.35:2020/api.php/provide/vod/at/xml/","name":"龙腾","key":"龙腾","group":"MV"},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml/","name":"天天","key":"天天","group":"MV"},
 {"api":"http://aliys.cn:90/api.php/provide/vod/at/xml/","name":"阿里","key":"阿里","group":"MV"},
@@ -43,12 +43,12 @@
 {"api":"http://cj.md214.cn/api.php/provide/vod/at/xml/","name":"双双","key":"双双","group":"MV"},
 {"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/","name":"猫咪","key":"猫咪","group":"MV"},
 {"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"HYcj","key":"HYcj","group":"MV"},
-{"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐","group":"MV"},
 {"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/at/xml/","name":"玩偶","key":"玩偶","group":"MV"},
 {"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","name":"Ikun","key":"Ikun","group":"MV"},
 {"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","name":"️快看","key":"快看","group":"MV"},
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风","group":"MV"},
 {"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看","group":"MV"},
+{"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪","group":"MV"},
 
 {"api":"http://124.220.183.81:83/api.php/provide/vod/at/xml/","name":"干饭","key":"干饭","group":"MV-失效"},
 {"api":"http://anltv.cn/api.php/provide/vod/at/xml/","name":"忆梦","key":"忆梦","group":"MV-失效"},
