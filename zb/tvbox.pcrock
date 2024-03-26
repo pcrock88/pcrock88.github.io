@@ -13,6 +13,30 @@
 },
 //--------------
 {
+            "key": "天天",
+            "name": "🐯 天天",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "http://op.ysdqjs.cn$$$null$$$1"
+        },
+        {
+            "key": "热播",
+            "name": "🦃热播",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "追剧",
+            "name": "🐁追剧",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "http://app.kzjtv.com"
+        },
+{
             "key": "业余采集A",
             "name": "♻业余自营 ",
             "type": 1,
