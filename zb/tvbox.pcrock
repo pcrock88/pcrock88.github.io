@@ -13,26 +13,15 @@
 },
 //--------------
 {
-            "key": "baipiaoys",
-            "name": "🏡白嫖影视",
+            "key": "耐看",
+            "name": "👁耐看┃自建",
             "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "api": "csp_XBPQ",
             "ext": {
-                "主页url": "http://www.baipiaoys.cc/",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
-                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+                "分类数组": "swiper-wrapper\"*&&</ul>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
+                "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
             }
         },
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
