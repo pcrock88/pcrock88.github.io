@@ -49,6 +49,11 @@
 {"api":"https://app.bfzyapi.com/api.php/provide/vod/at/xml/","name":"暴风","key":"暴风","group":"MV"},
 {"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看","group":"MV"},
 {"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪","group":"MV"},
+{"api":"https://lovedan.net/api.php/provide/vod/at/xml/","name":"艾旦","key":"艾旦","group":"MV"},
+{"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"索尼","key":"索尼","group":"MV"},
+{"api":"https://49zy1.com/api.php/provide/vod/at/xml/","name":"四九","key":"四九","group":"MV"},
+{"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/","name":"奇虎","key":"奇虎","group":"MV"},
+{"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"hyzy","key":"hyzy","group":"MV"},
 
 {"api":"http://124.220.183.81:83/api.php/provide/vod/at/xml/","name":"干饭","key":"干饭","group":"MV-失效"},
 {"api":"http://anltv.cn/api.php/provide/vod/at/xml/","name":"忆梦","key":"忆梦","group":"MV-失效"},
