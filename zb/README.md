@@ -3,11 +3,7 @@
 
 https://githubfast.com/1j01/98
 
-[LXJ](https://github.com/pcrock88/pcrock88.github.io/edit/main/zb/lxj/README.md)
-
 <details><summary>PCROCK</summary>
-
-ffdss-435,https://video.fedbf.com/20230521/NDYxYjIyYz/172642/720/hls/encrypt/index.m3u8
 
 https://github.com/kokoko3k/xt7-player-mpv
 
