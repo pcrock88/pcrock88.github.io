@@ -13,6 +13,16 @@
 },
 //--------------
 {
+            "key": "shaozeyy",
+            "name": "📺少泽影客",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://yk.shaozeyy.com/api.php/app/"
+        },
+{
             "key": "OK影院",
             "name": "🛸 OK影视",
             "type": 3,
