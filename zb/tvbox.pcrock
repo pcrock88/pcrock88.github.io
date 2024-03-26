@@ -38,31 +38,19 @@
 {"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml/","name":"看看","key":"看看"},
 {"api":"https://jyzyapi.com/provide/vod/at/xml/","name":"金鹰","key":"金鹰"},
 {"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪"},
+
 {"api":"https://lovedan.net/api.php/provide/vod/at/xml/","name":"艾旦","key":"艾旦"},
 {"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"索尼","key":"索尼"},
 {"api":"https://49zy1.com/api.php/provide/vod/at/xml/","name":"四九","key":"四九"},
 {"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/","name":"奇虎","key":"奇虎"},
 {"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"hyzy","key":"hyzy"},
 
+/*
 {"api":"https://api.yparse.com/api/xml/","name":"云播","key":"云播"},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml/","name":"每天","key":"每天"},
 {"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
 {"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","name":"红牛","key":"红牛"},
 
-{"key":"csp_AList","name":"小雅｜云盘","type":3,"playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,
-"ext":{"vodPic":"https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png",
-"drives":[
-    {"name": "Ecve","server": "https://pan.ecve.cn/"},
-    {"name": "小鸭","server": "https://pan.mediy.cn/"},
-    {"name": "秋雨","server": "https://share.qiuyu.org/"},
-    {"name": "小雅","server": "http://alist.xiaoya.pro/"},
-    {"name": "七米蓝","server": "https://al.chirmyram.com/"},
-    {"name": "蓼茶","server": "http://175.178.16.226:62494/"},
-    {"name": "柯南","server": "https://alist.523.monster/"},
-    {"name": "老谭","server": "https://pan.cqtjy.cn/ali"}
-
-]}},
-/*
 {"api":"https://m3u8.songshuzy.com/api.php/provide/vod/at/xml/","name":"松鼠","key":"松鼠"},
 {"api":"https://www.xy1080.net/api.php/provide/vod/at/xml/","name":"剪影","key":"剪影"},
 {"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml/","name":"人人","key":"人人"},
