@@ -13,6 +13,26 @@
 },
 //--------------
 {
+            "key": "泰泰",
+            "name": "🍀 泰泰 ",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
+            "key": "狐狸",
+            "name": "🦊 狐狸",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+{
             "key": "橘子",
             "name": "🍊 橘子",
             "type": 3,
