@@ -5,7 +5,7 @@
 //--------------
 {
 "api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"https://pcrock.gitee.io/","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#蓝鲸直播$https://raw.kkgithub.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/tvbox_live.txt"
+"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt"
 },
 //--------------
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
