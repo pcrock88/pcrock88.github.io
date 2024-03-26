@@ -13,6 +13,18 @@
 },
 //--------------
 {
+            "key": "OK影院",
+            "name": "🛸 OK影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.okdyw.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"
+            }
+        },
+{
             "key": "天天",
             "name": "🐯 天天",
             "type": 3,
