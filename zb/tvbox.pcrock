@@ -74,7 +74,7 @@
 {"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/","name":"奇虎","key":"奇虎"},
 {"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"hyzy","key":"hyzy"},
 {"api":"https://jszyapi.com/api.php/provide/vod/at/xml/","name":"极速","key":"极速"},
-{"api":"https://zzdj.cc/api.php/provide/vod/at/xml/","name":"短剧","key":"短剧"},
+{"api":"http://zzdj.cc/api.php/provide/vod/at/xml/","name":"短剧","key":"短剧"},
 {"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml/","name":"横版","key":"横版"},
 {"api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","name":"ffzy","key":"ffzy"},
 {"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/at/xml/","name":"AI1","key":"AI1"},
