@@ -35,8 +35,19 @@
 {
 "api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"https://pcrock.gitee.io/","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt"
-},
+}，
 //--------------
+{
+"key": "snzy",
+"name": "🥑小小资源",
+"type": 1,
+"api": "https://suoniapi.com/api.php/provide/vod/",
+"playUrl": "",
+"searchable": 0,
+"quickSearch": 0,
+"categories": [
+"国产剧","国产动漫","韩剧", "日剧","泰剧","台剧","港剧","美剧", "爽文短剧","日韩动漫", "足球", "篮球", "剧情片", "动作片", "爱情片", "喜剧片"]
+},
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {"api":"https://49zyw.com/api.php/provide/vod/at/xml/","name":"49zy","key":"49zy"},
 {"api":"http://154.3.2.163/api.php/provide/vod/at/xml/","name":"业余","key":"业余"},
