@@ -55,10 +55,10 @@
 {"api":"https://cj.lzcaiji.com/api.php/provide/vod/at/xml/","name":"横版","key":"横版"},
 {"api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","name":"ffzy","key":"ffzy"},
 {"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/at/xml/","name":"AI1","key":"AI1"},
-{"api":"http://124.222.116.5/mb/api.php/provide/vod/at/xml/","name":"AI2(仅搜索)","key":"AI2(仅搜索)"},
-{"api":"http://124.222.30.115/mb/api.php/provide/vod/at/xml/","name":"AI3(仅搜索)","key":"AI3(仅搜索)"},
+{"api":"http://124.222.116.5/mb/api.php/provide/vod/","name":"AI2(仅搜索)","key":"AI2(仅搜索)","type":1,"searchable":1,"changeable":1},
+{"api":"http://124.222.30.115/mb/api.php/provide/vod/","name":"AI3(仅搜索)","key":"AI3(仅搜索)","type":1,"searchable":1,"changeable":1},
+{"api":"https://www.hongniuzy2.com/api.php/provide/vod/","key":"红牛","name":"红牛","type":1,"searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 
-{"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","name":"红牛","key":"红牛"},
 {"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
 {"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml/","name":"每天","key":"每天"},
 
