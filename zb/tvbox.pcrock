@@ -1,34 +1,9 @@
 {
-"spider": "https://szyyds.cn/tv/cc.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "warningText":"pcrock接口完全免费，切勿付费购买！",
 "lives":[
 {"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-],
-"drives":[
-{"name":"杜比","server":"https://dubi.tk","type":"alist"},
-{"name":"帅鹏","server":"https://hi.shuaipeng.wang","type":"alist"},
-{"name":"🔮米奇妙妙屋","server":"https://anime.mqmmw.ga","type":"alist"},
-{"name":"🥗小雅的盘","server":"http://alist.xiaoya.pro","type":"alist"},
-{"name":"📀纪录片","server":"https://al.chirmyram.com/mov/纪录片","type":"alist"},
-{"name":"🌊七米蓝","server":"https://al.chirmyram.com","type":"alist"},
-{"name":"🌊小江","server":"https://dyj.me","type":"alist"},
-{"name":"🐋一只鱼","server":"https://alist.youte.ml","type":"alist"},
-{"name":"🅰️AR7资源","server":"https://alist.arhomenet.tk","type":"alist"},
-{"name":"🚆资源小站","server":"https://pan.142856.xyz","type":"alist"},
-{"name":"🌤晴园的宝藏库","server":"https://alist.52qy.repl.co","type":"alist"},
-{"name":"💂小兵组网盘影视","server":"https://6vv.app","type":"alist"},
-{"name":"🥼帅盘","server":"https://hi.shuaipeng.wang","type":"alist"},
-{"name":"🐉神族九帝","server":"https://alist.shenzjd.com","type":"alist"},
-{"name":"☃姬路白雪","server":"https://pan.jlbx.xyz","type":"alist"},
-{"name":"💾DISK","server":"http://124.222.140.243:8080","type":"alist"},
-{"name":"✨星梦","server":"https://pan.bashroot.top","type":"alist"},
-{"name":"💫触光","server":"https://pan.ichuguang.com","type":"alist"},
-{"name":"🕵好汉吧","server":"https://8023.haohanba.cn","type":"alist"},
-{"name":"🎡资源小站","server":"https://960303.xyz/","type":"alist"},
-{"name":"🎢轻弹浅唱","server":"https://g.xiang.lol","type":"alist"},
-{"name":"🦀9T","server":"https://drive.9t.ee","type":"alist"}
 ],
 "sites": [
 //--------------
@@ -37,17 +12,7 @@
 "ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt"
 }，
 //--------------
-{
-"key": "snzy",
-"name": "🥑小小资源",
-"type": 1,
-"api": "https://suoniapi.com/api.php/provide/vod/",
-"playUrl": "",
-"searchable": 0,
-"quickSearch": 0,
-"categories": [
-"国产剧","国产动漫","韩剧", "日剧","泰剧","台剧","港剧","美剧", "爽文短剧","日韩动漫", "足球", "篮球", "剧情片", "动作片", "爱情片", "喜剧片"]
-},
+{"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"小小","key":"小小"},
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {"api":"https://49zyw.com/api.php/provide/vod/at/xml/","name":"49zy","key":"49zy"},
 {"api":"http://154.3.2.163/api.php/provide/vod/at/xml/","name":"业余","key":"业余"},
