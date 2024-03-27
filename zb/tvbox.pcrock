@@ -49,13 +49,16 @@
 {"api":"https://49zy1.com/api.php/provide/vod/at/xml/","name":"四九","key":"四九"},
 {"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/","name":"奇虎","key":"奇虎"},
 {"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"hyzy","key":"hyzy"},
+{"api":"https://jszyapi.com/api.php/provide/vod/","name":"极速","key":"极速"},
+{"api":"https://zzdj.cc/api.php/provide/vod","name":"短剧","key":"短剧"},
+{"api":"https://cj.lzcaiji.com/api.php/provide/vod/","name":"横版","key":"横版"},
+{"api":"https://www.hongniuzy2.com/api.php/provide/vod/","name":"红牛","key":"红牛"},
+{"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","name":"樱花","key":"樱花"},
+{"api":"http://47.113.126.237:1234/api.php/provide/vod/","name":"每天","key":"每天"},
+
 
 /*
 {"api":"https://api.yparse.com/api/xml/","name":"云播","key":"云播"},
-{"api":"http://47.113.126.237:1234/api.php/provide/vod/at/xml/","name":"每天","key":"每天"},
-{"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/","name":"樱花","key":"樱花"},
-{"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","name":"红牛","key":"红牛"},
-
 {"api":"https://m3u8.songshuzy.com/api.php/provide/vod/at/xml/","name":"松鼠","key":"松鼠"},
 {"api":"https://www.xy1080.net/api.php/provide/vod/at/xml/","name":"剪影","key":"剪影"},
 {"api":"https://www.rrvipw.com/api.php/provide/vod/at/xml/","name":"人人","key":"人人"},
