@@ -1,6 +1,4 @@
 {
-"wallpaper":"https://深色壁纸.xxooo.cf/",
-"warningText":"pcrock接口完全免费,切勿付费购买！",
 "sites":[
 {
 	"api": "https://pcrock88.github.io/dr_py/libs/live2mv.js",
@@ -311,5 +309,7 @@ https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml,+AV在线
 }, {
 	"name": "END",
 	"url": ""
-}]
+}],
+"warningText":"pcrock接口完全免费,切勿付费购买！",
+"wallpaper":"https://深色壁纸.xxooo.cf/"
 }
