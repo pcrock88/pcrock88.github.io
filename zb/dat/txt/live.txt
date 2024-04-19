@@ -5,6 +5,8 @@ CGTN-法,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN-阿,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 CGTN-俄,https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 CGTN-英,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+香港,#genre#
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 海外频道,#genre#
 love nature 4k1,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
 云南,#genre#
