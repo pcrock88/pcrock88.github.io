@@ -17,9 +17,6 @@ love nature 4k1,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f
 美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
 昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
 昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
-昆明公共,https://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
-昆明科学教育,https://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
-昆明经济生活,https://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
 
 明星电影直播,#genre#
 林正英,http://cfss.cc/cdn/hy/11342421.flv
