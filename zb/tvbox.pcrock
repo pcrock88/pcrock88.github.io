@@ -8,7 +8,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt"
+	"ext": "pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#18+$https://pcrock88.github.io/zb/dat/txt/18+.txt"
 },
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"索尼","key":"索尼"},
