@@ -22,9 +22,3 @@ CGTN-英,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 李连杰,http://cfss.cc/cdn/hy/11342390.flv
 黄  渤,http://cfss.cc/cdn/hy/11352876.flv
 古天乐,http://cfss.cc/cdn/hy/11602041.flv
-河南,#genre#
-睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
-移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
-武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
