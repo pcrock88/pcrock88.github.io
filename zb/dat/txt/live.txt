@@ -13,6 +13,15 @@ CGTN-英,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
 美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
+明星电影,#genre#
+林正英,http://cfss.cc/cdn/hy/11342421.flv
+刘德华,http://cfss.cc/cdn/hy/11342424.flv
+周星驰,http://cfss.cc/cdn/hy/11336587.flv
+成  龙,http://cfss.cc/cdn/hy/11342386.flv
+沈  腾,http://cfss.cc/cdn/hy/11601968.flv
+李连杰,http://cfss.cc/cdn/hy/11342390.flv
+黄  渤,http://cfss.cc/cdn/hy/11352876.flv
+古天乐,http://cfss.cc/cdn/hy/11602041.flv
 河南,#genre#
 睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
