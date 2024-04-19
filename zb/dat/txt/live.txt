@@ -1,4 +1,5 @@
 CGTN,#genre#
+cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8#http://58.35.70.169:10055/live/cctv01/hls.m3u8#http://120.7.86.47:808/hls/1/index.m3u8#http://123.14.86.181:8888/hls/1/index.m3u8#http://171.105.178.56:4022/udp/239.81.0.102:4056#http://111.11.98.205:9900/hls/1/index.m3u8#http://1.83.163.43:8888/rtp/239.112.205.59:5140
 CGTN-纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN-西,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN-法,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
@@ -7,6 +8,8 @@ CGTN-俄,https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 CGTN-英,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 香港,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+
 海外频道,#genre#
 love nature 4k1,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
 云南,#genre#
