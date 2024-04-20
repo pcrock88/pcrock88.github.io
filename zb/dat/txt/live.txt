@@ -1,5 +1,7 @@
 CGTN,#genre#
 cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8#http://58.35.70.169:10055/live/cctv01/hls.m3u8#http://120.7.86.47:808/hls/1/index.m3u8#http://123.14.86.181:8888/hls/1/index.m3u8#http://171.105.178.56:4022/udp/239.81.0.102:4056#http://111.11.98.205:9900/hls/1/index.m3u8#http://1.83.163.43:8888/rtp/239.112.205.59:5140#http://221.234.143.214:8880/rtp/239.254.96.96:8550#http://www.8700956.top:18888/udp/239.81.0.102:4056#http://120.7.86.11:808/hls/1/index.m3u8
+cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8#http://58.35.70.169:10055/live/cctv05/hls.m3u8#http://119.98.37.200:5555/rtp/239.69.1.123:10376#http://ynxsj.7766.org:9901/tsfile/live/0005_1.m3u8#http://125.82.171.210:8888/rtp/235.254.198.122:1764#http://fxgm.fxjf.work:19901/tsfile/live/0005_1.m3u8
+cctv9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8#http://58.35.70.169:10055/live/cctv09/hls.m3u8#http://110.178.52.190:8085/udp/239.1.1.16:8016
 CGTN-纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN-西,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN-法,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
