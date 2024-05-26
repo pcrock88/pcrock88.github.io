@@ -113,6 +113,7 @@ https://kudianzy.com/api.php/provide/vod/at/xml/,酷点
 {"api":"http://f2dcj6.com/sapi?ac=videolist","name":"+富二代","key":"+富二代"},
 {"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","name":"+番号","key":"+番号"},
 {"api":"http://lbapiby.com/api.php/provide/vod/at/xml/","name":"+AIvin","key":"+AIvin"},
+{"api":"https://api.ddapi.cc/api.php/provide/vod/at/xml/","name":"滴滴","key":"滴滴"},
 {"api":"http://llzxcj.com/inc/sck.php?ac=videolist","name":"+利来","key":"+利来"},
 {"api":"http://wmcj8.com/inc/sapi.php","name":"+环亚","key":"+环亚"},
 {"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","name":"+老鸭","key":"+老鸭"},
