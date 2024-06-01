@@ -29,7 +29,7 @@
 {"api":"https://www.huyaapi.com/api.php/provide/vod/at/xml/","name":"HYcj","key":"HYcj","group":"MV"},
 {"api":"https://www.inmi.app/api.php/provide/vod/at/xml/","name":"映迷","key":"映迷","group":"MV"},
 {"api":"https://xkanzy10.com/api.php/provide/vod/at/xml/","name":"享看","key":"享看","group":"MV"},
-{"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml/"，"name":"看看","key":"看看","group":"MV"},
+{"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml/","name":"看看","key":"看看","group":"MV"},
 {"api":"https://jyzyapi.com/provide/vod/at/xml/","name":"金鹰","key":"金鹰","group":"MV"},
 {"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","name":"新浪","key":"新浪","group":"MV"},
 {"api":"https://lovedan.net/api.php/provide/vod/at/xml/","name":"艾旦","key":"艾旦","group":"MV"},
