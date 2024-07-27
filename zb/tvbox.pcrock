@@ -12,6 +12,9 @@
 },
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
 {"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"索尼","key":"索尼"},
+
+{"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/","name":"爱酷","key":"爱酷"},
+
 {"api":"http://154.3.2.163/api.php/provide/vod/at/xml/","name":"业余","key":"业余"},
 {"api":"https://lovedan.net/api.php/provide/vod/at/xml/","name":"艾旦","key":"艾旦"},
 {"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/","name":"奇虎","key":"奇虎"},
