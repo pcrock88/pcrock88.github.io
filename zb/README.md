@@ -1,4 +1,5 @@
 ![](https://pcrock88.github.io/favicon.ico)
+
 https://github.com/daidodo/diablo_edit
 
 https://githubfast.com/1j01/98
