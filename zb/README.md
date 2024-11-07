@@ -1,4 +1,7 @@
 ![](https://pcrock88.github.io/favicon.ico)
+
+https://github.com/Adnini983/PvZHB-CheatTables
+
 https://github.com/CsCN-CBJ/autoPVZ
 
 https://github.com/daidodo/diablo_edit
