@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小学生数学题生成器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            display: block;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        #options {
+            display: block;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            box-sizing: border-box;
+            width: 500px;
+			line-height: 35px;
+        }
+
+        label {
+            margin-right: 10px;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        button {
+    padding: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+        }
+
+        #questions {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .question {
+            width: 48%;
+            box-sizing: border-box;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+
+        .answer {
+            display: none;
+            font-size: 16px;
+        }
+
+        #printHeader {
+            display: none;
+            margin-bottom: 20px;
+        }
+
+        @media print {
+            #printHeader {
+                display: block;
+                text-align: center;
+                margin-bottom: 30px; 
+            }
+
+            body {
+                margin: 30px; 
+            }
+
+            .column {
+                display: inline-block;
+                width: 48%;
+                box-sizing: border-box;
+                margin-bottom: 20px;
+                break-before: auto; 
+            }
+
+            .question {
+                page-break-inside: avoid; 
+            }
+
+            @page {
+                size: A4;
+                margin: 25mm 10mm 25mm 10mm;
+            }
+
+            .question:nth-child(n+21) {
+                display: none;
+            }
+        }
+		div#printHeader {
+    text-align: center;
+    margin-bottom: 15px;
+}
+    </style>
+</head>
+<body>
+    <div class="hd1" style="text-align:center;font-size:35px;background-color: #4CAF50;min-height: 100px;padding-top: 50px;"><font>小学生数学题生成器</font></div>
+    <div id="options">运算符号：
+        <label>
+            <input type="checkbox" id="additionCheckbox" checked="checked"> 加法
+        </label>
+        <label>
+            <input type="checkbox" id="subtractionCheckbox"> 减法
+        </label>
+        <label>
+            <input type="checkbox" id="multiplicationCheckbox"> 乘法
+        </label>
+        <label>
+            <input type="checkbox" id="divisionCheckbox"> 除法
+        </label>
+        <br>
+        <label>
+            数字个数：<input type="number" id="numOfDigits" value="2" min="1" style="width: 50px;">
+        </label> <br>
+        <label>
+            允许小数：<input type="checkbox" id="allowDecimal">
+        </label>
+        <br>
+        <label>
+            数字范围：
+            <label><input type="number" id="minRange" value="1" min="1" style="width: 50px;"></label>-
+            <label><input type="number" id="maxRange" value="100" min="1" style="width: 50px;"></label>
+        </label>
+        <br>
+        <label>
+            出题数量：<input type="number" id="numOfQuestions" value="30" min="1" style="width: 50px;">
+        </label>
+        <br>
+        <button onclick="generateQuestions()">生成题目</button>
+        <button onclick="printQuestions()">一键打印</button>
+        <button onclick="toggleAnswers()">显示/隐藏答案</button>
+    </div>
+
+    <div id="questions"></div>
+
+    <script>
+
+		function generateQuestions() {
+            const addition = document.getElementById("additionCheckbox").checked;
+            const subtraction = document.getElementById("subtractionCheckbox").checked;
+            const multiplication = document.getElementById("multiplicationCheckbox").checked;
+            const division = document.getElementById("divisionCheckbox").checked;
+            const numOfDigits = document.getElementById("numOfDigits").value;
+            const allowDecimal = document.getElementById("allowDecimal").checked;
+            const minRange = parseInt(document.getElementById("minRange").value);
+            const maxRange = parseInt(document.getElementById("maxRange").value);
+            const numOfQuestions = document.getElementById("numOfQuestions").value;
+
+            const questionsContainer = document.getElementById("questions");
+            questionsContainer.innerHTML = "";
+
+            for (let i = 0; i < numOfQuestions; i++) {
+                let validQuestion = false;
+                let questionText, answerText;
+
+                while (!validQuestion) {
+                    const operators = getRandomOperators(addition, subtraction, multiplication, division, numOfDigits);
+                    const numbers = generateNumbers(numOfDigits, allowDecimal, minRange, maxRange);
+                    questionText = generateQuestionText(numbers, operators, allowDecimal);
+                    answerText = calculateAnswer(numbers, operators, allowDecimal).toFixed(allowDecimal ? 2 : 0);
+
+                    if (!containsNegativeNumber(questionText) && answerText >= 0) {
+                        validQuestion = true;
+                    }
+                }
+
+                const questionDiv = document.createElement("div");
+                questionDiv.classList.add("question");
+
+                questionDiv.innerHTML = `<span>${questionText}</span><span class="answer">${parseFloat(answerText)}</.toFixed(2)}</span>`;
+                questionsContainer.appendChild(questionDiv);
+            }
+        }
+
+        function getRandomOperators(addition, subtraction, multiplication, division, numOfDigits) {
+            const availableOperators = [];
+            if (addition) availableOperators.push('+');
+            if (subtraction) availableOperators.push('-');
+            if (multiplication && numOfDigits >= 2) availableOperators.push('*');
+            if (division && numOfDigits >= 2) availableOperators.push('/');
+
+            const selectedOperators = [];
+            for (let i = 0; i < numOfDigits - 1; i++) {
+                const randomOperator = availableOperators[Math.floor(Math.random() * availableOperators.length)];
+                selectedOperators.push(randomOperator);
+            }
+
+            return selectedOperators;
+        }
+
+        function generateQuestionText(numbers, operators, allowDecimal) {
+            let questionText = numbers[0].toString();
+            for (let i = 0; i < operators.length; i++) {
+                const operator = operators[i];
+                const num = allowDecimal ? parseFloat(numbers[i + 1]).toFixed(2) : parseInt(numbers[i + 1]);
+                questionText += ` ${operator.replace('*', 'x').replace('/', '÷')} ${num}`;
+            }
+            questionText += ' =';
+
+            return questionText;
+        }
+
+        function generateNumbers(numOfDigits, allowDecimal, minRange, maxRange) {
+            const randomNumber = () => allowDecimal 
+                ? (Math.random() * (maxRange - minRange) + minRange).toFixed(2)
+                : Math.floor(Math.random() * (maxRange - minRange + 1)) + minRange;
+
+            const numbers = [];
+            for (let i = 0; i < numOfDigits; i++) {
+                numbers.push(randomNumber());
+            }
+            return numbers;
+        }
+
+        function calculateAnswer(numbers, operators, allowDecimal) {
+            const calculateMulDiv = (nums, ops) => {
+                for (let i = 0; i < ops.length; i++) {
+                    if (ops[i] === '*' || ops[i] === '/') {
+                        const result = ops[i] === '*' ? nums[i] * nums[i + 1] : nums[i] / nums[i + 1];
+                        nums.splice(i, 2, result);
+                        ops.splice(i, 1);
+                        i--;
+                    }
+                }
+            };
+
+            const nums = numbers.map(num => parseFloat(num));
+            const ops = operators.map(op => op);
+
+            calculateMulDiv(nums, ops);
+
+            let result = nums[0];
+            for (let i = 0; i < ops.length; i++) {
+                const num = nums[i + 1];
+                const operator = ops[i];
+
+                switch (operator) {
+                    case '+':
+                        result += num;
+                        break;
+                    case '-':
+                        result -= num;
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            return allowDecimal
+                ? parseFloat(result.toFixed(2))
+                : parseInt(result);
+        }
+
+        function containsNegativeNumber(questionText) {
+            const parts = questionText.split(' ');
+            for (let i = 0; i < parts.length; i++) {
+                if (parseFloat(parts[i]) < 0) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        function printQuestions() {
+            const printWindow = window.open('', '_blank');
+            const printContent = document.getElementById("questions").innerHTML;
+
+            printWindow.document.write(`
+                <html lang="zh">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>打印题目</title>
+                    <style>
+                        body {
+                            font-family: Arial, sans-serif;
+                            margin: 30px; 
+                        }
+
+                        .column {
+                            display: inline-block;
+                            width: 48%;
+                            box-sizing: border-box;
+                            margin-bottom: 20px;
+                        }
+
+                        .question {
+                            padding: 10px;
+                            background-color: #fff;
+                            border-radius: 5px;
+                            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                            margin-bottom: 10px;
+                            font-size: 18px;
+                        }
+
+                        .answer {
+                            display: none;
+                            font-size: 16px;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div id="printHeader" style="text-align: center;margin-bottom: 20px;">
+                        <div>姓名：_________ 日期：____月____日 时间：________ 答对：_______题</div>
+                    </div>
+                    <div class="column" id="column1"></div>
+                    <div class="column" id="column2"></div>
+                </body>
+                </html>
+            `);
+
+            const column1 = printWindow.document.getElementById("column1");
+            const column2 = printWindow.document.getElementById("column2");
+            const questions = document.querySelectorAll('.question');
+
+            let countColumn1 = 0;
+            let countColumn2 = 0;
+
+            questions.forEach((question, index) => {
+                const column = index % 2 === 0 ? column1 : column2;
+                const clonedQuestion = question.cloneNode(true);
+
+                // Replace answer content with formatted answer
+                const answerElement = clonedQuestion.querySelector('.answer');
+                const answerText = answerElement.textContent;
+                answerElement.textContent = parseFloat(answerText).toFixed(2);
+
+                column.appendChild(clonedQuestion);
+
+                if (index % 2 === 0) {
+                    countColumn1++;
+                } else {
+                    countColumn2++;
+                }
+            });
+
+            printWindow.document.close();
+            printWindow.print();
+        }
+
+        function toggleAnswers() {
+            const answers = document.querySelectorAll('.answer');
+            answers.forEach(answer => {
+                answer.style.display = (answer.style.display === 'none' || answer.style.display === '') ? 'inline' : 'none';
+            });
+        }
+		
+		
+    </script>
+</body>
+</html>
