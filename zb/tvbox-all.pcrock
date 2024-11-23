@@ -3,7 +3,7 @@
 "lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"api":"https://pcrock88.github.io/dr_py/libs/live2mv.js","name":"https://pcrock.gitee.io/","key":"pcrock","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt"},
+"ext":"pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#连续剧$https://pcrock88.github.io/zb/dat/txt/lxj.txt"},
 
 {"key":"小苹果","name":"小苹果(sp)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"360(sp)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
