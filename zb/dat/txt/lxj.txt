@@ -1,3 +1,5 @@
+动漫电影,#genre#
+熊出没·逆转时空,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/d59d8e5065c4426dbb2780ea3dfcb8b2/main.m3u8
 0-9,#genre#
 0-9,https://pcrock88.github.io/zb/dat/txt/lxj/0-9.txt
 A,#genre#
