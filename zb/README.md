@@ -1,5 +1,7 @@
 ![](https://pcrock88.github.io/favicon.ico)
 
+https://github.com/xxnuo/MusicFreePluginsHub
+
 https://github.com/wlm3201/Masonry_Image_Viewer
 
 https://github.com/Adnini983/PvZHB-CheatTables
