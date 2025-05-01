@@ -11,7 +11,7 @@
 	"ext": "pcrock$https://pcrock88.github.io/zb/dat/txt/live.txt#18+$https://pcrock88.github.io/zb/dat/txt/18+.txt"
 },
 {"api":"https://hhzyapi.com/api.php/provide/vod/at/xml/","name":"火狐","key":"火狐"},
-{"api":"http://ios.bxguwen.com/vod/","name":"香蕉","key":"香蕉"},
+{"api":"http://ios.bxguwen.com/vod/listing-0-0-0-0-0-0-2-0-0-1","name":"香蕉","key":"香蕉"},
 {"api":"https://suoniapi.com/api.php/provide/vod/at/xml/","name":"索尼","key":"索尼"},
 {"api":"http://154.3.2.163/api.php/provide/vod/at/xml/","name":"业余","key":"业余"},
 {"api":"https://lovedan.net/api.php/provide/vod/at/xml/","name":"艾旦","key":"艾旦"},
