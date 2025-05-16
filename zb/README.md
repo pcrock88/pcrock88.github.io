@@ -1,12 +1,15 @@
 ![](https://pcrock88.github.io/favicon.ico)
 
+<details><summary>m3u</summary>
+
 [教材](https://github.com/TapXWorld/ChinaTextbook)
+[MusicFree 源插件](https://github.com/xxnuo/MusicFreePluginsHub)
+[瀑布流本地图片浏览器](https://github.com/wlm3201/Masonry_Image_Viewer)
+[](https://github.com/Adnini983/PvZHB-CheatTables)
 
-https://github.com/xxnuo/MusicFreePluginsHub
+</details>
 
-https://github.com/wlm3201/Masonry_Image_Viewer
 
-https://github.com/Adnini983/PvZHB-CheatTables
 
 https://github.com/CsCN-CBJ/autoPVZ
 
