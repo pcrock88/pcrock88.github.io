@@ -1,12 +1,9 @@
 ![](https://pcrock88.github.io/favicon.ico)
 ---
 
-<details><summary>pcrock</summary>
-A|B|C|D|E
-----|----
-[xt7-player-mpv](https://github.com/kokoko3k/xt7-player-mpv)|[Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer/)|[cyao2q](https://github.com/cyao2q/)|[CatVodOpen](https://github.com/catvod/CatVodOpen)|[TVBOXZY](https://github.com/njfkib/TVBOXZY)
-[教材](https://github.com/TapXWorld/ChinaTextbook)|[MusicFree插件](https://github.com/xxnuo/MusicFreePluginsHub)|[瀑布流浏览器](https://github.com/wlm3201/Masonry_Image_Viewer)|[PVZ多改版CT表](https://github.com/Adnini983/PvZHB-CheatTables)|[大战僵尸脚本](https://github.com/CsCN-CBJ/autoPVZ)
-[暗黑编辑器](https://github.com/daidodo/diablo_edit)|[cctv.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)|[tvbox.json](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/tvbox.json)|[fl.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/fl.txt)|[zy.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/zy.txt)
+<details><summary>收集</summary>
+
+[xt7-player-mpv](https://github.com/kokoko3k/xt7-player-mpv)、[Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer/)、[cyao2q](https://github.com/cyao2q/)、[CatVodOpen](https://github.com/catvod/CatVodOpen)、[TVBOXZY](https://github.com/njfkib/TVBOXZY)、[教材](https://github.com/TapXWorld/ChinaTextbook)、[MusicFree插件](https://github.com/xxnuo/MusicFreePluginsHub)、[瀑布流浏览器](https://github.com/wlm3201/Masonry_Image_Viewer)、[PVZ多改版CT表](https://github.com/Adnini983/PvZHB-CheatTables)、[大战僵尸脚本](https://github.com/CsCN-CBJ/autoPVZ)、[暗黑编辑器](https://github.com/daidodo/diablo_edit)、[cctv.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/dat/txt/cctv.txt)、[tvbox.json](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/tvbox.json)、[fl.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/fl.txt)、[zy.txt](https://github.com/pcrock88/pcrock88.github.io/blob/main/zb/zy.txt)
 </details>
 
 <details><summary>xml接口</summary>
