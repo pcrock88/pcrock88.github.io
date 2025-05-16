@@ -1,5 +1,7 @@
 ![](https://pcrock88.github.io/favicon.ico)
 
+[教材](https://github.com/TapXWorld/ChinaTextbook)
+
 https://github.com/xxnuo/MusicFreePluginsHub
 
 https://github.com/wlm3201/Masonry_Image_Viewer
