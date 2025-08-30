@@ -6,6 +6,11 @@ FM - 郁南音乐$https://lhttp.qingting.fm/live/20026/64k.mp3
 FM - 80后音悦$https://lhttp.qingting.fm/live/20207761/64k.mp3
 FM - 星河音乐$https://lhttp.qingting.fm/live/20210755/64k.mp3
 FM - 亚洲天空$https://lhttp.qingting.fm/live/20071/64k.mp3
+Dogma-Made Her Mine$https://music.163.com/song/media/outer/url?id=2092422723.mp3
+Dogma-Father I Have Sinned$https://music.163.com/song/media/outer/url?id=2092422727.mp3
+Dogma-Feel The Zeal$https://music.163.com/song/media/outer/url?id=2092422029.mp3
+Dogma-My First Peak$https://music.163.com/song/media/outer/url?id=2092422030.mp3
+The Cranberries-Zombie$https://music.163.com/song/media/outer/url?id=4330114.mp3
 窦唯 - 明天更漫长$https://music.163.com/song/media/outer/url?id=1999384417.mp3
 贝多芬 - 春天奏鸣曲第一乐章$http://stream.nlc.cn/issue/0kebx/2023audio/book/M330132023_000187/M330132023_000187_1.mp3
 蓝兰 - 最远的你是我最近的爱$https://music.163.com/song/media/outer/url?id=1965420087.mp3
