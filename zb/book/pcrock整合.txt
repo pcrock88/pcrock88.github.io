@@ -5,10 +5,10 @@
   "enabled": true,
   "enabledCookieJar": true,
   "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 8.1.0; JKM-AL00b Build/HUAWEIJKM-AL00b; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044807 Mobile Safari/537.36\"}",
-  "jsLib": "\n\nfunction bDe(data){const{java}=this;return java.base64Decode(data.match(/base64,(.*?),/)[1])}",
+  "jsLib": "function bDe(data){const{java}=this;return java.base64Decode(data.match(/base64,(.*?),/)[1])}",
   "lastUpdateTime": 0,
   "loadWithBaseUrl": true,
-  "loginUrl": "function login() {}",
+  "loginCheckJs": "function login() {}",
   "ruleArticles": "<js>json=[];listStr=bDe(baseUrl);list=listStr.split('\\n');for(i=0;i<list.length;i++){let index=/【(.*?)】/.test(list[i])?list[i].match(/【(.*?)】/)[1]:\"\";let src=/@(.*?)@/.test(list[i])?list[i].match(/@(.*?)@/)[1]:\"\";let text=/《(.*?)》/.test(list[i])?list[i].match(/《(.*?)》/)[1]:\"\";let intro=/『(.*?)』/.test(list[i])?list[i].match(/『(.*?)』/)[1]:\"\";json.push({index:index,src:src,text:text,intro:intro})}JSON.stringify(json)</js>$.[*]",
   "ruleImage": "$.src",
   "ruleLink": "$.index",
@@ -21,5 +21,5 @@
   "sourceIcon": "https://pcrock88.github.io/favicon.ico",
   "sourceName": "0-pcrock整合",
   "sourceUrl": "pcrock",
-  "variableComment": "http://pcrock.hkfree.work/pcrock/bookbak/pcrock-订阅.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-书源.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-搜索.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-未分类.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-语音.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/通用.json"
+  "variableComment": "https://pcrock88.github.io/zb/book/pcrock整合.txt\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-订阅.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-书源.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-搜索.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-未分类.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/pcrock-语音.json\nhttp://pcrock.hkfree.work/pcrock/bookbak/通用.json"
 }
