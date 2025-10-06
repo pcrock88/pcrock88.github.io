@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0">
+    <title>随心导入</title>
+    <style>
+        @keyframes tip{0%{opacity:0;transform:translateY(-24px)}30%,70%{opacity:1;transform:translateY(0)}100%{opacity:0}}*{line-height:1em;margin:0;padding:0;word-break:break-all;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}*:focus{outline:none}textarea{-webkit-user-select:auto}body{background:#f4f5f7;display:flex;flex-wrap:wrap;place-content:center;place-items:start;padding:15px;color:#001944}.card{border-top:.5px solid rgba(255,255,255,.9);border-radius:24px;background:rgba(255,255,255,.8);box-shadow:0 10px 20px rgba(0,0,0,.05);padding:30px;margin:12.5px;width:250px;height:auto}.card details+div{overflow:hidden;max-height:0;opacity:0;transition:.6s}.card details[open]+div{max-height:250px;opacity:1}.card details summary{font-size:24px;font-weight:700;user-select:none;outline:0;opacity:.4;transition:.6s;display:block;list-style:none}.card details[open] summary{opacity:1;margin-bottom:6px;font-size:20.5px}.flex{display:flex;flex-wrap:wrap;place-items:center;place-content:center}.links{max-width:300px}.grid{display:grid;grid-template-columns:1fr 2fr;margin:4.5px 0;padding:9px 0;width:275px;font-size:14px;font-family:serif;border-radius:12px;color:#333;border:2px solid rgba(0,0,0,.1);background:rgba(255,255,255,.006)}.grid .flex:first-child{border-right:1px solid rgba(0,0,0,.1);padding:9px}.grid button{padding:0;margin:4.5px 9px;background:none;font-weight:400;font-family:serif}.tip{position:fixed;z-index:9;top:45px;border-radius:.75em;padding:.9em;background-color:rgba(99,99,99,.9);box-shadow:0 5px 20px rgba(0,0,0,.2);color:#fff;opacity:0;animation:tip 1s;backdrop-filter:blur(15px)}.txt-box{position:relative}.txt-box button{position:absolute;top:19px;margin:0;padding:.3em;border-radius:.3em;background:rgba(0,0,0,.15);color:#fff;font-size:12px;z-index:9;display:none}.clear-btn{right:9px}.copy-btn{right:44px}.txt-box:hover .clear-btn,.txt-box:hover .copy-btn{display:block}button{font-size:13.5px;font-weight:700;color:#4360b7;background:#e7eeff;padding:.65em .9em;margin-top:9px;margin-right:9px;opacity:.81;border-radius:2em;border:none;transition:.3s;cursor:pointer}button:active{background:#d6ddee;transform:scale(.95)}textarea{margin-top:9px;padding:9px;width:100%;box-sizing:border-box;line-height:1.2em;font-size:14px;font-family:serif;resize:none;border-radius:9px;color:#333;border:2px solid rgba(0,0,0,.1);background:rgba(0,0,0,.006)}.select-wrapper{display:flex;align-items:center;margin-top:9px;border:2px solid rgba(0,0,0,.1);border-radius:9px;overflow:hidden;font-size:14px;color:#333}.import-select{flex:1;padding:9px;border:none;appearance:none;font-family:serif;font-size:14px;background:rgba(0,0,0,.006);-webkit-appearance:none;-moz-appearance:none}.import-select::-ms-expand{display:none}#import{margin:0;padding:10px 12px;flex-grow:0;border-radius:0;border-left:1px solid rgba(0,0,0,.1)}#import:active{transform:none}
+        </style>
+</head>
+
+<body>
+    <div class="card">
+        <details id="main" open>
+            <summary>随心导入</summary>
+        </details>
+        <div>
+            <div class="txt-box">
+                <button class="clear-btn" onclick="clearText(this)">清空</button>
+                <textarea id="url" rows="4" placeholder="请输入资源链接"></textarea>
+                <button class="copy-btn" onclick="copyText(this)">复制</button>
+            </div>
+            <div class="select-wrapper">
+                <select id="path" class="import-select" name="path">
+                    <option value="auto" selected>自动识别</option>
+                    <option value="bookSource">书源</option>
+                    <option value="rssSource">订阅源</option>
+                    <option value="replaceRule">替换规则</option>
+                    <option value="textTocRule">TXT目录规则</option>
+                    <option value="httpTTS">TTS</option>
+                    <option value="theme">主题</option>
+                    <option value="readConfig">排版</option>
+                    <option value="dictRule">字典规则</option>
+                </select>
+                <button id="import" onclick="importUrl()">导入</button>
+            </div>
+        </div>
+    </div>
+    <div class="flex links">
+        <div class="grid">
+            <div class="flex">书源</div>
+            <div class="flex">
+                <button onclick="setUrl('http://pcrock.hkfree.work/pcrock/bookbak/pcrock-书源.json★1')">pcrock-书源</button>
+                <button onclick="setUrl('http://pcrock.hkfree.work/pcrock/bookbak/pcrock-搜索.json★1')">pcrock-搜索</button>
+                <button onclick="setUrl('http://pcrock.hkfree.work/pcrock/bookbak/pcrock-未分类.json★1')">pcrock-未分类</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/good.json★1')">大灰狼</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/zmn001125/booksources@master/sources/guaner.txt★1')">关耳</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan★1')">漠星曜</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/PB-pobing/pobing@pb/sy.json★1')">破冰</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/XIU2/Yuedu@master/shuyuan★1')">XIU2</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/yc-sy/yd@master/sy.json★1')">一程</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="flex">订阅源</div>
+            <div class="flex">
+                <button onclick="setUrl('http://pcrock.hkfree.work/pcrock/bookbak/pcrock-订阅.json★2')">pcrock-订阅</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/yc-sy/yd@master/dy.json★2')">一程</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/nrhsyd/yd/rss.json★2')">NRHSYD</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="flex">替换规则</div>
+            <div class="flex">
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/jinghua.json★3')">大灰狼</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="flex">TTS</div>
+            <div class="flex">
+				<button onclick="setUrl('http://pcrock.hkfree.work/pcrock/bookbak/pcrock-语音.json★5')">pcrock-语音</button>
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/tts.json★5')">大灰狼</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="flex">主题</div>
+            <div class="flex">
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/nrhsyd/yd/theme.json★6')">NRHSYD</button>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="flex">字典规则</div>
+            <div class="flex">
+                <button onclick="setUrl('https://gcore.jsdelivr.net/gh/nrhsyd/yd/dict.json★8')">NRHSYD</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        const $=(id)=>document.getElementById(id),urlEl=$('url'),path=$('path'),main=$('main'),importEl=$('import'),showTip=(text)=>{const tip=document.createElement("p");tip.className="tip";tip.textContent=text;document.body.appendChild(tip);setTimeout(()=>tip.remove(),2000)},importUrl=()=>{const url=urlEl.value;if(!url)return urlEl.focus();window.open(`yuedu://import/${path.value}?src=`+encodeURIComponent(url))},setUrl=(starSplit)=>{const splitEl=starSplit.split('★');urlEl.value=splitEl[0];path.selectedIndex=parseInt(splitEl[1])||0;main.open=true;importEl.focus();showTip('请点击导入按钮')},clearText=(button)=>{button.nextElementSibling.value="";path.selectedIndex=0;showTip('清空成功')},copyText=(button)=>{const text=button.previousElementSibling.value;if(!text)return showTip('内容为空');navigator.clipboard.writeText(text).then(()=>showTip('复制成功')).catch(()=>showTip('复制失败'))};
+    </script>
+</body>
+
+</html>
